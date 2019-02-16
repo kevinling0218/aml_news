@@ -1,0 +1,7 @@
+name,year_month,sentiment_emb,year,month
+Indonesia Stock Exchange,2017-1,100.0,2017,1
+Trikomsel,2017-2,-100.0,2017,2
+Consumer Electronics,2017-9,100.0,2017,9
+IDX,2017-9,-100.0,2017,9
+Satellite Operators,2017-9,-100.0,2017,9
+Government,2018-4,-100.0,2018,4

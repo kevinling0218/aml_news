@@ -1,0 +1,54 @@
+source,target,link_type,weight
+Frasers Centrepoint,Singapore Exchange,ORGANIZATION,7
+Frasers Centrepoint,OCBC,ORGANIZATION,5
+DBS,Frasers Centrepoint,ORGANIZATION,3
+Frasers Centrepoint,Mapletree Logistics Trust,ORGANIZATION,3
+City Developments Limited,Frasers Centrepoint,ORGANIZATION,3
+Frasers Centrepoint,Noble,ORGANIZATION,3
+Frasers Centrepoint,Frasers Logistics & Industrial Trust,ORGANIZATION,3
+Frasers Centrepoint,Frasers Commercial Trust,ORGANIZATION,3
+Mapletree Logistics Trust,Singapore Exchange,ORGANIZATION,2
+Frasers Centrepoint,Suntec REIT,ORGANIZATION,2
+Lippo Malls Indonesia Retail Trust,Mapletree Logistics Trust,ORGANIZATION,2
+Noble,Suntec REIT,ORGANIZATION,2
+Frasers Centrepoint,Total Oil,ORGANIZATION,2
+Microsoft,Total Oil,ORGANIZATION,2
+Frasers Centrepoint,Microsoft,ORGANIZATION,2
+FBP,FCOT,ORGANIZATION,2
+FBP,Frasers Centrepoint,ORGANIZATION,2
+FCOT,Frasers Centrepoint,ORGANIZATION,2
+Christopher Tang,Frasers Centrepoint,PERSON,2
+FCOT,Frasers Commercial Trust,ORGANIZATION,2
+FLT,Frasers Centrepoint,ORGANIZATION,2
+Frasers Logistics & Industrial Trust,Greater China Commercial Trust,ORGANIZATION,2
+FBP,Frasers Commercial Trust,ORGANIZATION,2
+Lippo Malls Indonesia Retail Trust,Singapore Exchange,ORGANIZATION,2
+Frasers Centrepoint,JV,ORGANIZATION,2
+CDL Hospitality Trusts,Mapletree Logistics Trust,ORGANIZATION,2
+CDL Hospitality Trusts,Lippo Malls Indonesia Retail Trust,ORGANIZATION,2
+Frasers Centrepoint,Mapletree,ORGANIZATION,2
+Frasers Centrepoint,Lippo Malls Indonesia Retail Trust,ORGANIZATION,2
+CDL Hospitality Trusts,Frasers Centrepoint,ORGANIZATION,2
+Frasers Centrepoint,Greater China Commercial Trust,ORGANIZATION,2
+CDL Hospitality Trusts,Singapore Exchange,ORGANIZATION,2
+DBS,Frasers Logistics & Industrial Trust,ORGANIZATION,2
+Frasers Logistics & Industrial Trust,Mapletree,ORGANIZATION,1
+Frasers Commercial Trust,JV,ORGANIZATION,1
+Frasers Commercial Trust,Frasers Logistics & Industrial Trust,ORGANIZATION,1
+Greater China Commercial Trust,Mapletree,ORGANIZATION,1
+Noble,OCBC,ORGANIZATION,1
+OCBC,Suntec REIT,ORGANIZATION,1
+Mapletree Logistics Trust,OCBC,ORGANIZATION,1
+Mapletree,OCBC,ORGANIZATION,1
+City Developments Limited,DBS,ORGANIZATION,1
+City Developments Limited,Frasers Logistics & Industrial Trust,ORGANIZATION,1
+City Developments Limited,Greater China Commercial Trust,ORGANIZATION,1
+City Developments Limited,Mapletree,ORGANIZATION,1
+DBS,Frasers Commercial Trust,ORGANIZATION,1
+FLT,OCBC,ORGANIZATION,1
+FLT,Mapletree Logistics Trust,ORGANIZATION,1
+DBS,Greater China Commercial Trust,ORGANIZATION,1
+DBS,JV,ORGANIZATION,1
+DBS,Mapletree,ORGANIZATION,1
+FBP,JV,ORGANIZATION,1
+FCOT,JV,ORGANIZATION,1

@@ -1,0 +1,37 @@
+name,year_month,sentiment_emb,year,month
+KPMG LLP,2017-1,-100.0,2017,1
+Standard Chartered Plc,2017-1,-100.0,2017,1
+UBS Group AG,2017-1,-100.0,2017,1
+AFP,2017-3,-100.0,2017,3
+Joe Stadler,2017-3,-100.0,2017,3
+Joe Stadler Appoints,2017-3,-100.0,2017,3
+UBS,2017-3,-100.0,2017,3
+Business Manager,2017-5,100.0,2017,5
+GIC,2017-5,-100.0,2017,5
+Jay Chauhan,2017-5,100.0,2017,5
+UBS,2017-5,0.0,2017,5
+Asia Investment Strategist,2017-7,100.0,2017,7
+Myntra,2017-7,100.0,2017,7
+Patrick Ho,2017-7,100.0,2017,7
+People,2017-7,100.0,2017,7
+Nobel Laureate,2017-8,100.0,2017,8
+Singaporeans,2017-8,100.0,2017,8
+UBS,2017-8,100.0,2017,8
+Nobel,2017-9,100.0,2017,9
+UBS,2017-9,33.33333333333333,2017,9
+UBS Asset Management,2017-9,100.0,2017,9
+Atkinson,2017-10,-100.0,2017,10
+Commerzbank,2017-10,100.0,2017,10
+IBM,2017-10,100.0,2017,10
+Securities and Futures Commission,2017-10,-100.0,2017,10
+Standard Chartered,2017-10,-100.0,2017,10
+Standard Chartered Plc,2017-10,-100.0,2017,10
+UBS,2017-10,0.0,2017,10
+Menon,2018-1,100.0,2018,1
+UBS,2018-1,100.0,2018,1
+UBS,2018-3,-100.0,2018,3
+China,2018-4,-100.0,2018,4
+Goldman Sachs,2018-4,-100.0,2018,4
+Kian Abouhossein,2018-4,-100.0,2018,4
+Morgan Stanley,2018-4,-100.0,2018,4
+UBS,2018-4,-33.33333333333333,2018,4

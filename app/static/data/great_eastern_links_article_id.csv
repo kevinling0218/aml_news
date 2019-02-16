@@ -1,0 +1,409 @@
+source,target,link_type,article_id
+AIA,AXA,ORGANIZATION,great_eastern_00078|great_eastern_00710
+AIA,Advisors Alliance Group,ORGANIZATION,great_eastern_00703|great_eastern_00704|great_eastern_00708|great_eastern_00930|great_eastern_01002
+AIA,Aviva,ORGANIZATION,great_eastern_00078|great_eastern_00268|great_eastern_00710|great_eastern_01099
+AIA,Axa,ORGANIZATION,great_eastern_00268
+AIA,BT,ORGANIZATION,great_eastern_01099
+AIA,Great Eastern,ORGANIZATION,great_eastern_00078|great_eastern_00521|great_eastern_00703|great_eastern_00704|great_eastern_00708|great_eastern_00710|great_eastern_00802|great_eastern_00930|great_eastern_00999|great_eastern_01002|great_eastern_01099
+AIA,IP insurers,ORGANIZATION,great_eastern_00710
+AIA,IP policyholders,PERSON,great_eastern_00521
+AIA,IP providers,ORGANIZATION,great_eastern_00268
+AIA,IPs,ORGANIZATION,great_eastern_00710
+AIA,Lim,PERSON,great_eastern_01002
+AIA,NTUC Income,ORGANIZATION,great_eastern_00078|great_eastern_00268|great_eastern_01099
+AIA,Prudential,ORGANIZATION,great_eastern_00078|great_eastern_00268|great_eastern_00710|great_eastern_01099
+AIA,Singaporeans,PERSON,great_eastern_00802
+AIA,Yahoo News Singapore,ORGANIZATION,great_eastern_01002
+AXA,Aviva,ORGANIZATION,great_eastern_00078|great_eastern_00710
+AXA,Great Eastern,ORGANIZATION,great_eastern_00078|great_eastern_00710
+AXA,IP insurers,ORGANIZATION,great_eastern_00710
+AXA,IPs,ORGANIZATION,great_eastern_00710
+AXA,NTUC Income,ORGANIZATION,great_eastern_00078
+AXA,Prudential,ORGANIZATION,great_eastern_00078|great_eastern_00710
+Advisors Alliance Group,Great Eastern,ORGANIZATION,great_eastern_00703|great_eastern_00704|great_eastern_00708|great_eastern_00930|great_eastern_01002
+Advisors Alliance Group,Lim,PERSON,great_eastern_01002
+Advisors Alliance Group,Yahoo News Singapore,ORGANIZATION,great_eastern_01002
+Aidil,Aidil Sharin,PERSON,great_eastern_00529
+Aidil,Great Eastern,PERSON,great_eastern_00529|great_eastern_00542
+Aidil,Home,PERSON,great_eastern_00529|great_eastern_00542
+Aidil,Home United,PERSON,great_eastern_00529
+Aidil,Hougang,PERSON,great_eastern_00542
+Aidil,Hougang United,PERSON,great_eastern_00529
+Aidil,Hyundai,PERSON,great_eastern_00529|great_eastern_00542
+Aidil,Philippe Aw,PERSON,great_eastern_00529
+Aidil,Philippe Aw.,PERSON,great_eastern_00542
+Aidil,S. League,PERSON,great_eastern_00529
+Aidil,S.League,PERSON,great_eastern_00542
+Aidil,Stipe Plazibat,PERSON,great_eastern_00542
+Aidil Sharin,Albirex Niigata,PERSON,great_eastern_00728
+Aidil Sharin,Great Eastern,PERSON,great_eastern_00529|great_eastern_00728
+Aidil Sharin,Home,PERSON,great_eastern_00529
+Aidil Sharin,Home United,PERSON,great_eastern_00529|great_eastern_00728
+Aidil Sharin,Hougang United,PERSON,great_eastern_00529
+Aidil Sharin,Hyundai,PERSON,great_eastern_00529|great_eastern_00728
+Aidil Sharin,Philippe Aw,PERSON,great_eastern_00529
+Aidil Sharin,S. League,PERSON,great_eastern_00529
+Aidil Sharin,S.League,PERSON,great_eastern_00728
+Albirex,Few,PERSON,great_eastern_00537
+Albirex,Great Eastern,ORGANIZATION,great_eastern_00537
+Albirex,Hougang,ORGANIZATION,great_eastern_00537
+Albirex,Hougang United,ORGANIZATION,great_eastern_00537
+Albirex,Hyundai,ORGANIZATION,great_eastern_00537
+Albirex,Naoki Naruo,PERSON,great_eastern_00081
+Albirex,Naruo,PERSON,great_eastern_00006
+Albirex,Philippe Aw,PERSON,great_eastern_00537
+Albirex,RHB,ORGANIZATION,great_eastern_00006|great_eastern_00081
+Albirex,S. League,ORGANIZATION,great_eastern_00537
+Albirex,S.League,ORGANIZATION,great_eastern_00006|great_eastern_00081
+Albirex,Yoshinaga,PERSON,great_eastern_00006
+Albirex Niigata,Cheetahs,ORGANIZATION,great_eastern_00819
+Albirex Niigata,GAVIN FOO,PERSON,great_eastern_00069
+Albirex Niigata,Global,ORGANIZATION,great_eastern_00912|great_eastern_00917
+Albirex Niigata,Global Cebu,ORGANIZATION,great_eastern_00912
+Albirex Niigata,Great Eastern,ORGANIZATION,great_eastern_00176|great_eastern_00728|great_eastern_00819|great_eastern_00912|great_eastern_00917
+Albirex Niigata,Home United,ORGANIZATION,great_eastern_00728
+Albirex Niigata,Hougang United,ORGANIZATION,great_eastern_00819
+Albirex Niigata,Hyundai,ORGANIZATION,great_eastern_00176|great_eastern_00728|great_eastern_00819|great_eastern_00912|great_eastern_00917
+Albirex Niigata,Madhu,PERSON,great_eastern_00176|great_eastern_00179
+Albirex Niigata,Madhu Mohana,PERSON,great_eastern_00069|great_eastern_00180
+Albirex Niigata,RHB,ORGANIZATION,great_eastern_00918
+Albirex Niigata,Raihan,PERSON,great_eastern_00179|great_eastern_00180
+Albirex Niigata,Referee Sukhbir Singh,PERSON,great_eastern_00069
+Albirex Niigata,S-League,ORGANIZATION,great_eastern_00918
+Albirex Niigata,S.League,ORGANIZATION,great_eastern_00069|great_eastern_00176|great_eastern_00180|great_eastern_00728|great_eastern_00819|great_eastern_00912|great_eastern_00917
+Albirex Niigata,Sparks,PERSON,great_eastern_00069
+Albirex Niigata,Stags,ORGANIZATION,great_eastern_00176
+Albirex Niigata,Sukhbir Singh,PERSON,great_eastern_00176
+Albirex Niigata,TNP,ORGANIZATION,great_eastern_00069
+Albirex Niigata,Tampines,ORGANIZATION,great_eastern_00176
+Albirex Niigata,Tampines Rovers,ORGANIZATION,great_eastern_00069|great_eastern_00176|great_eastern_00178|great_eastern_00180
+American Express,Isabella,PERSON,great_eastern_00168
+American Express,Singapore Environment Council,ORGANIZATION,great_eastern_00168
+American Express,Teo,PERSON,great_eastern_00168
+American Express International,Isabella Loh,PERSON,great_eastern_00177
+American Express International,SEC,ORGANIZATION,great_eastern_00177
+American Express International,Teo,PERSON,great_eastern_00177
+Anil Wadhwani,Great Eastern,PERSON,great_eastern_00911
+Anil Wadhwani,Khoo Kah Siang,PERSON,great_eastern_00911
+Anil Wadhwani,Manulife Singapore,PERSON,great_eastern_00911
+Anil Wadhwani,Naveed Irshad,PERSON,great_eastern_00911
+Anne Qi Hui,Jasmine Goh,PERSON,great_eastern_00801
+Anne Qi Hui,Jenny Huang,PERSON,great_eastern_00801
+Anne Qi Hui,Neo Jie Shi,PERSON,great_eastern_00801
+Anne Qi Hui,Rachel See,PERSON,great_eastern_00801
+Aviva,Axa,ORGANIZATION,great_eastern_00268
+Aviva,BT,ORGANIZATION,great_eastern_01099
+Aviva,Government,ORGANIZATION,great_eastern_00526|great_eastern_01211
+Aviva,Great Eastern,ORGANIZATION,great_eastern_00005|great_eastern_00078|great_eastern_00526|great_eastern_00710|great_eastern_01099|great_eastern_01100|great_eastern_01211
+Aviva,IP insurers,ORGANIZATION,great_eastern_00710
+Aviva,IP providers,ORGANIZATION,great_eastern_00268
+Aviva,IPs,ORGANIZATION,great_eastern_00710
+Aviva,NTUC Income,ORGANIZATION,great_eastern_00005|great_eastern_00078|great_eastern_00268|great_eastern_01099|great_eastern_01100|great_eastern_01211
+Aviva,Panel,ORGANIZATION,great_eastern_01100
+Aviva,Prudential,ORGANIZATION,great_eastern_00078|great_eastern_00268|great_eastern_00710|great_eastern_01099
+Aviva,Singaporeans,PERSON,great_eastern_00526|great_eastern_01100
+Aviva,Someone,PERSON,great_eastern_00005
+Axa,IP providers,ORGANIZATION,great_eastern_00268
+Axa,NTUC Income,ORGANIZATION,great_eastern_00268
+Axa,Prudential,ORGANIZATION,great_eastern_00268
+BNM,GEH,ORGANIZATION,great_eastern_00700
+BNM,Great Eastern,ORGANIZATION,great_eastern_00700
+BNM,OCBC,ORGANIZATION,great_eastern_00700
+BNM,RHB,ORGANIZATION,great_eastern_00700
+BT,Great Eastern,ORGANIZATION,great_eastern_01099
+BT,NTUC Income,ORGANIZATION,great_eastern_01099
+BT,Prudential,ORGANIZATION,great_eastern_01099
+Bank of Singapore,Great Eastern,ORGANIZATION,great_eastern_01316|great_eastern_01317|great_eastern_01318
+Bank of Singapore,Lion Global Investors,ORGANIZATION,great_eastern_01316|great_eastern_01317|great_eastern_01318
+Bank of Singapore,OCBC,ORGANIZATION,great_eastern_01316|great_eastern_01317|great_eastern_01318
+Bank of Singapore National Australia Bank,Great Eastern,ORGANIZATION,great_eastern_00933
+Bank of Singapore National Australia Bank,MEPS,ORGANIZATION,great_eastern_00933
+Bank of Singapore National Australia Bank,Wing Hang Bank,ORGANIZATION,great_eastern_00933
+Bloomberg,OCBC,ORGANIZATION,great_eastern_00085
+CROWD,Great Eastern,PERSON,great_eastern_00004
+CROWD,OCBC,PERSON,great_eastern_00004
+CROWD,United Engineers,PERSON,great_eastern_00004
+Cheetahs,Great Eastern,ORGANIZATION,great_eastern_00819
+Cheetahs,Hougang United,ORGANIZATION,great_eastern_00819
+Cheetahs,Hyundai,ORGANIZATION,great_eastern_00819
+Cheetahs,S.League,ORGANIZATION,great_eastern_00819
+Chew,Great Eastern,PERSON,great_eastern_00550
+Chew,Singapore Exchange,PERSON,great_eastern_00550
+Chng,Chong Yonghui,PERSON,great_eastern_01007
+Chng,DPP,ORGANIZATION,great_eastern_01007
+Chng,Great Eastern,ORGANIZATION,great_eastern_01007
+Chng Kunda,Great Eastern,PERSON,great_eastern_01004
+Chng Kunda,OCBC,PERSON,great_eastern_01004
+Chong Yonghui,DPP,PERSON,great_eastern_01007
+Chong Yonghui,Great Eastern,PERSON,great_eastern_01007
+Credit Suisse,Great Eastern,ORGANIZATION,great_eastern_00000|great_eastern_00075
+Credit Suisse,KKR,ORGANIZATION,great_eastern_00075
+Credit Suisse,OCBC,ORGANIZATION,great_eastern_00000|great_eastern_00002|great_eastern_00075|great_eastern_00082
+Credit Suisse,UEL,ORGANIZATION,great_eastern_00002|great_eastern_00082
+Credit Suisse,WBL,ORGANIZATION,great_eastern_00002
+Credit Suisse,WBL Corporation,ORGANIZATION,great_eastern_00000
+DBS,GEH,ORGANIZATION,great_eastern_01097
+DBS,Hiew Yoon Khong,PERSON,great_eastern_00167
+DBS,MGSA P-Trust,ORGANIZATION,great_eastern_00167
+DBS,Mapletree,PERSON,great_eastern_00167
+DBS,Prudential,ORGANIZATION,great_eastern_01097
+DBS,The Business Times,ORGANIZATION,great_eastern_00167
+DBS,Tokio Marine Insurance,ORGANIZATION,great_eastern_01097
+DBS,UBS AG,ORGANIZATION,great_eastern_00167
+DPP,Great Eastern,ORGANIZATION,great_eastern_01007
+Duke,Harry,PERSON,great_eastern_00279
+Few,Great Eastern,PERSON,great_eastern_00537
+Few,Hougang,PERSON,great_eastern_00537
+Few,Hougang United,PERSON,great_eastern_00537
+Few,Hyundai,PERSON,great_eastern_00537
+Few,Philippe Aw,PERSON,great_eastern_00537
+Few,S. League,PERSON,great_eastern_00537
+Football Association of Singapore,Great Eastern,ORGANIZATION,great_eastern_00072
+Football Association of Singapore,Hyundai,ORGANIZATION,great_eastern_00072
+Football Association of Singapore,S.League,ORGANIZATION,great_eastern_00072
+Fun Run,GEWR,ORGANIZATION,great_eastern_00705
+Fun Run,Participants,PERSON,great_eastern_00705
+GAVIN FOO,Madhu Mohana,PERSON,great_eastern_00069
+GAVIN FOO,Referee Sukhbir Singh,PERSON,great_eastern_00069
+GAVIN FOO,S.League,PERSON,great_eastern_00069
+GAVIN FOO,Sparks,PERSON,great_eastern_00069
+GAVIN FOO,TNP,PERSON,great_eastern_00069
+GAVIN FOO,Tampines Rovers,PERSON,great_eastern_00069
+GEG,Great Eastern,ORGANIZATION,great_eastern_00515
+GEG,Overseas Assurance Corporation,ORGANIZATION,great_eastern_00515
+GEH,Great Eastern,ORGANIZATION,great_eastern_00700
+GEH,OCBC,ORGANIZATION,great_eastern_00700|great_eastern_01299
+GEH,Prudential,ORGANIZATION,great_eastern_01097
+GEH,RHB,ORGANIZATION,great_eastern_00700
+GEH,Tokio Marine Insurance,ORGANIZATION,great_eastern_01097
+GELM,OCBC,ORGANIZATION,great_eastern_01298
+GELM,UOB,ORGANIZATION,great_eastern_01298
+GEWR,Great Eastern,ORGANIZATION,great_eastern_00616
+GEWR,Jin Mingming,PERSON,great_eastern_00901
+GEWR,Participants,PERSON,great_eastern_00705
+Global,Global Cebu,ORGANIZATION,great_eastern_00912
+Global,Great Eastern,ORGANIZATION,great_eastern_00912|great_eastern_00917
+Global,Hyundai,ORGANIZATION,great_eastern_00912|great_eastern_00917
+Global,S.League,ORGANIZATION,great_eastern_00912|great_eastern_00917
+Global Cebu,Great Eastern,ORGANIZATION,great_eastern_00912
+Global Cebu,Hyundai,ORGANIZATION,great_eastern_00912
+Global Cebu,S.League,ORGANIZATION,great_eastern_00912
+Goh,JASMINE GOH,PERSON,great_eastern_00519
+Government,Great Eastern,ORGANIZATION,great_eastern_00526|great_eastern_01211
+Government,NTUC Income,ORGANIZATION,great_eastern_01211
+Government,Singaporeans,PERSON,great_eastern_00526
+Great Eastern,Holders,PERSON,great_eastern_00264
+Great Eastern,Home,ORGANIZATION,great_eastern_00529|great_eastern_00542
+Great Eastern,Home United,ORGANIZATION,great_eastern_00272|great_eastern_00529|great_eastern_00728
+Great Eastern,Hougang,ORGANIZATION,great_eastern_00272|great_eastern_00537|great_eastern_00542
+Great Eastern,Hougang United,ORGANIZATION,great_eastern_00272|great_eastern_00529|great_eastern_00537|great_eastern_00819
+Great Eastern,Hyundai,ORGANIZATION,great_eastern_00072|great_eastern_00176|great_eastern_00272|great_eastern_00529|great_eastern_00537|great_eastern_00542|great_eastern_00728|great_eastern_00819|great_eastern_00912|great_eastern_00917
+Great Eastern,IP insurers,ORGANIZATION,great_eastern_00710
+Great Eastern,IP policyholders,PERSON,great_eastern_00521
+Great Eastern,IPs,ORGANIZATION,great_eastern_00163|great_eastern_00710
+Great Eastern,KKR,ORGANIZATION,great_eastern_00075
+Great Eastern,Khoo Kah Siang,PERSON,great_eastern_00911
+Great Eastern,Lim,PERSON,great_eastern_01002
+Great Eastern,Lion Global Investors,ORGANIZATION,great_eastern_01316|great_eastern_01317|great_eastern_01318
+Great Eastern,MEPS,ORGANIZATION,great_eastern_00933
+Great Eastern,Madhu,PERSON,great_eastern_00176
+Great Eastern,Manulife Singapore,ORGANIZATION,great_eastern_00911
+Great Eastern,NTUC Income,ORGANIZATION,great_eastern_00005|great_eastern_00078|great_eastern_00163|great_eastern_01099|great_eastern_01100|great_eastern_01211
+Great Eastern,Naveed Irshad,PERSON,great_eastern_00911
+Great Eastern,OAC,ORGANIZATION,great_eastern_00345
+Great Eastern,OCBC,ORGANIZATION,great_eastern_00000|great_eastern_00004|great_eastern_00075|great_eastern_00345|great_eastern_00428|great_eastern_00429|great_eastern_00431|great_eastern_00518|great_eastern_00698|great_eastern_00700|great_eastern_01000|great_eastern_01004|great_eastern_01316|great_eastern_01317|great_eastern_01318
+Great Eastern,Overseas Assurance Corporation,ORGANIZATION,great_eastern_00515
+Great Eastern,Panel,ORGANIZATION,great_eastern_01100
+Great Eastern,Perennial,ORGANIZATION,great_eastern_00431
+Great Eastern,Philippe Aw,PERSON,great_eastern_00272|great_eastern_00529|great_eastern_00537
+Great Eastern,Philippe Aw.,PERSON,great_eastern_00542
+Great Eastern,Prudential,ORGANIZATION,great_eastern_00078|great_eastern_00710|great_eastern_01099
+Great Eastern,RHB,ORGANIZATION,great_eastern_00700
+Great Eastern,S. League,ORGANIZATION,great_eastern_00529|great_eastern_00537
+Great Eastern,S.League,ORGANIZATION,great_eastern_00072|great_eastern_00176|great_eastern_00272|great_eastern_00542|great_eastern_00728|great_eastern_00819|great_eastern_00912|great_eastern_00917
+Great Eastern,Singapore Exchange,ORGANIZATION,great_eastern_00550
+Great Eastern,Singaporeans,PERSON,great_eastern_00526|great_eastern_00802|great_eastern_01100
+Great Eastern,Someone,PERSON,great_eastern_00005
+Great Eastern,Stags,ORGANIZATION,great_eastern_00176
+Great Eastern,Stipe Plazibat,PERSON,great_eastern_00542
+Great Eastern,Sukhbir Singh,PERSON,great_eastern_00176
+Great Eastern,Tampines,ORGANIZATION,great_eastern_00176
+Great Eastern,Tampines Rovers,ORGANIZATION,great_eastern_00176
+Great Eastern,The Straits Times,ORGANIZATION,great_eastern_00697
+Great Eastern,UE,ORGANIZATION,great_eastern_00429|great_eastern_00518|great_eastern_01000
+Great Eastern,United Engineers,ORGANIZATION,great_eastern_00004
+Great Eastern,WBL,ORGANIZATION,great_eastern_00428|great_eastern_01000
+Great Eastern,WBL Corp,ORGANIZATION,great_eastern_00429|great_eastern_00518
+Great Eastern,WBL Corporation,ORGANIZATION,great_eastern_00000|great_eastern_00428
+Great Eastern,Wall Street Journal,ORGANIZATION,great_eastern_00698
+Great Eastern,Wing Hang Bank,ORGANIZATION,great_eastern_00933
+Great Eastern,YPI,ORGANIZATION,great_eastern_01000
+Great Eastern,Yahoo News Singapore,ORGANIZATION,great_eastern_01002
+Great Eastern,Yanlord Land,ORGANIZATION,great_eastern_01000
+Hiew Yoon Khong,MGSA P-Trust,PERSON,great_eastern_00167
+Hiew Yoon Khong,Mapletree,PERSON,great_eastern_00167
+Hiew Yoon Khong,The Business Times,PERSON,great_eastern_00167
+Hiew Yoon Khong,UBS AG,PERSON,great_eastern_00167
+Home,Home United,ORGANIZATION,great_eastern_00529
+Home,Hougang,ORGANIZATION,great_eastern_00542
+Home,Hougang United,ORGANIZATION,great_eastern_00529
+Home,Hyundai,ORGANIZATION,great_eastern_00529|great_eastern_00542
+Home,Philippe Aw,PERSON,great_eastern_00529
+Home,Philippe Aw.,PERSON,great_eastern_00542
+Home,S. League,ORGANIZATION,great_eastern_00529
+Home,S.League,ORGANIZATION,great_eastern_00542
+Home,Stipe Plazibat,PERSON,great_eastern_00542
+Home United,Hougang,ORGANIZATION,great_eastern_00272
+Home United,Hougang United,ORGANIZATION,great_eastern_00272|great_eastern_00529
+Home United,Hyundai,ORGANIZATION,great_eastern_00272|great_eastern_00529|great_eastern_00728
+Home United,Philippe Aw,PERSON,great_eastern_00272|great_eastern_00529
+Home United,S. League,ORGANIZATION,great_eastern_00529
+Home United,S.League,ORGANIZATION,great_eastern_00272|great_eastern_00728
+Hougang,Hougang United,ORGANIZATION,great_eastern_00272|great_eastern_00537
+Hougang,Hyundai,ORGANIZATION,great_eastern_00272|great_eastern_00537|great_eastern_00542
+Hougang,Philippe Aw,PERSON,great_eastern_00272|great_eastern_00537
+Hougang,Philippe Aw.,PERSON,great_eastern_00542
+Hougang,S. League,ORGANIZATION,great_eastern_00537
+Hougang,S.League,ORGANIZATION,great_eastern_00272|great_eastern_00542
+Hougang,Stipe Plazibat,PERSON,great_eastern_00542
+Hougang United,Hyundai,ORGANIZATION,great_eastern_00272|great_eastern_00529|great_eastern_00537|great_eastern_00819
+Hougang United,Philippe Aw,PERSON,great_eastern_00010|great_eastern_00272|great_eastern_00529|great_eastern_00537
+Hougang United,S. League,ORGANIZATION,great_eastern_00529|great_eastern_00537
+Hougang United,S.League,ORGANIZATION,great_eastern_00010|great_eastern_00272|great_eastern_00819
+Hyundai,Madhu,PERSON,great_eastern_00176
+Hyundai,Philippe Aw,PERSON,great_eastern_00272|great_eastern_00529|great_eastern_00537
+Hyundai,Philippe Aw.,PERSON,great_eastern_00542
+Hyundai,S. League,ORGANIZATION,great_eastern_00529|great_eastern_00537
+Hyundai,S.League,ORGANIZATION,great_eastern_00072|great_eastern_00176|great_eastern_00272|great_eastern_00542|great_eastern_00728|great_eastern_00819|great_eastern_00912|great_eastern_00917
+Hyundai,Stags,ORGANIZATION,great_eastern_00176
+Hyundai,Stipe Plazibat,PERSON,great_eastern_00542
+Hyundai,Sukhbir Singh,PERSON,great_eastern_00176
+Hyundai,Tampines,ORGANIZATION,great_eastern_00176
+Hyundai,Tampines Rovers,ORGANIZATION,great_eastern_00176
+IP insurers,IPs,ORGANIZATION,great_eastern_00710
+IP insurers,Prudential,ORGANIZATION,great_eastern_00710
+IP providers,NTUC Income,ORGANIZATION,great_eastern_00268
+IP providers,Prudential,ORGANIZATION,great_eastern_00268
+IPs,NTUC Income,ORGANIZATION,great_eastern_00163
+IPs,Prudential,ORGANIZATION,great_eastern_00710
+Isabella,Singapore Environment Council,PERSON,great_eastern_00168
+Isabella,Teo,PERSON,great_eastern_00168
+Isabella Loh,SEC,PERSON,great_eastern_00177
+Isabella Loh,Teo,PERSON,great_eastern_00177
+Jasmine Goh,Jenny Huang,PERSON,great_eastern_00801
+Jasmine Goh,Neo Jie Shi,PERSON,great_eastern_00801
+Jasmine Goh,Rachel See,PERSON,great_eastern_00801
+Jenny Huang,Neo Jie Shi,PERSON,great_eastern_00801
+Jenny Huang,Rachel See,PERSON,great_eastern_00801
+Jon Sandham,Prudential,PERSON,great_eastern_00612
+Jon Sandham,Roy Lim,PERSON,great_eastern_00612
+KKR,OCBC,ORGANIZATION,great_eastern_00075
+Khoo Kah Siang,Manulife,PERSON,great_eastern_00900
+Khoo Kah Siang,Manulife Singapore,PERSON,great_eastern_00900|great_eastern_00911
+Khoo Kah Siang,Naveed Irshad,PERSON,great_eastern_00900|great_eastern_00911
+Lim,Yahoo News Singapore,PERSON,great_eastern_01002
+Lim Chin,S.League,PERSON,great_eastern_00003
+Lion Global Investors,OCBC,ORGANIZATION,great_eastern_00349|great_eastern_00359|great_eastern_01316|great_eastern_01317|great_eastern_01318
+MEPS,Wing Hang Bank,ORGANIZATION,great_eastern_00933
+MGSA P-Trust,Mapletree,PERSON,great_eastern_00167
+MGSA P-Trust,The Business Times,ORGANIZATION,great_eastern_00167
+MGSA P-Trust,UBS AG,ORGANIZATION,great_eastern_00167
+MPs,PUB,PERSON,great_eastern_01232
+MPs,Parliament,PERSON,great_eastern_01232
+Madhu,Raihan,PERSON,great_eastern_00179
+Madhu,S.League,PERSON,great_eastern_00176
+Madhu,Stags,PERSON,great_eastern_00176
+Madhu,Sukhbir Singh,PERSON,great_eastern_00176
+Madhu,Tampines,PERSON,great_eastern_00176
+Madhu,Tampines Rovers,PERSON,great_eastern_00176
+Madhu Mohana,Raihan,PERSON,great_eastern_00180
+Madhu Mohana,Referee Sukhbir Singh,PERSON,great_eastern_00069
+Madhu Mohana,S.League,PERSON,great_eastern_00069|great_eastern_00180
+Madhu Mohana,Sparks,PERSON,great_eastern_00069
+Madhu Mohana,TNP,PERSON,great_eastern_00069
+Madhu Mohana,Tampines Rovers,PERSON,great_eastern_00069|great_eastern_00180
+Manulife,Manulife Singapore,ORGANIZATION,great_eastern_00900
+Manulife,Naveed Irshad,PERSON,great_eastern_00900
+Manulife Singapore,Naveed Irshad,PERSON,great_eastern_00900|great_eastern_00911
+Mapletree,The Business Times,PERSON,great_eastern_00167
+Mapletree,UBS AG,PERSON,great_eastern_00167
+NTUC Income,Panel,ORGANIZATION,great_eastern_01100
+NTUC Income,Prudential,ORGANIZATION,great_eastern_00078|great_eastern_00268|great_eastern_01099
+NTUC Income,Singaporeans,PERSON,great_eastern_01100
+NTUC Income,Someone,PERSON,great_eastern_00005
+Naoki Naruo,RHB,PERSON,great_eastern_00081
+Naoki Naruo,S.League,PERSON,great_eastern_00081
+Naruo,RHB,PERSON,great_eastern_00006
+Naruo,S.League,PERSON,great_eastern_00006
+Naruo,Yoshinaga,PERSON,great_eastern_00006
+Neo Jie Shi,Rachel See,PERSON,great_eastern_00801
+Ninjas,Sports Hub Community Play Day,PERSON,great_eastern_00707
+Nintendo/Creatures Inc,Participants,PERSON,great_eastern_00009
+OAC,OCBC,ORGANIZATION,great_eastern_00345
+OCBC,Perennial,ORGANIZATION,great_eastern_00431
+OCBC,RHB,ORGANIZATION,great_eastern_00700
+OCBC,UE,ORGANIZATION,great_eastern_00429|great_eastern_00518|great_eastern_01000
+OCBC,UEL,ORGANIZATION,great_eastern_00002|great_eastern_00082|great_eastern_00512
+OCBC,UOB,ORGANIZATION,great_eastern_01298
+OCBC,United Engineers,ORGANIZATION,great_eastern_00004
+OCBC,United Engineers Ltd,ORGANIZATION,great_eastern_00512
+OCBC,WBL,ORGANIZATION,great_eastern_00002|great_eastern_00428|great_eastern_01000
+OCBC,WBL Corp,ORGANIZATION,great_eastern_00429|great_eastern_00518
+OCBC,WBL Corp Ltd,ORGANIZATION,great_eastern_00512
+OCBC,WBL Corporation,ORGANIZATION,great_eastern_00000|great_eastern_00428
+OCBC,Wall Street Journal,ORGANIZATION,great_eastern_00698
+OCBC,YPI,ORGANIZATION,great_eastern_01000
+OCBC,Yanlord Land,ORGANIZATION,great_eastern_01000
+PUB,Parliament,ORGANIZATION,great_eastern_01232
+Panel,Singaporeans,PERSON,great_eastern_01100
+Philippe Aw,S. League,PERSON,great_eastern_00529|great_eastern_00537
+Philippe Aw,S.League,PERSON,great_eastern_00010|great_eastern_00272
+Philippe Aw.,S.League,PERSON,great_eastern_00542
+Philippe Aw.,Stipe Plazibat,PERSON,great_eastern_00542
+Prudential,Roy Lim,PERSON,great_eastern_00612
+Prudential,Tokio Marine Insurance,ORGANIZATION,great_eastern_01097
+RHB,S-League,ORGANIZATION,great_eastern_00918
+RHB,S.League,ORGANIZATION,great_eastern_00006|great_eastern_00081
+RHB,Yoshinaga,PERSON,great_eastern_00006
+Raihan,S.League,PERSON,great_eastern_00180
+Raihan,Tampines Rovers,PERSON,great_eastern_00180
+Referee Sukhbir Singh,S.League,PERSON,great_eastern_00069
+Referee Sukhbir Singh,Sparks,PERSON,great_eastern_00069
+Referee Sukhbir Singh,TNP,PERSON,great_eastern_00069
+Referee Sukhbir Singh,Tampines Rovers,PERSON,great_eastern_00069
+S.League,Sparks,PERSON,great_eastern_00069
+S.League,Stags,ORGANIZATION,great_eastern_00176
+S.League,Stipe Plazibat,PERSON,great_eastern_00542
+S.League,Sukhbir Singh,PERSON,great_eastern_00176
+S.League,TNP,ORGANIZATION,great_eastern_00069
+S.League,Tampines,ORGANIZATION,great_eastern_00176
+S.League,Tampines Rovers,ORGANIZATION,great_eastern_00069|great_eastern_00176|great_eastern_00180
+S.League,Yoshinaga,PERSON,great_eastern_00006
+SEC,Teo,PERSON,great_eastern_00177
+SINGAPORE - One,UE,PERSON,great_eastern_00523
+SINGAPORE - One,Yanlord Land Group,PERSON,great_eastern_00523
+Singapore Environment Council,Teo,PERSON,great_eastern_00168
+Sparks,TNP,PERSON,great_eastern_00069
+Sparks,Tampines Rovers,PERSON,great_eastern_00069
+Sports Hub Community Play,Warriors,ORGANIZATION,great_eastern_00714
+Stags,Sukhbir Singh,PERSON,great_eastern_00176
+Stags,Tampines,ORGANIZATION,great_eastern_00176
+Stags,Tampines Rovers,ORGANIZATION,great_eastern_00176
+Sukhbir Singh,Tampines,PERSON,great_eastern_00176
+Sukhbir Singh,Tampines Rovers,PERSON,great_eastern_00176
+TNP,Tampines Rovers,ORGANIZATION,great_eastern_00069
+Tampines,Tampines Rovers,ORGANIZATION,great_eastern_00176
+The Business Times,UBS AG,ORGANIZATION,great_eastern_00167
+UE,WBL,ORGANIZATION,great_eastern_01000
+UE,WBL Corp,ORGANIZATION,great_eastern_00429|great_eastern_00518
+UE,YPI,ORGANIZATION,great_eastern_01000
+UE,Yanlord Land,ORGANIZATION,great_eastern_01000
+UE,Yanlord Land Group,ORGANIZATION,great_eastern_00523
+UEL,United Engineers Ltd,ORGANIZATION,great_eastern_00512
+UEL,WBL,ORGANIZATION,great_eastern_00002
+UEL,WBL Corp Ltd,ORGANIZATION,great_eastern_00512
+United Engineers Ltd,WBL Corp Ltd,ORGANIZATION,great_eastern_00512
+WBL,WBL Corporation,ORGANIZATION,great_eastern_00428
+WBL,YPI,ORGANIZATION,great_eastern_01000
+WBL,Yanlord Land,ORGANIZATION,great_eastern_01000
+YPI,Yanlord Land,ORGANIZATION,great_eastern_01000

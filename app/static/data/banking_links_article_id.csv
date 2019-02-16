@@ -1,0 +1,248 @@
+source,target,link_type,article_id
+AGM,DBS,ORGANIZATION,banking_00323
+AGM,OCBC,ORGANIZATION,banking_00323
+AGM,Piyush Gupta,PERSON,banking_00323
+AML,BSI Bank,ORGANIZATION,banking_00400
+AML,Coutts,PERSON,banking_00400
+AML,Credit Suisse,ORGANIZATION,banking_00400
+AML,DBS,ORGANIZATION,banking_00400
+AML,Falcon Bank,ORGANIZATION,banking_00400
+AML,Standard Chartered Bank,ORGANIZATION,banking_00400
+AML,UBS AG,ORGANIZATION,banking_00400
+AML,UOB,ORGANIZATION,banking_00400
+ANZ,AUM,ORGANIZATION,banking_01363
+ANZ,DBS,ORGANIZATION,banking_00405|banking_00710|banking_01363
+ANZ,NAB,ORGANIZATION,banking_00405
+ANZ,OCBC,ORGANIZATION,banking_00405
+AUM,DBS,ORGANIZATION,banking_01363
+Agoda,UOB,ORGANIZATION,banking_01400|banking_01405
+Asean,DBS,ORGANIZATION,banking_00123
+Asean,OCBC,ORGANIZATION,banking_00123
+Asean,UOB,ORGANIZATION,banking_00123
+Audrey Gan,Ms,PERSON,banking_01011
+Audrey Gan,UOB,PERSON,banking_01011
+Australia & New Zealand Banking Group Ltd,DBS,ORGANIZATION,banking_01308
+BIDDER,OCBC,PERSON,banking_00603
+BIDDER,Singapore Exchange,PERSON,banking_00603
+BIDDER,UEL,PERSON,banking_00603
+BIDDER,WBL Corp Ltd,PERSON,banking_00603
+BLOOMBERG,DBS,ORGANIZATION,banking_00303
+BLOOMBERG,Piyush Gupta,PERSON,banking_00303
+BSI Bank,Coutts,PERSON,banking_00400
+BSI Bank,Credit Suisse,ORGANIZATION,banking_00400
+BSI Bank,DBS,ORGANIZATION,banking_00400
+BSI Bank,Falcon Bank,ORGANIZATION,banking_00400
+BSI Bank,Standard Chartered Bank,ORGANIZATION,banking_00400
+BSI Bank,UBS AG,ORGANIZATION,banking_00400
+BSI Bank,UOB,ORGANIZATION,banking_00400
+Banking giants,Brand Finance,ORGANIZATION,banking_00541
+Banking giants,DBS,ORGANIZATION,banking_00541
+Banking giants,OCBC,ORGANIZATION,banking_00541
+Banking giants,UOB,ORGANIZATION,banking_00541
+Bloomberg,Champions,ORGANIZATION,banking_01445
+Bloomberg,City Developments Limited,ORGANIZATION,banking_01200|banking_01246|banking_01445
+Bloomberg,DBS,ORGANIZATION,banking_01200|banking_01246|banking_01445
+Bloomberg,GEI,ORGANIZATION,banking_01200|banking_01246
+Bloomberg,OCBC,ORGANIZATION,banking_00161
+Brand Finance,DBS,ORGANIZATION,banking_00541
+Brand Finance,OCBC,ORGANIZATION,banking_00541
+Brand Finance,UOB,ORGANIZATION,banking_00541
+CBG,Glacier Eighty Pte. Ltd,ORGANIZATION,banking_01254
+CBG,UOB,ORGANIZATION,banking_01254
+CFD,Dennis Tey,PERSON,banking_01150
+CFD,MAS,ORGANIZATION,banking_01150
+Champions,City Developments Limited,ORGANIZATION,banking_01445
+Champions,DBS,ORGANIZATION,banking_01445
+Check Point,Clement Lee,PERSON,banking_00338
+Check Point,Security experts,PERSON,banking_00338
+Citibank,DBS,ORGANIZATION,banking_00504
+Citibank,HSBC,ORGANIZATION,banking_00500|banking_00504
+Citibank,Jacquelyn Tan,PERSON,banking_00504
+Citibank,Maybank,ORGANIZATION,banking_00500|banking_00504
+Citibank,OCBC,ORGANIZATION,banking_00500|banking_00504
+Citibank,PayNow,ORGANIZATION,banking_00500|banking_00504
+Citibank,Standard Chartered,ORGANIZATION,banking_00500
+Citibank,Standard Chartered Bank,ORGANIZATION,banking_00504
+Citibank,UOB,ORGANIZATION,banking_00500|banking_00504
+City Developments Limited,DBS,ORGANIZATION,banking_01200|banking_01246|banking_01445
+City Developments Limited,GEI,ORGANIZATION,banking_01200|banking_01246
+Clement Lee,Security experts,PERSON,banking_00338
+Comfort Delgro,DBS,ORGANIZATION,banking_00605
+Comfort Delgro,OCBC,ORGANIZATION,banking_00605
+Comfort Delgro,Passengers,PERSON,banking_00605
+Coutts,Credit Suisse,PERSON,banking_00400
+Coutts,DBS,PERSON,banking_00400
+Coutts,Falcon Bank,PERSON,banking_00400
+Coutts,Standard Chartered Bank,PERSON,banking_00400
+Coutts,UBS AG,PERSON,banking_00400
+Coutts,UOB,PERSON,banking_00400
+Credit Suisse,DBS,ORGANIZATION,banking_00400
+Credit Suisse,Falcon Bank,ORGANIZATION,banking_00400
+Credit Suisse,Great Eastern,ORGANIZATION,banking_00008
+Credit Suisse,OCBC,ORGANIZATION,banking_00008|banking_00602
+Credit Suisse,Standard Chartered Bank,ORGANIZATION,banking_00400
+Credit Suisse,UBS AG,ORGANIZATION,banking_00400
+Credit Suisse,UOB,ORGANIZATION,banking_00400
+Credit Suisse,WBL Corporation,ORGANIZATION,banking_00008
+DBS,Derek Tan,PERSON,banking_00015
+DBS,Falcon Bank,ORGANIZATION,banking_00400
+DBS,GEI,ORGANIZATION,banking_01200|banking_01246
+DBS,Gupta,PERSON,banking_01000
+DBS,HSBC,ORGANIZATION,banking_00504
+DBS,Impact Investment Exchange,ORGANIZATION,banking_00607|banking_00641
+DBS,Jacquelyn Tan,PERSON,banking_00504|banking_00723
+DBS,MAS,ORGANIZATION,banking_00705
+DBS,MCA,ORGANIZATION,banking_00003|banking_00004|banking_00005|banking_00311
+DBS,Marks & Spencer,ORGANIZATION,banking_00406
+DBS,Maybank,ORGANIZATION,banking_00504|banking_01241
+DBS,Maybank Singapore,ORGANIZATION,banking_01241
+DBS,NAB,ORGANIZATION,banking_00405
+DBS,NOBLE Group,ORGANIZATION,banking_01002
+DBS,Noble Group,ORGANIZATION,banking_01001
+DBS,OCBC,ORGANIZATION,banking_00015|banking_00033|banking_00111|banking_00123|banking_00227|banking_00323|banking_00405|banking_00406|banking_00447|banking_00504|banking_00505|banking_00541|banking_00605|banking_01268|banking_01289
+DBS,OTP,ORGANIZATION,banking_00300
+DBS,POSB,ORGANIZATION,banking_00002|banking_00023|banking_00304|banking_00307|banking_01205|banking_01241|banking_01268
+DBS,Passengers,PERSON,banking_00605
+DBS,PayNow,ORGANIZATION,banking_00504
+DBS,Piyush Gupta,PERSON,banking_00303|banking_00323|banking_00800
+DBS,Robinsons,ORGANIZATION,banking_00406
+DBS,SIA,ORGANIZATION,banking_01120
+DBS,SingX,PERSON,banking_00106
+DBS,Singapore Airlines,ORGANIZATION,banking_01100|banking_01120
+DBS,Singapore Exchange,ORGANIZATION,banking_00619|banking_00641
+DBS,Smart Nation,ORGANIZATION,banking_00701
+DBS,Standard Chartered Bank,ORGANIZATION,banking_00400|banking_00504
+DBS,StarHub,ORGANIZATION,banking_01289
+DBS,UBS AG,ORGANIZATION,banking_00400
+DBS,UOB,ORGANIZATION,banking_00002|banking_00023|banking_00033|banking_00111|banking_00123|banking_00227|banking_00400|banking_00504|banking_00505|banking_00541|banking_00723|banking_01241|banking_01268
+DBS,VTM,ORGANIZATION,banking_00307
+DBS,VTMs,ORGANIZATION,banking_00304|banking_00307
+DBS,Visa,ORGANIZATION,banking_00003|banking_00004|banking_00005
+DBS,WLB,ORGANIZATION,banking_00607|banking_00619
+Dennis Tey,MAS,PERSON,banking_01150
+Derek Tan,OCBC,PERSON,banking_00015
+Emma,OCBC,PERSON,banking_01439
+Ezra,Ezra Holdings,PERSON,banking_00200
+Ezra,REUTERS,PERSON,banking_00200
+Ezra Holdings,REUTERS,ORGANIZATION,banking_00200
+Falcon Bank,Standard Chartered Bank,ORGANIZATION,banking_00400
+Falcon Bank,UBS AG,ORGANIZATION,banking_00400
+Falcon Bank,UOB,ORGANIZATION,banking_00400
+Glacier Eighty Pte. Ltd,UOB,ORGANIZATION,banking_01254
+Global Covered Bond Programme,UOB,ORGANIZATION,banking_00129
+Great Eastern,KKR,ORGANIZATION,banking_00160
+Great Eastern,Lee,PERSON,banking_00076|banking_00160|banking_00466
+Great Eastern,OCBC,ORGANIZATION,banking_00008|banking_00076|banking_00160|banking_00466|banking_00513|banking_00514|banking_00560|banking_01107
+Great Eastern,Perennial,ORGANIZATION,banking_00560
+Great Eastern,Representatives,PERSON,banking_00076
+Great Eastern,Samling,ORGANIZATION,banking_00160
+Great Eastern,UE,ORGANIZATION,banking_00513|banking_01107
+Great Eastern,WBL,ORGANIZATION,banking_00514|banking_01107
+Great Eastern,WBL Corp,ORGANIZATION,banking_00513
+Great Eastern,WBL Corporation,ORGANIZATION,banking_00008|banking_00514
+Great Eastern,YPI,ORGANIZATION,banking_01107
+Great Eastern,Yanlord Land,ORGANIZATION,banking_01107
+HSBC,Jacquelyn Tan,PERSON,banking_00504
+HSBC,Maybank,ORGANIZATION,banking_00500|banking_00504
+HSBC,OCBC,ORGANIZATION,banking_00500|banking_00504
+HSBC,PayNow,ORGANIZATION,banking_00500|banking_00504
+HSBC,Standard Chartered,ORGANIZATION,banking_00500
+HSBC,Standard Chartered Bank,ORGANIZATION,banking_00504
+HSBC,UOB,ORGANIZATION,banking_00500|banking_00504
+Impact Investment Exchange,Singapore Exchange,ORGANIZATION,banking_00641
+Impact Investment Exchange,WLB,ORGANIZATION,banking_00607
+Jacquelyn Tan,Maybank,PERSON,banking_00504
+Jacquelyn Tan,OCBC,PERSON,banking_00504
+Jacquelyn Tan,PayNow,PERSON,banking_00504
+Jacquelyn Tan,Standard Chartered Bank,PERSON,banking_00504
+Jacquelyn Tan,UOB,PERSON,banking_00504|banking_00723
+KKR,Lee,PERSON,banking_00160
+KKR,OCBC,ORGANIZATION,banking_00160
+KKR,Samling,ORGANIZATION,banking_00160
+Ken Wong,OCBC,PERSON,banking_01403
+KrisFlyer,UOB,ORGANIZATION,banking_00302|banking_00308|banking_00344
+Lee,OCBC,PERSON,banking_00076|banking_00160|banking_00466
+Lee,Representatives,PERSON,banking_00076
+Lee,Samling,PERSON,banking_00160
+MAS,OCBC,ORGANIZATION,banking_00704|banking_00740
+MAS,Prem Hirubalan,PERSON,banking_00704|banking_00740
+MCA,Visa,ORGANIZATION,banking_00003|banking_00004|banking_00005
+MEPS,OCBC,ORGANIZATION,banking_00419
+MEPS,Payments Network Malaysia Sdn Bhd,ORGANIZATION,banking_00419
+Marks & Spencer,OCBC,ORGANIZATION,banking_00406
+Marks & Spencer,Robinsons,ORGANIZATION,banking_00406
+Maybank,Maybank Singapore,ORGANIZATION,banking_01241
+Maybank,OCBC,ORGANIZATION,banking_00500|banking_00504
+Maybank,POSB,ORGANIZATION,banking_01241
+Maybank,PayNow,ORGANIZATION,banking_00500|banking_00504
+Maybank,Standard Chartered,ORGANIZATION,banking_00500
+Maybank,Standard Chartered Bank,ORGANIZATION,banking_00504
+Maybank,UOB,ORGANIZATION,banking_00500|banking_00504|banking_01241
+Maybank Singapore,POSB,ORGANIZATION,banking_01241
+Maybank Singapore,UOB,ORGANIZATION,banking_01241
+Ms,UOB,PERSON,banking_01011
+NAB,OCBC,ORGANIZATION,banking_00402|banking_00405|banking_00463
+NAB,Singapore Exchange,ORGANIZATION,banking_01013
+NAB,Wealth business,ORGANIZATION,banking_01013
+NAB,Wing Hang Bank,ORGANIZATION,banking_01033
+NAB,Wing Hang Bank Limited,ORGANIZATION,banking_01013
+OCBC,POSB,ORGANIZATION,banking_01268
+OCBC,Passengers,PERSON,banking_00605
+OCBC,PayNow,ORGANIZATION,banking_00500|banking_00504
+OCBC,Payments Network Malaysia Sdn Bhd,ORGANIZATION,banking_00419
+OCBC,Perennial,ORGANIZATION,banking_00560
+OCBC,Piyush Gupta,PERSON,banking_00323
+OCBC,Prem Hirubalan,PERSON,banking_00704|banking_00740
+OCBC,Representatives,PERSON,banking_00076
+OCBC,Robinsons,ORGANIZATION,banking_00406
+OCBC,Samling,ORGANIZATION,banking_00160
+OCBC,Singapore Exchange,ORGANIZATION,banking_00603
+OCBC,Standard Chartered,ORGANIZATION,banking_00500
+OCBC,Standard Chartered Bank,ORGANIZATION,banking_00504
+OCBC,StarHub,ORGANIZATION,banking_01289
+OCBC,UE,ORGANIZATION,banking_00513|banking_01107|banking_01149|banking_01399
+OCBC,UEL,ORGANIZATION,banking_00603|banking_01149
+OCBC,UOB,ORGANIZATION,banking_00033|banking_00111|banking_00123|banking_00227|banking_00500|banking_00504|banking_00505|banking_00541|banking_01268
+OCBC,WBL,ORGANIZATION,banking_00514|banking_01107|banking_01149|banking_01399
+OCBC,WBL Corp,ORGANIZATION,banking_00513
+OCBC,WBL Corp Ltd,ORGANIZATION,banking_00603
+OCBC,WBL Corporation,ORGANIZATION,banking_00008|banking_00514
+OCBC,YPI,ORGANIZATION,banking_01107|banking_01149
+OCBC,Yanlord Land,ORGANIZATION,banking_01107
+OCBC,Yanlord Perennial Investment,ORGANIZATION,banking_01399
+POSB,UOB,ORGANIZATION,banking_00002|banking_00023|banking_01241|banking_01268
+POSB,VTM,ORGANIZATION,banking_00307
+POSB,VTMs,ORGANIZATION,banking_00304|banking_00307
+PayNow,Standard Chartered,ORGANIZATION,banking_00500
+PayNow,Standard Chartered Bank,ORGANIZATION,banking_00504
+PayNow,UOB,ORGANIZATION,banking_00500|banking_00504
+SIA,Singapore Airlines,ORGANIZATION,banking_01120
+SPD,UOB,ORGANIZATION,banking_01280
+SPD,Wee Ee Cheong,PERSON,banking_01280
+Singapore Exchange,UEL,ORGANIZATION,banking_00603
+Singapore Exchange,WBL Corp Ltd,ORGANIZATION,banking_00603
+Singapore Exchange,WLB,ORGANIZATION,banking_00619
+Singapore Exchange,Wealth business,ORGANIZATION,banking_01013
+Singapore Exchange,Wing Hang Bank Limited,ORGANIZATION,banking_01013
+Standard Chartered,UOB,ORGANIZATION,banking_00500
+Standard Chartered Bank,UBS AG,ORGANIZATION,banking_00400
+Standard Chartered Bank,UOB,ORGANIZATION,banking_00400|banking_00504
+UBS AG,UOB,ORGANIZATION,banking_00400
+UE,UEL,ORGANIZATION,banking_01149
+UE,WBL,ORGANIZATION,banking_01107|banking_01149|banking_01399
+UE,WBL Corp,ORGANIZATION,banking_00513
+UE,YPI,ORGANIZATION,banking_01107|banking_01149
+UE,Yanlord Land,ORGANIZATION,banking_01107
+UE,Yanlord Perennial Investment,ORGANIZATION,banking_01399
+UEL,WBL,ORGANIZATION,banking_01149
+UEL,WBL Corp Ltd,ORGANIZATION,banking_00603
+UEL,YPI,ORGANIZATION,banking_01149
+UOB,USD,ORGANIZATION,banking_00105
+UOB,Wee Ee Cheong,PERSON,banking_01280
+VTM,VTMs,ORGANIZATION,banking_00307
+WBL,WBL Corporation,ORGANIZATION,banking_00514
+WBL,YPI,ORGANIZATION,banking_01107|banking_01149
+WBL,Yanlord Land,ORGANIZATION,banking_01107
+WBL,Yanlord Perennial Investment,ORGANIZATION,banking_01399
+Wealth business,Wing Hang Bank Limited,ORGANIZATION,banking_01013
+YPI,Yanlord Land,ORGANIZATION,banking_01107

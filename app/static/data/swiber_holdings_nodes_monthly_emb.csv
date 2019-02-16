@@ -1,0 +1,39 @@
+name,year_month,sentiment_emb,year,month
+CEO signals bank,2017-2,-100.0,2017,2
+DBS,2017-2,-100.0,2017,2
+Swiber Holdings,2017-2,-100.0,2017,2
+Swiber Holdings Ltd,2017-2,-100.0,2017,2
+Ezra,2017-3,100.0,2017,3
+O&M,2017-3,100.0,2017,3
+Singapore Exchange,2017-3,-100.0,2017,3
+Swiber,2017-3,-100.0,2017,3
+Swiber Holdings,2017-3,-100.0,2017,3
+EMAS,2017-4,100.0,2017,4
+Ezra,2017-4,100.0,2017,4
+Ezra Holdings,2017-4,100.0,2017,4
+Rickmers Maritime,2017-4,-100.0,2017,4
+Swiber Holdings,2017-4,-100.0,2017,4
+Anne-Christine,2017-6,-100.0,2017,6
+Else-Marie,2017-6,-100.0,2017,6
+Mary-Ann,2017-6,-100.0,2017,6
+SINGAPORE - Kim Heng Offshore & Marine,2017-6,-100.0,2017,6
+Swiber,2017-6,-100.0,2017,6
+Blow,2017-7,100.0,2017,7
+Swiber Holdings Ltd.,2017-7,100.0,2017,7
+DBS,2017-8,-100.0,2017,8
+Gupta,2017-8,-100.0,2017,8
+O&M,2017-8,-100.0,2017,8
+Swiber Holdings,2017-8,-100.0,2017,8
+National Environment Agency,2017-10,-100.0,2017,10
+Bank Tries,2017-11,-100.0,2017,11
+SHAREHOLDERS,2017-11,-100.0,2017,11
+SWIBER Holdings,2017-11,-100.0,2017,11
+Swiber,2017-11,-100.0,2017,11
+Swiber Holdings,2017-11,-100.0,2017,11
+Swiber Holdings Ltd.,2017-11,-100.0,2017,11
+Acra,2017-12,-100.0,2017,12
+Swiber Holdings,2017-12,-100.0,2017,12
+THE Accounting and Corporate Regulatory Authority,2017-12,-100.0,2017,12
+Swiber Holdings,2018-3,0.0,2018,3
+Bank of New York Mellon,2018-4,-100.0,2018,4
+Trustee,2018-4,-100.0,2018,4

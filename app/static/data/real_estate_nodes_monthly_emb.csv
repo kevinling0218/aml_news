@@ -1,0 +1,114 @@
+name,year_month,sentiment_emb,year,month
+Christopher Chitty,2017-1,100.0,2017,1
+City Developments Limited,2017-1,100.0,2017,1
+Global 100 Most Sustainable Corporations,2017-1,100.0,2017,1
+HDB,2017-1,100.0,2017,1
+Housing Board,2017-1,100.0,2017,1
+Ministry of National Development,2017-1,100.0,2017,1
+Most Sustainable Corporation,2017-1,100.0,2017,1
+Some,2017-1,100.0,2017,1
+Top Singapore Company,2017-1,100.0,2017,1
+Town councils,2017-1,100.0,2017,1
+BTO,2017-2,-100.0,2017,2
+City Developments Limited,2017-2,100.0,2017,2
+HDB,2017-2,100.0,2017,2
+Hong Leong Group,2017-2,100.0,2017,2
+Kwek Leng Beng,2017-2,100.0,2017,2
+Millennium Hotels and Resorts,2017-2,100.0,2017,2
+SBF,2017-2,-100.0,2017,2
+Frasers Centrepoint,2017-3,100.0,2017,3
+Frasers Logistics & Industrial Trust,2017-3,100.0,2017,3
+Greater China Commercial Trust,2017-3,100.0,2017,3
+HDB,2017-3,100.0,2017,3
+Lee,2017-3,100.0,2017,3
+S&CC,2017-3,100.0,2017,3
+Christopher Tang,2017-4,100.0,2017,4
+Frasers Centrepoint,2017-4,100.0,2017,4
+HDB,2017-4,100.0,2017,4
+Housing Board,2017-4,-100.0,2017,4
+Experts,2017-5,100.0,2017,5
+Frasers Centrepoint,2017-5,100.0,2017,5
+Frasers Logistics & Industrial Trust,2017-5,100.0,2017,5
+HDB,2017-5,100.0,2017,5
+Some,2017-5,100.0,2017,5
+BCA,2017-6,100.0,2017,6
+City Developments Limited,2017-6,100.0,2017,6
+Construction contractors,2017-6,100.0,2017,6
+Construction firms,2017-6,100.0,2017,6
+DBS,2017-6,-100.0,2017,6
+Dragages Singapore,2017-6,100.0,2017,6
+Firms,2017-6,100.0,2017,6
+Frasers Centrepoint,2017-6,-100.0,2017,6
+Frasers Commercial Trust,2017-6,-100.0,2017,6
+Frasers Hospitality Trust,2017-6,-100.0,2017,6
+Frasers Logistics & Industrial Trust,2017-6,-100.0,2017,6
+HDB,2017-6,-55.55555555555556,2017,6
+Housing Board,2017-6,-100.0,2017,6
+Ministry of National,2017-6,100.0,2017,6
+SLA,2017-6,100.0,2017,6
+Straits Times,2017-6,-100.0,2017,6
+Teambuild,2017-6,100.0,2017,6
+Teen,2017-6,-100.0,2017,6
+Youth,2017-6,-100.0,2017,6
+Dunearn Court,2017-7,-100.0,2017,7
+HDB,2017-7,0.0,2017,7
+Shunfu Ville,2017-7,-100.0,2017,7
+Florence Regency,2017-8,-100.0,2017,8
+NUS,2017-8,100.0,2017,8
+Normanton Park,2017-8,-100.0,2017,8
+Shunfu Ville,2017-8,-100.0,2017,8
+URA,2017-9,100.0,2017,9
+Zouk,2017-9,100.0,2017,9
+BTO,2017-10,-100.0,2017,10
+City Developments Limited,2017-10,-100.0,2017,10
+Guoco Group Limited,2017-10,100.0,2017,10
+GuocoLand,2017-10,100.0,2017,10
+GuocoLand Limited,2017-10,100.0,2017,10
+HDB,2017-10,-33.33333333333333,2017,10
+HUDC,2017-10,0.0,2017,10
+Halimah,2017-10,-100.0,2017,10
+Hougang,2017-10,0.0,2017,10
+JLL,2017-10,100.0,2017,10
+Millennium & Copthorne,2017-10,-100.0,2017,10
+Raymond Choong,2017-10,100.0,2017,10
+SLA,2017-10,100.0,2017,10
+HDB,2017-11,-100.0,2017,11
+Frasers Centrepoint,2017-12,100.0,2017,12
+Frasers Logistics and Industrial Trust,2017-12,100.0,2017,12
+Greater China Trust,2017-12,100.0,2017,12
+HDB,2017-12,-33.33333333333333,2017,12
+Mapletree,2017-12,100.0,2017,12
+OCBC,2017-12,100.0,2017,12
+REITs,2017-12,100.0,2017,12
+URA,2017-12,-100.0,2017,12
+Balmoral Gardens,2018-1,-100.0,2018,1
+CapitaLand,2018-1,100.0,2018,1
+Christopher Tang,2018-1,100.0,2018,1
+City Developments Limited,2018-1,0.0,2018,1
+DBS,2018-1,100.0,2018,1
+Frasers Centrepoint,2018-1,100.0,2018,1
+Frasers Logistics & Industrial Trust,2018-1,100.0,2018,1
+Greater China Commercial Trust,2018-1,100.0,2018,1
+HDB,2018-1,-33.33333333333333,2018,1
+Housing Board,2018-1,-100.0,2018,1
+Keppel Corp,2018-1,100.0,2018,1
+Kwek Leng Beng,2018-1,-100.0,2018,1
+Mapletree,2018-1,100.0,2018,1
+Millennium & Copthorne,2018-1,-100.0,2018,1
+Sembcorp Industries,2018-1,100.0,2018,1
+Singtel,2018-1,100.0,2018,1
+UOL,2018-1,100.0,2018,1
+Venture Corp,2018-1,100.0,2018,1
+Wheelock Properties,2018-1,100.0,2018,1
+Wing Tai,2018-1,100.0,2018,1
+Analysts,2018-2,-100.0,2018,2
+BTO,2018-2,-100.0,2018,2
+Condo,2018-2,-100.0,2018,2
+Frasers Centrepoint,2018-2,-100.0,2018,2
+HDB,2018-2,-33.33333333333333,2018,2
+Bloomberg,2018-3,-100.0,2018,3
+Champions,2018-3,-100.0,2018,3
+City Developments Limited,2018-3,-100.0,2018,3
+DBS,2018-3,-100.0,2018,3
+HDB,2018-3,-100.0,2018,3
+Housing Board,2018-3,100.0,2018,3

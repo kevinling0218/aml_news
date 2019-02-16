@@ -1,0 +1,122 @@
+source,target,link_type,article_id
+1MDB,Credit Suisse,ORGANIZATION,credit_suisse7_00002
+1MDB,UOB,ORGANIZATION,credit_suisse7_00002
+BLOOMBERG,Credit Suisse,ORGANIZATION,credit_suisse4_00003|credit_suisse7_00004
+BLOOMBERG,Tidjane Thiam,PERSON,credit_suisse7_00004
+BOS,Bank of Singapore,PERSON,credit_suisse7_00115
+BOS,Credit Suisse,PERSON,credit_suisse7_00115
+BOS,UBS,PERSON,credit_suisse7_00115
+Bank of America Merrill Lynch,Credit Suisse,ORGANIZATION,credit_suisse1_00030|credit_suisse1_00106|credit_suisse1_00145|credit_suisse2_00158
+Bank of America Merrill Lynch,DBS,ORGANIZATION,credit_suisse1_00106|credit_suisse1_00145
+Bank of America Merrill Lynch,DLT,ORGANIZATION,credit_suisse1_00145
+Bank of America Merrill Lynch,Morgan Stanley,ORGANIZATION,credit_suisse2_00158
+Bank of America Merrill Lynch,R3,ORGANIZATION,credit_suisse1_00030
+Bank of America Merrill Lynch,Tencent,ORGANIZATION,credit_suisse2_00158
+Bank of Singapore,Credit Suisse,ORGANIZATION,credit_suisse7_00104|credit_suisse7_00115
+Bank of Singapore,UBS,ORGANIZATION,credit_suisse7_00115
+Bank of Singapore,UBS Group,ORGANIZATION,credit_suisse7_00104
+Benjamin Cavalli,Credit Suisse,PERSON,credit_suisse2_00100|credit_suisse4_00023|credit_suisse7_00033|credit_suisse7_00049
+Benjamin Cavalli,Symasia Foundation,PERSON,credit_suisse2_00100
+Bernstein,Credit Suisse,PERSON,credit_suisse4_00100
+Bernstein,GGR,PERSON,credit_suisse4_00100
+Bernstein,VIP,PERSON,credit_suisse4_00100
+CSFS,China,ORGANIZATION,credit_suisse3_00000
+CSFS,Credit Suisse,ORGANIZATION,credit_suisse3_00000
+China,Credit Suisse,ORGANIZATION,credit_suisse3_00000
+Citi Joins Race,Credit Suisse,ORGANIZATION,credit_suisse3_00034
+Citi Joins Race,Julius Baer,ORGANIZATION,credit_suisse3_00034
+Citi Joins Race,Rivals,ORGANIZATION,credit_suisse3_00034
+Citi Joins Race,Siam Commercial Bank,ORGANIZATION,credit_suisse3_00034
+Co International Plc,Credit Suisse,ORGANIZATION,credit_suisse4_00184
+Co International Plc,Hong Kong) Ltd,ORGANIZATION,credit_suisse4_00184
+Co International Plc,Morgan Stanley,ORGANIZATION,credit_suisse4_00184
+Co International Plc,NagaCorp,ORGANIZATION,credit_suisse4_00184
+Credit Suisse,DBS,ORGANIZATION,credit_suisse1_00106|credit_suisse1_00145
+Credit Suisse,DLT,ORGANIZATION,credit_suisse1_00145
+Credit Suisse,Founder,PERSON,credit_suisse3_00010
+Credit Suisse,Founder Securities,ORGANIZATION,credit_suisse3_00002|credit_suisse3_00007|credit_suisse3_00013
+Credit Suisse,GDP Venture,ORGANIZATION,credit_suisse3_00177
+Credit Suisse,GGR,ORGANIZATION,credit_suisse4_00100|credit_suisse4_00156
+Credit Suisse,Garena,ORGANIZATION,credit_suisse4_00107|credit_suisse4_00147|credit_suisse4_00150
+Credit Suisse,Goldman Sachs,ORGANIZATION,credit_suisse3_00177|credit_suisse4_00107
+Credit Suisse,Goldman Sachs Group,ORGANIZATION,credit_suisse4_00147|credit_suisse4_00150
+Credit Suisse,Goldman Sachs Group Inc,ORGANIZATION,credit_suisse4_00096
+Credit Suisse,Goldman Sachs Group Inc.,ORGANIZATION,credit_suisse4_00134
+Credit Suisse,HSBC,ORGANIZATION,credit_suisse3_00007
+Credit Suisse,Hong Kong) Ltd,ORGANIZATION,credit_suisse4_00184
+Credit Suisse,JV,ORGANIZATION,credit_suisse3_00002
+Credit Suisse,Julius Baer,ORGANIZATION,credit_suisse3_00018|credit_suisse3_00034
+Credit Suisse,Kevin Burke,PERSON,credit_suisse2_00110
+Credit Suisse,Khazanah,ORGANIZATION,credit_suisse3_00177
+Credit Suisse,MAS,ORGANIZATION,credit_suisse1_00003
+Credit Suisse,Meg-Star,PERSON,credit_suisse4_00156
+Credit Suisse,Mikhail Brovman,PERSON,credit_suisse1_00005
+Credit Suisse,Millennials,PERSON,credit_suisse7_00100
+Credit Suisse,Morgan Stanley,ORGANIZATION,credit_suisse2_00158|credit_suisse3_00065|credit_suisse3_00177|credit_suisse4_00096|credit_suisse4_00134|credit_suisse4_00147|credit_suisse4_00150|credit_suisse4_00184|credit_suisse7_00146
+Credit Suisse,Morgan Stanley & Co,ORGANIZATION,credit_suisse4_00107
+Credit Suisse,NagaCorp,ORGANIZATION,credit_suisse4_00184
+Credit Suisse,OCBC,ORGANIZATION,credit_suisse3_00065|credit_suisse5_00000
+Credit Suisse,Owner,PERSON,credit_suisse4_00150
+Credit Suisse,Prime Minister,PERSON,credit_suisse7_00148
+Credit Suisse,R3,ORGANIZATION,credit_suisse1_00030
+Credit Suisse,Reits,ORGANIZATION,credit_suisse5_00000|credit_suisse7_00000
+Credit Suisse,Rivals,ORGANIZATION,credit_suisse3_00034
+Credit Suisse,Rowsley Limited,ORGANIZATION,credit_suisse1_00100
+Credit Suisse,Siam Commercial Bank,ORGANIZATION,credit_suisse3_00018|credit_suisse3_00034
+Credit Suisse,Singaporeans,PERSON,credit_suisse7_00153
+Credit Suisse,Standard Chartered,ORGANIZATION,credit_suisse1_00005|credit_suisse2_00110
+Credit Suisse,Symasia Foundation,ORGANIZATION,credit_suisse2_00100
+Credit Suisse,TIDJANE Thiam,PERSON,credit_suisse1_00008
+Credit Suisse,Tencent,ORGANIZATION,credit_suisse2_00158|credit_suisse4_00096|credit_suisse4_00107
+Credit Suisse,Thiam,PERSON,credit_suisse3_00010
+Credit Suisse,Tidjane Thiam,PERSON,credit_suisse6_00000|credit_suisse7_00004|credit_suisse7_00005|credit_suisse7_00014
+Credit Suisse,UBS,ORGANIZATION,credit_suisse7_00115
+Credit Suisse,UBS Group,ORGANIZATION,credit_suisse7_00104
+Credit Suisse,UOB,ORGANIZATION,credit_suisse1_00003|credit_suisse5_00000|credit_suisse7_00002
+Credit Suisse,VIP,ORGANIZATION,credit_suisse4_00100
+Credit Suisse,VIP GGR,ORGANIZATION,credit_suisse4_00022
+Credit Suisse,Venture,ORGANIZATION,credit_suisse3_00065
+DBS,DLT,ORGANIZATION,credit_suisse1_00145
+David Mulford,John Major,PERSON,credit_suisse7_00160
+Founder,Thiam,PERSON,credit_suisse3_00010
+Founder Securities,HSBC,ORGANIZATION,credit_suisse3_00007
+Founder Securities,JV,ORGANIZATION,credit_suisse3_00002
+GDP Venture,Goldman Sachs,ORGANIZATION,credit_suisse3_00177
+GDP Venture,Khazanah,ORGANIZATION,credit_suisse3_00177
+GDP Venture,Morgan Stanley,ORGANIZATION,credit_suisse3_00177
+GGR,Meg-Star,PERSON,credit_suisse4_00156
+GGR,VIP,ORGANIZATION,credit_suisse4_00100
+Garena,Goldman Sachs,ORGANIZATION,credit_suisse4_00107
+Garena,Goldman Sachs Group,ORGANIZATION,credit_suisse4_00147|credit_suisse4_00150
+Garena,Morgan Stanley,ORGANIZATION,credit_suisse4_00147|credit_suisse4_00150
+Garena,Morgan Stanley & Co,ORGANIZATION,credit_suisse4_00107
+Garena,Owner,PERSON,credit_suisse4_00150
+Garena,Tencent,ORGANIZATION,credit_suisse4_00107
+Goldman Sachs,Khazanah,ORGANIZATION,credit_suisse3_00177
+Goldman Sachs,Morgan Stanley,ORGANIZATION,credit_suisse3_00177
+Goldman Sachs,Morgan Stanley & Co,ORGANIZATION,credit_suisse4_00107
+Goldman Sachs,Tencent,ORGANIZATION,credit_suisse4_00107
+Goldman Sachs Group,Morgan Stanley,ORGANIZATION,credit_suisse4_00147|credit_suisse4_00150
+Goldman Sachs Group,Owner,PERSON,credit_suisse4_00150
+Goldman Sachs Group Inc,Morgan Stanley,ORGANIZATION,credit_suisse4_00096
+Goldman Sachs Group Inc,Tencent,ORGANIZATION,credit_suisse4_00096
+Goldman Sachs Group Inc.,Morgan Stanley,ORGANIZATION,credit_suisse4_00134
+Hong Kong) Ltd,Morgan Stanley,ORGANIZATION,credit_suisse4_00184
+Hong Kong) Ltd,NagaCorp,ORGANIZATION,credit_suisse4_00184
+Julius Baer,Rivals,ORGANIZATION,credit_suisse3_00034
+Julius Baer,Siam Commercial Bank,ORGANIZATION,credit_suisse3_00018|credit_suisse3_00034
+Kevin Burke,Standard Chartered,PERSON,credit_suisse2_00110
+Khazanah,Morgan Stanley,ORGANIZATION,credit_suisse3_00177
+MAS,UOB,ORGANIZATION,credit_suisse1_00003
+Mikhail Brovman,Standard Chartered,PERSON,credit_suisse1_00005
+Morgan Stanley,NagaCorp,ORGANIZATION,credit_suisse4_00184
+Morgan Stanley,OCBC,ORGANIZATION,credit_suisse3_00065
+Morgan Stanley,Owner,PERSON,credit_suisse4_00150
+Morgan Stanley,Tencent,ORGANIZATION,credit_suisse2_00158|credit_suisse4_00096
+Morgan Stanley,Venture,ORGANIZATION,credit_suisse3_00065
+Morgan Stanley & Co,Tencent,ORGANIZATION,credit_suisse4_00107
+OCBC,Reits,ORGANIZATION,credit_suisse5_00000
+OCBC,UOB,ORGANIZATION,credit_suisse5_00000
+OCBC,Venture,ORGANIZATION,credit_suisse3_00065
+Reits,UOB,ORGANIZATION,credit_suisse5_00000
+Rivals,Siam Commercial Bank,ORGANIZATION,credit_suisse3_00034

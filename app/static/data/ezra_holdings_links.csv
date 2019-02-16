@@ -1,0 +1,30 @@
+source,target,link_type,weight
+Ezra,Ezra Holdings,PERSON,12
+Emas Offshore,Ezra Holdings,ORGANIZATION,7
+Emas Chiyoda Subsea,Ezra Holdings,ORGANIZATION,4
+Chiyoda,Ezra Holdings,ORGANIZATION,3
+Ezra Holdings,Triyards,ORGANIZATION,3
+Emas Chiyoda Subsea,NYK,ORGANIZATION,2
+Ezra Holdings,NYK,ORGANIZATION,2
+Chiyoda,Emas Chiyoda Subsea,ORGANIZATION,2
+Ezra Holdings,Rickmers,PERSON,2
+Ezra Holdings,Oslo Stock Exchange,ORGANIZATION,2
+DBS,Ezra Holdings,ORGANIZATION,2
+Ezra Holdings,HK) Ltd,ORGANIZATION,2
+DBS,Triyards,ORGANIZATION,2
+EMAS,Ezra Holdings,ORGANIZATION,2
+EMAS Offshore,Ezra Holdings,ORGANIZATION,2
+Ezra,Triyards,PERSON,2
+EOL,Ezra Holdings,ORGANIZATION,2
+Ezra,HK) Ltd,PERSON,2
+Ezra Holdings,Singapore High Court,ORGANIZATION,2
+DBS,Ezra,PERSON,2
+BTI,Emas Offshore,ORGANIZATION,2
+Bankruptcy Court,Ezra Holdings,ORGANIZATION,2
+Emas Offshore,Singapore High Court,ORGANIZATION,1
+Emas Offshore,Oslo Stock Exchange,ORGANIZATION,1
+Chiyoda,EMAS,ORGANIZATION,1
+Chiyoda,NYK,ORGANIZATION,1
+Emas Chiyoda Subsea,Ezra,PERSON,1
+EOL,Emas Offshore,ORGANIZATION,1
+EMAS Offshore,Oslo Stock Exchange,ORGANIZATION,1

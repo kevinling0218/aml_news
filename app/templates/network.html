@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+    <title>Intelligent News</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{ url_for('static', filename='bower_components/bootstrap/dist/css/bootstrap.css') }}" rel="stylesheet"
+          media="screen">
+    <link href="../static/css/main.css?version={{range(1, 1001) | random}}" rel="stylesheet" media="screen">
+</head>
+
+<body>
+
+
+{% set active_network=True %}
+{% include 'template_top_header.html' %}
+
+<section id="entity_network">
+    <svg width="960" height="700"></svg>
+    <div id="toggle_person_button" status="shown">Hide Person</div>
+</section>
+
+<section id="section_news"></section>
+
+<script src="{{ url_for('static', filename='bower_components/jquery/dist/jquery.js') }}"></script>
+<script src="{{ url_for('static', filename='bower_components/bootstrap/dist/js/bootstrap.js') }}"></script>
+
+<script src="{{ url_for('static', filename='js/plotly-latest.min.js') }}"></script>
+<!--<script src="{{ url_for('static', filename='bower_components/d3/d3.js') }}"></script>-->
+<script src="{{ url_for('static', filename='js/d3.v4.min.js') }}"></script>
+
+<script type=text/javascript>
+    var nodes = {{data.nodes | safe}};
+    var links = {{data.links | safe}};
+    var graph = {'nodes': nodes, 'links':links};
+
+    var industry = '{{data.industry | safe }}'
+</script>
+
+<script src="../static/js/get_news_html.js?version={{range(1, 1001) | random}}"></script>
+<script src="../static/js/enable_sentiment_override.js?version={{range(1, 1001) | random}}"></script>
+<script src="../static/js/network.js?version={{range(1, 10001) | random}}"></script>
+
+</body>
+</html>

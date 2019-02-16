@@ -1,0 +1,135 @@
+source,target,link_type,weight
+BTO,HDB,ORGANIZATION,18
+HDB,SBF,ORGANIZATION,7
+City Developments Limited,Millennium & Copthorne,ORGANIZATION,6
+BTO,SBF,ORGANIZATION,6
+City Developments Limited,Kwek Leng Beng,PERSON,6
+BT,City Developments Limited,ORGANIZATION,5
+HDB,ROF,ORGANIZATION,5
+City Developments Limited,DBS,ORGANIZATION,5
+HDB,Housing Board,ORGANIZATION,4
+City Developments Limited,Teambuild,ORGANIZATION,4
+HDB,S&CC,ORGANIZATION,4
+City Developments Limited,Singapore Sustainability Academy,ORGANIZATION,4
+Frasers Centrepoint,Frasers Logistics & Industrial Trust,ORGANIZATION,4
+City Developments Limited,Frasers Centrepoint,ORGANIZATION,4
+City Developments Limited,Urban Redevelopment Authority,ORGANIZATION,3
+Dragages Singapore,Teambuild,ORGANIZATION,3
+ROF,SBF,ORGANIZATION,3
+Frasers Centrepoint,OCBC,ORGANIZATION,3
+Singapore Sustainability Academy,Sustainable Energy Association of Singapore,ORGANIZATION,3
+City Developments Limited,Dragages Singapore,ORGANIZATION,3
+Kwek Leng Beng,Millennium & Copthorne,PERSON,3
+Bellevue Properties,City Developments Limited,ORGANIZATION,3
+Christopher Chitty,City Developments Limited,PERSON,3
+Bloomberg,City Developments Limited,ORGANIZATION,3
+Frasers Centrepoint,Singapore Exchange,ORGANIZATION,3
+Frasers Centrepoint,Frasers Commercial Trust,ORGANIZATION,3
+HDB,URA,ORGANIZATION,3
+DBS,Frasers Centrepoint,ORGANIZATION,3
+Hong Leong Group,Kwek Leng Beng,PERSON,3
+City Developments Limited,Sustainable Energy Association of Singapore,ORGANIZATION,3
+Hougang,JLL,ORGANIZATION,3
+City Developments Limited,Most Sustainable Corporation,ORGANIZATION,3
+HDB,Town councils,ORGANIZATION,3
+City Developments Limited,Tai Tak Estates Sdn Bhd,ORGANIZATION,3
+BCA,City Developments Limited,ORGANIZATION,3
+HDB,ST,ORGANIZATION,3
+BCA,Teambuild,ORGANIZATION,3
+City Developments Limited,URA,ORGANIZATION,3
+Ministry of National Development,Town councils,ORGANIZATION,2
+FBP,Frasers Commercial Trust,ORGANIZATION,2
+HDB,Ministry of National Development,ORGANIZATION,2
+FCOT,Frasers Centrepoint,ORGANIZATION,2
+FCOT,Frasers Commercial Trust,ORGANIZATION,2
+HDB,Ministry of National,ORGANIZATION,2
+City Developments Limited,Tampines West MRT,ORGANIZATION,2
+MOF,Ministry of Finance,ORGANIZATION,2
+FIRST Sponsor Group Limited,Tai Tak Estates Sdn Bhd,ORGANIZATION,2
+Christopher Chitty,Most Sustainable Corporation,PERSON,2
+Microsoft,Total Oil,ORGANIZATION,2
+FLT,Frasers Centrepoint,ORGANIZATION,2
+HDB,SERS,ORGANIZATION,2
+FBP,FCOT,ORGANIZATION,2
+Christopher Tang,Frasers Centrepoint,PERSON,2
+Kwek Leng Beng,Sherman Kwek,PERSON,2
+FBP,Frasers Centrepoint,ORGANIZATION,2
+HDB,SLA,ORGANIZATION,2
+City Developments Limited,Sherman Kwek,PERSON,2
+City Developments Limited,REUTERS,ORGANIZATION,2
+HUDC,Hougang,ORGANIZATION,2
+HDB,Ng,PERSON,2
+City Developments Limited,FIRST Sponsor Group Limited,ORGANIZATION,2
+EC,Housing and Development Board,ORGANIZATION,2
+DBS,Frasers Logistics & Industrial Trust,ORGANIZATION,2
+City Developments Limited,Hong Leong Group,ORGANIZATION,2
+HDB,Some,PERSON,2
+HDB,Parliament,ORGANIZATION,2
+Frasers Logistics & Industrial Trust,Greater China Commercial Trust,ORGANIZATION,2
+BCA,Dragages Singapore,ORGANIZATION,2
+Tampines West MRT,URA,ORGANIZATION,2
+BTO,Housing and Development Board,ORGANIZATION,2
+Frasers Centrepoint,Microsoft,ORGANIZATION,2
+Frasers Centrepoint,Greater China Commercial Trust,ORGANIZATION,2
+Bloomberg,DBS,ORGANIZATION,2
+Google,HDB,ORGANIZATION,2
+Frasers Centrepoint,Total Oil,ORGANIZATION,2
+Analysts,HDB,PERSON,2
+BTO,PUB,ORGANIZATION,2
+BTO,ROF,ORGANIZATION,2
+Frasers Centrepoint,JV,ORGANIZATION,2
+BT,Kwek Leng Beng,PERSON,2
+BT,Frasers Centrepoint,ORGANIZATION,2
+Frasers Centrepoint,Mapletree,ORGANIZATION,2
+BT,Sherman Kwek,PERSON,2
+Frasers Logistics & Industrial Trust,Some,PERSON,1
+Frasers Logistics & Industrial Trust,Mapletree,ORGANIZATION,1
+HUDC,JLL,ORGANIZATION,1
+HDB,Ministry of Finance,ORGANIZATION,1
+HDB,MOF,ORGANIZATION,1
+HDB,PUB,ORGANIZATION,1
+Greater China Commercial Trust,Mapletree,ORGANIZATION,1
+Parliament,Some,PERSON,1
+Ministry of National,SLA,ORGANIZATION,1
+Ministry of Finance,Parliament,ORGANIZATION,1
+Millennium & Copthorne,REUTERS,ORGANIZATION,1
+SERS,URA,ORGANIZATION,1
+URA,Urban Redevelopment Authority,ORGANIZATION,1
+Housing and Development Board,SBF,ORGANIZATION,1
+Housing Board,SBF,ORGANIZATION,1
+Housing Board,Ministry of Finance,ORGANIZATION,1
+Housing Board,MOF,ORGANIZATION,1
+Hong Leong Group,Millennium & Copthorne,ORGANIZATION,1
+Mapletree,OCBC,ORGANIZATION,1
+MOF,Parliament,ORGANIZATION,1
+Kwek Leng Beng,REUTERS,PERSON,1
+Housing Board,ROF,ORGANIZATION,1
+Frasers Commercial Trust,JV,ORGANIZATION,1
+City Developments Limited,EC,ORGANIZATION,1
+City Developments Limited,Mapletree,ORGANIZATION,1
+City Developments Limited,JLL,ORGANIZATION,1
+City Developments Limited,Frasers Logistics & Industrial Trust,ORGANIZATION,1
+City Developments Limited,Housing and Development Board,ORGANIZATION,1
+City Developments Limited,Hougang,ORGANIZATION,1
+City Developments Limited,Greater China Commercial Trust,ORGANIZATION,1
+BT,Singapore Sustainability Academy,ORGANIZATION,1
+BT,Millennium & Copthorne,ORGANIZATION,1
+Analysts,ROF,PERSON,1
+Analysts,Frasers Centrepoint,PERSON,1
+Bellevue Properties,Urban Redevelopment Authority,ORGANIZATION,1
+Bellevue Properties,URA,ORGANIZATION,1
+Bellevue Properties,Tampines West MRT,ORGANIZATION,1
+BTO,Some,PERSON,1
+BTO,Parliament,ORGANIZATION,1
+BTO,Housing Board,ORGANIZATION,1
+FLT,OCBC,ORGANIZATION,1
+FBP,JV,ORGANIZATION,1
+Frasers Commercial Trust,Frasers Logistics & Industrial Trust,ORGANIZATION,1
+Frasers Centrepoint,Urban Redevelopment Authority,ORGANIZATION,1
+Frasers Centrepoint,URA,ORGANIZATION,1
+Frasers Centrepoint,Some,PERSON,1
+FCOT,JV,ORGANIZATION,1
+DBS,Mapletree,ORGANIZATION,1
+DBS,JV,ORGANIZATION,1
+DBS,Greater China Commercial Trust,ORGANIZATION,1
+DBS,Frasers Commercial Trust,ORGANIZATION,1

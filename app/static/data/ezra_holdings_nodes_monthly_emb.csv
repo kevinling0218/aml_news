@@ -1,0 +1,34 @@
+name,year_month,sentiment_emb,year,month
+CEO signals bank,2017-2,-100.0,2017,2
+CIMB Group Holdings Bhd,2017-2,-100.0,2017,2
+DBS,2017-2,-100.0,2017,2
+Ezra,2017-2,-100.0,2017,2
+Ezra Holdings,2017-2,-100.0,2017,2
+Ezra Holdings Ltd,2017-2,-100.0,2017,2
+Swiber,2017-2,-100.0,2017,2
+ECS Group,2017-3,-100.0,2017,3
+EMAS,2017-3,-100.0,2017,3
+EZRA Holdings,2017-3,-100.0,2017,3
+Emas Chiyoda Subsea,2017-3,-100.0,2017,3
+Ezra,2017-3,-100.0,2017,3
+Ezra Holdings,2017-3,-100.0,2017,3
+Ezra Holdings Limited,2017-3,-100.0,2017,3
+ST Engineering,2017-3,-100.0,2017,3
+Singapore Exchange,2017-3,-100.0,2017,3
+VT Halter Marine,2017-3,-100.0,2017,3
+EOL,2017-4,-100.0,2017,4
+Ezra,2017-4,100.0,2017,4
+Ezra Holdings,2017-4,0.0,2017,4
+ICBC,2017-4,-100.0,2017,4
+Lee Kian Soo,2017-4,100.0,2017,4
+Creditors,2017-6,-100.0,2017,6
+EMAS Chiyoda,2017-6,-100.0,2017,6
+Ezra Holdings,2017-6,100.0,2017,6
+Ezra Holdings,2017-7,-100.0,2017,7
+Nam Cheong,2017-7,-100.0,2017,7
+Rickmers Maritime,2017-8,100.0,2017,8
+Emas Offshore,2017-12,-100.0,2017,12
+Ezra Holdings Ltd,2017-12,-100.0,2017,12
+Lewek Ariel,2017-12,-100.0,2017,12
+EOPL,2018-3,-100.0,2018,3
+Ezra Holdings,2018-3,-100.0,2018,3

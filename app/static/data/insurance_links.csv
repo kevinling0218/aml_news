@@ -1,0 +1,117 @@
+source,target,link_type,weight
+AIA,Great Eastern,ORGANIZATION,13
+Great Eastern,OCBC,ORGANIZATION,10
+Aviva,Great Eastern,ORGANIZATION,10
+Great Eastern,Prudential,ORGANIZATION,7
+AXA,Aviva,ORGANIZATION,7
+Great Eastern,NTUC Income,ORGANIZATION,7
+Aviva,NTUC Income,ORGANIZATION,7
+AIA,Prudential,ORGANIZATION,6
+AIA,Aviva,ORGANIZATION,6
+AXA,Prudential,ORGANIZATION,5
+AXA,Great Eastern,ORGANIZATION,5
+Aviva,Prudential,ORGANIZATION,5
+Advisors Alliance Group,Great Eastern,ORGANIZATION,4
+AXA,NTUC Income,ORGANIZATION,4
+OCBC,UEL,ORGANIZATION,4
+AIA,AXA,ORGANIZATION,4
+Credit Suisse,OCBC,ORGANIZATION,4
+Lee,OCBC,PERSON,3
+Government,Great Eastern,ORGANIZATION,3
+AIA,Advisors Alliance Group,ORGANIZATION,3
+Credit Suisse,Great Eastern,ORGANIZATION,3
+Great Eastern,Lee,PERSON,3
+Aviva,Government,ORGANIZATION,3
+Great Eastern,Life Insurance Association Singapore,ORGANIZATION,2
+Aviva,Chandler MacLeod,PERSON,2
+Aviva,Bell Ward,PERSON,2
+Credit Suisse,UEL,ORGANIZATION,2
+Great Eastern,Peter Tan Organisation,ORGANIZATION,2
+DDI,HR Vendors of the Year Awards,ORGANIZATION,2
+DDI,EgonZehnder,PERSON,2
+Great Eastern,UE,ORGANIZATION,2
+Aon,HR Vendors of the Year Awards,ORGANIZATION,2
+Aviva,DDI,ORGANIZATION,2
+Great Eastern,WBL,ORGANIZATION,2
+Aon,EY,ORGANIZATION,2
+Aon,Deloitte,ORGANIZATION,2
+Aon,DDI,ORGANIZATION,2
+DDI,EY,ORGANIZATION,2
+Aon,Chandler MacLeod,PERSON,2
+Aon,Bell Ward,PERSON,2
+DDI,Deloitte,ORGANIZATION,2
+Aon,Aviva,ORGANIZATION,2
+High Court,Prudential,ORGANIZATION,2
+High Court,Ramesh Krishnan,PERSON,2
+IP insurers,Prudential,ORGANIZATION,2
+Deloitte,EY,ORGANIZATION,2
+Chandler MacLeod,EY,PERSON,2
+Aviva,Deloitte,ORGANIZATION,2
+Chandler MacLeod,Deloitte,PERSON,2
+Chandler MacLeod,EgonZehnder,PERSON,2
+Chandler MacLeod,DDI,PERSON,2
+EY,EgonZehnder,PERSON,2
+EY,HR Vendors of the Year Awards,ORGANIZATION,2
+EgonZehnder,HR Vendors of the Year Awards,PERSON,2
+Bell Ward,HR Vendors of the Year Awards,PERSON,2
+Bell Ward,EgonZehnder,PERSON,2
+Bell Ward,EY,PERSON,2
+Bell Ward,Deloitte,PERSON,2
+Bell Ward,DDI,PERSON,2
+Bell Ward,Chandler MacLeod,PERSON,2
+Deloitte,HR Vendors of the Year Awards,ORGANIZATION,2
+GEH,OCBC,ORGANIZATION,2
+Chandler MacLeod,HR Vendors of the Year Awards,PERSON,2
+Government,NTUC Income,ORGANIZATION,2
+Aviva,IP insurers,ORGANIZATION,2
+Great Eastern,IP insurers,ORGANIZATION,2
+Lee,UE,PERSON,2
+Great Eastern,IPs,ORGANIZATION,2
+Aviva,HR Vendors of the Year Awards,ORGANIZATION,2
+Deloitte,EgonZehnder,PERSON,2
+Great Eastern,Life Insurance Association,ORGANIZATION,2
+Aviva,EgonZehnder,PERSON,2
+Aviva,EY,ORGANIZATION,2
+Aon,EgonZehnder,PERSON,2
+AXA,IPs,ORGANIZATION,2
+AIA,Chandler MacLeod,PERSON,2
+AXA,IP insurers,ORGANIZATION,2
+AIA,IP insurers,ORGANIZATION,2
+Pico Pro,Prudential,ORGANIZATION,2
+AIA,HR Vendors of the Year Awards,ORGANIZATION,2
+AIA,EgonZehnder,PERSON,2
+OCBC,UE,ORGANIZATION,2
+AIA,EY,ORGANIZATION,2
+AIA,Deloitte,ORGANIZATION,2
+AIG,NTUC Income,ORGANIZATION,2
+AIA,DDI,ORGANIZATION,2
+OCBC,WBL,ORGANIZATION,2
+AIG,AXA,ORGANIZATION,2
+AIG,Aviva,ORGANIZATION,2
+AIA,Life Insurance Association,ORGANIZATION,2
+AIA,Peter Tan Organisation,ORGANIZATION,2
+Lee,WBL,PERSON,2
+Peter Tan Organisation,Prudential,ORGANIZATION,2
+AIA,Aon,ORGANIZATION,2
+UE,WBL,ORGANIZATION,2
+AIA,Bell Ward,PERSON,2
+AIA,Life Insurance Association Singapore,ORGANIZATION,2
+GEH,Prudential,ORGANIZATION,1
+Lee,UEL,PERSON,1
+Prudential,Ramesh Krishnan,PERSON,1
+IPs,NTUC Income,ORGANIZATION,1
+IP insurers,IPs,ORGANIZATION,1
+Life Insurance Association,OCBC,ORGANIZATION,1
+IPs,Prudential,ORGANIZATION,1
+Great Eastern,UEL,ORGANIZATION,1
+AXA,UEL,ORGANIZATION,1
+AXA,Ramesh Krishnan,PERSON,1
+Advisors Alliance Group,Peter Tan Organisation,ORGANIZATION,1
+AXA,OCBC,ORGANIZATION,1
+Advisors Alliance Group,Prudential,ORGANIZATION,1
+AIA,IPs,ORGANIZATION,1
+AIA,OCBC,ORGANIZATION,1
+AXA,High Court,ORGANIZATION,1
+Credit Suisse,Lee,PERSON,1
+Aviva,Peter Tan Organisation,ORGANIZATION,1
+Aviva,IPs,ORGANIZATION,1

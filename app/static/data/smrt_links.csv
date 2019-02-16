@@ -1,0 +1,119 @@
+source,target,link_type,weight
+EWL,SMRT,ORGANIZATION,30
+Commuters,SMRT,PERSON,16
+Bukit Panjang LRT,SMRT,ORGANIZATION,11
+Land Transport Authority,SMRT,ORGANIZATION,10
+SMRT,Seah Moon Ming,PERSON,10
+Patrick Nathan,SMRT,PERSON,10
+SBS Transit,SMRT,ORGANIZATION,9
+LTA,SMRT,ORGANIZATION,9
+NSL,SMRT,ORGANIZATION,7
+Khaw Boon Wan,SMRT,PERSON,7
+Commuters,EWL,PERSON,5
+SMRT,Thomson,ORGANIZATION,4
+LTA,Land Transport Authority,ORGANIZATION,4
+SBS Transit,Thomson,ORGANIZATION,4
+EWL,NSL,ORGANIZATION,4
+Desmond Kuek,SMRT,PERSON,4
+North-South,SMRT,ORGANIZATION,4
+Khaw,SMRT,PERSON,3
+Khaw Boon Wan,Seah Moon Ming,PERSON,3
+SMRT,Tanah Merah,PERSON,3
+SMRT,TEL,ORGANIZATION,3
+RTS,SMRT,ORGANIZATION,3
+TEL,Thomson,ORGANIZATION,3
+Koh Yong Guan,SMRT,PERSON,3
+SMRT,The Straits Times,ORGANIZATION,3
+Johor Baru-Singapore Rapid Transit System,SMRT,ORGANIZATION,3
+SBS Transit,TEL,ORGANIZATION,3
+EWL,The Straits Times,ORGANIZATION,3
+Desmond Kuek,Khaw Boon Wan,PERSON,3
+Pavilion Energy,Seah Moon Ming,PERSON,3
+SINGAPORE - Rail,SMRT,ORGANIZATION,3
+Johor Baru-Singapore Rapid Transit System,RTS,ORGANIZATION,3
+Prasarana Malaysia,SMRT,ORGANIZATION,3
+Lim Say Heng,SMRT,PERSON,3
+Land Transport Authority,TWE,ORGANIZATION,2
+Bukit Panjang Light Rail Transit,SMRT,ORGANIZATION,2
+Rosario Ortiz,SMRT,PERSON,2
+Parliament,SMRT,ORGANIZATION,2
+Clementi,Commuters,PERSON,2
+McLaren Applied Technologies,SMRT,ORGANIZATION,2
+Clementi,EWL,PERSON,2
+Desmond Kuek,Seah Moon Ming,PERSON,2
+Clementi,SMRT,PERSON,2
+Lianhe Zaobao,Seah Moon Ming,PERSON,2
+Prasarana,RTS,ORGANIZATION,2
+PSLE,SMRT,ORGANIZATION,2
+PSLE,Tanah Merah,PERSON,2
+Commuters,Lianhe Zaobao,PERSON,2
+F1,McLaren Applied Technologies,ORGANIZATION,2
+F1,SMRT,ORGANIZATION,2
+Commuters,Tanah Merah,PERSON,2
+EWL,Thales,ORGANIZATION,2
+EWL,Tanah Merah,PERSON,2
+Khaw Boon Wan,LTA,PERSON,2
+MOM,SMRT,PERSON,2
+Khaw Boon Wan,Parliament,PERSON,2
+Margaret Teo,SMRT,PERSON,2
+Mohamad Nazaruddin,Rosario Ortiz,PERSON,2
+Mohamad Nazaruddin,SMRT,PERSON,2
+Commuters,The Straits Times,PERSON,2
+Commuters,NSL,PERSON,2
+SMRT,Track Access Management Office,ORGANIZATION,2
+EWL,LTA,ORGANIZATION,2
+Commuters,Seah Moon Ming,PERSON,2
+NSL,TWE,ORGANIZATION,2
+SMRT,TWE,ORGANIZATION,2
+East-West MRT,SMRT,ORGANIZATION,2
+NSL,The Straits Times,ORGANIZATION,2
+Lianhe Zaobao,SMRT,ORGANIZATION,2
+Land Transport Authority,NSL,ORGANIZATION,2
+Commuters,Patrick Nathan,PERSON,2
+Johor Baru-Singapore Rapid Transit System,Prasarana,ORGANIZATION,2
+Prasarana,SMRT,ORGANIZATION,2
+LTA,Thales,ORGANIZATION,1
+LTA,TWE,ORGANIZATION,1
+LTA,Seah Moon Ming,PERSON,1
+LTA,NSL,ORGANIZATION,1
+Koh Yong Guan,Seah Moon Ming,PERSON,1
+Land Transport Authority,Thomson,ORGANIZATION,1
+Land Transport Authority,Thales,ORGANIZATION,1
+Land Transport Authority,TEL,ORGANIZATION,1
+Land Transport Authority,SBS Transit,ORGANIZATION,1
+Land Transport Authority,RTS,ORGANIZATION,1
+Land Transport Authority,Prasarana,ORGANIZATION,1
+SMRT,Thales,ORGANIZATION,1
+SINGAPORE - Rail,Thomson,ORGANIZATION,1
+SINGAPORE - Rail,TEL,ORGANIZATION,1
+TWE,Thales,ORGANIZATION,1
+SBS Transit,SINGAPORE - Rail,ORGANIZATION,1
+NSL,Thales,ORGANIZATION,1
+RTS,SINGAPORE - Rail,ORGANIZATION,1
+Prasarana Malaysia,SINGAPORE - Rail,ORGANIZATION,1
+Prasarana Malaysia,RTS,ORGANIZATION,1
+Pavilion Energy,SMRT,ORGANIZATION,1
+Patrick Nathan,The Straits Times,PERSON,1
+Clementi,North-South,PERSON,1
+Khaw Boon Wan,Thales,PERSON,1
+Desmond Kuek,Parliament,PERSON,1
+Desmond Kuek,LTA,PERSON,1
+Desmond Kuek,Khaw,PERSON,1
+Commuters,North-South,PERSON,1
+Commuters,Land Transport Authority,PERSON,1
+Bukit Panjang LRT,SBS Transit,ORGANIZATION,1
+Bukit Panjang LRT,North-South,ORGANIZATION,1
+Bukit Panjang LRT,Land Transport Authority,ORGANIZATION,1
+Bukit Panjang LRT,LTA,ORGANIZATION,1
+Bukit Panjang LRT,Commuters,PERSON,1
+Johor Baru-Singapore Rapid Transit System,SINGAPORE - Rail,ORGANIZATION,1
+Johor Baru-Singapore Rapid Transit System,Prasarana Malaysia,ORGANIZATION,1
+Johor Baru-Singapore Rapid Transit System,Land Transport Authority,ORGANIZATION,1
+Khaw,Seah Moon Ming,PERSON,1
+EWL,Parliament,ORGANIZATION,1
+East-West MRT,North-South,ORGANIZATION,1
+EWL,TWE,ORGANIZATION,1
+EWL,Patrick Nathan,PERSON,1
+EWL,PSLE,ORGANIZATION,1
+EWL,Land Transport Authority,ORGANIZATION,1
+EWL,Khaw Boon Wan,PERSON,1

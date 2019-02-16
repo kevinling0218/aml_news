@@ -1,0 +1,4 @@
+name,type,importance,sentiment_emb
+Navios Containers,PERSON,0.06166865609632915,-100.0
+Navios Partners,ORGANIZATION,0.044940845982970275,-100.0
+Rickmers Trust,ORGANIZATION,0.030066491507750353,-100.0

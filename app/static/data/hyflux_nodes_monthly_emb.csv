@@ -1,0 +1,85 @@
+name,year_month,sentiment_emb,year,month
+Hyflux,2017-1,100.0,2017,1
+Trump-Kim,2017-1,100.0,2017,1
+Vivian Balakrishnan,2017-1,100.0,2017,1
+WATER treatment specialist,2017-1,100.0,2017,1
+Hydrochem Saudi,2017-2,100.0,2017,2
+Hydrochem Saudi Arabia,2017-2,100.0,2017,2
+Hyflux,2017-2,100.0,2017,2
+MOU,2017-2,100.0,2017,2
+SWCC,2017-2,100.0,2017,2
+Brexit,2017-4,100.0,2017,4
+China International Capital Corporation,2017-4,100.0,2017,4
+DBS,2017-4,100.0,2017,4
+Digibank,2017-4,100.0,2017,4
+Hyflux,2017-4,0.0,2017,4
+OTC,2017-4,-100.0,2017,4
+Oxley,2017-4,100.0,2017,4
+Saline Water Conversion Corp.,2017-4,-100.0,2017,4
+ACWA Power,2017-5,100.0,2017,5
+CGH,2017-5,100.0,2017,5
+Hyflux,2017-5,-33.33333333333333,2017,5
+Padmanathan,2017-5,100.0,2017,5
+Saline Water Conversion Corporation,2017-5,100.0,2017,5
+Tuaspring,2017-5,-100.0,2017,5
+Banking Bank,2017-7,-100.0,2017,7
+Hyflux,2017-7,-100.0,2017,7
+Olivia Lum,2017-7,-100.0,2017,7
+Women,2017-7,-100.0,2017,7
+Danaher,2017-8,100.0,2017,8
+Hyflux,2017-8,-100.0,2017,8
+India,2017-8,-100.0,2017,8
+Manufacturers,2017-8,100.0,2017,8
+SWCC,2017-8,-100.0,2017,8
+Veolia,2017-8,100.0,2017,8
+Barka,2017-9,100.0,2017,9
+CITIC Envirotech,2017-9,-100.0,2017,9
+Hyflux,2017-9,33.33333333333333,2017,9
+Modern Channels Services,2017-9,100.0,2017,9
+Oman Public Authority for Electricity and Water,2017-9,-100.0,2017,9
+PAEW,2017-9,-100.0,2017,9
+Sembcorp Marine,2017-9,-100.0,2017,9
+Singtel,2017-9,-100.0,2017,9
+Suez,2017-9,100.0,2017,9
+Wadi Dayqah,2017-9,100.0,2017,9
+Hyflux,2017-10,100.0,2017,10
+Kay Hian,2017-10,100.0,2017,10
+LMIR Trust,2017-10,100.0,2017,10
+PT Lippo Karawaci Tbk,2017-10,100.0,2017,10
+Palmer,2017-10,100.0,2017,10
+Trump-Kim,2017-10,100.0,2017,10
+UOB,2017-10,100.0,2017,10
+Vivian Balakrishnan,2017-10,100.0,2017,10
+Hyflux,2017-11,-100.0,2017,11
+Novasep,2017-11,100.0,2017,11
+Players,2017-11,100.0,2017,11
+Hyflux,2017-12,100.0,2017,12
+MARCO Polo Marine,2017-12,100.0,2017,12
+Marco Polo,2017-12,100.0,2017,12
+Oon,2017-12,100.0,2017,12
+Shareholders,2017-12,100.0,2017,12
+Singapore Exchange,2017-12,100.0,2017,12
+Sports Hub,2017-12,100.0,2017,12
+Pall Corporation,2018-1,100.0,2018,1
+Rodenstock,2018-1,100.0,2018,1
+Sun Lens,2018-1,100.0,2018,1
+Atech,2018-2,100.0,2018,2
+CTI,2018-2,100.0,2018,2
+Hi-Tech,2018-2,100.0,2018,2
+Hyflux,2018-2,-60.0,2018,2
+Jiangsu Jiuwu,2018-2,100.0,2018,2
+Meidensha,2018-2,100.0,2018,2
+Novasep,2018-2,100.0,2018,2
+Olivia Lum,2018-2,-100.0,2018,2
+Veolia Water Technologies,2018-2,100.0,2018,2
+Noble,2018-3,-100.0,2018,3
+Noble Group Limited,2018-3,-100.0,2018,3
+Richard Elman,2018-3,-100.0,2018,3
+NOBLE Group,2018-4,100.0,2018,4
+New Noble,2018-4,100.0,2018,4
+Richard Elman,2018-4,100.0,2018,4
+Hydrochem,2018-5,100.0,2018,5
+Hyflux,2018-5,-20.0,2018,5
+Malayan Banking Berhad,2018-5,-100.0,2018,5
+Moody's,2018-5,-100.0,2018,5
+Moody's Investors Service,2018-5,-100.0,2018,5

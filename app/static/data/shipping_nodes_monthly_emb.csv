@@ -1,0 +1,26 @@
+name,year_month,sentiment_emb,year,month
+Ashish Bhasin,2017-1,100.0,2017,1
+Jean-Paul Burge,2017-1,100.0,2017,1
+ABACE,2017-4,100.0,2017,4
+Bell Helicopter Boosts Sales In Asia And Reveals Future Technology,2017-4,100.0,2017,4
+UBS,2017-5,100.0,2017,5
+India,2017-7,100.0,2017,7
+NDA,2017-7,100.0,2017,7
+Division,2017-11,100.0,2017,11
+Hai Thach,2017-11,-100.0,2017,11
+Overwatch League,2017-11,100.0,2017,11
+PV Oil,2017-11,-100.0,2017,11
+Petronas,2017-11,-100.0,2017,11
+Unesco,2017-11,100.0,2017,11
+United,2017-11,100.0,2017,11
+Asia Pacific Innovation Center,2018-1,100.0,2018,1
+Hewlett Packard Enterprise,2018-1,100.0,2018,1
+Hon Hai,2018-1,100.0,2018,1
+Investors,2018-1,100.0,2018,1
+Jason Tan,2018-1,100.0,2018,1
+TSMC,2018-1,100.0,2018,1
+Ekta Kapoor,2018-2,-100.0,2018,2
+Shoaib Ibrahim,2018-2,-100.0,2018,2
+Q1,2018-3,100.0,2018,3
+Trans-Pacific Partnership,2018-3,100.0,2018,3
+WWE,2018-4,100.0,2018,4

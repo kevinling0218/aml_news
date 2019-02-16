@@ -1,0 +1,273 @@
+source,target,link_type,article_id
+7-Eleven,DBS,ORGANIZATION,dbs_public_01234
+7-Eleven,POSB,ORGANIZATION,dbs_public_01234
+Allianz,DBS,ORGANIZATION,dbs_public_00042
+Allianz,Manulife Financial Asia,ORGANIZATION,dbs_public_00042
+Andre Machado,Cleveland Clinic Neurological Institute,PERSON,dbs_public_00023
+Ang Chiew Leng,DBS,PERSON,dbs_public_00344
+BSX,Boston Scientific,ORGANIZATION,dbs_public_00596|dbs_public_01148
+BSX,Boston Scientific Stock,ORGANIZATION,dbs_public_01148
+BSX,FDA,ORGANIZATION,dbs_public_01148
+Bloomberg,Champions,ORGANIZATION,dbs_public_01425
+Bloomberg,City Developments Limited,ORGANIZATION,dbs_public_01200|dbs_public_01221|dbs_public_01226|dbs_public_01425
+Bloomberg,DBS,ORGANIZATION,dbs_public_01200|dbs_public_01221|dbs_public_01226|dbs_public_01425
+Boston Scientific,Boston Scientific Corporation BSX,ORGANIZATION,dbs_public_01155
+Boston Scientific,Boston Scientific Stock,ORGANIZATION,dbs_public_01148
+Boston Scientific,DBS,ORGANIZATION,dbs_public_01186
+Boston Scientific,FDA,ORGANIZATION,dbs_public_01148|dbs_public_01155|dbs_public_01186
+Boston Scientific,U.S. Food and Drug Administration,ORGANIZATION,dbs_public_01151
+Boston Scientific Corporation BSX,FDA,ORGANIZATION,dbs_public_01155
+Boston Scientific Stock,FDA,ORGANIZATION,dbs_public_01148
+Business Times,CIMB,ORGANIZATION,dbs_public_00968
+Business Times,Caterpillar,ORGANIZATION,dbs_public_00968
+Business Times,DBS,ORGANIZATION,dbs_public_00968
+Business Times,Ezion,ORGANIZATION,dbs_public_00968
+Business Times,Maybank,ORGANIZATION,dbs_public_00968
+Business Times,OCBC,ORGANIZATION,dbs_public_00968
+Business Times,RHB,ORGANIZATION,dbs_public_00968
+Business Times,UOB,ORGANIZATION,dbs_public_00968
+CIMB,Caterpillar,ORGANIZATION,dbs_public_00968|dbs_public_01346
+CIMB,DBS,ORGANIZATION,dbs_public_00968|dbs_public_01346
+CIMB,Ezion,ORGANIZATION,dbs_public_00968|dbs_public_01346
+CIMB,MayBank,ORGANIZATION,dbs_public_01346
+CIMB,Maybank,ORGANIZATION,dbs_public_00968
+CIMB,OCBC,ORGANIZATION,dbs_public_00968|dbs_public_01346
+CIMB,RHB,ORGANIZATION,dbs_public_00968
+CIMB,UOB,ORGANIZATION,dbs_public_00968|dbs_public_01346
+CIO,Chief Innovation Officer,PERSON,dbs_public_00211
+CIO,DBS,ORGANIZATION,dbs_public_00211
+CIO) Neal Cross,DBS,PERSON,dbs_public_00516
+CNBC,DBS,ORGANIZATION,dbs_public_00356
+CNBC,Group Head,PERSON,dbs_public_00356
+CNBC,Lim Say Boon,PERSON,dbs_public_00399
+CNBC,Private Bank,ORGANIZATION,dbs_public_00399
+CNBC,Su Shan Tan,ORGANIZATION,dbs_public_00356
+Carousell,DBS,PERSON,dbs_public_01600|dbs_public_01614
+Caterpillar,DBS,ORGANIZATION,dbs_public_00968|dbs_public_01346
+Caterpillar,Ezion,ORGANIZATION,dbs_public_00968|dbs_public_01346
+Caterpillar,MayBank,ORGANIZATION,dbs_public_01346
+Caterpillar,Maybank,ORGANIZATION,dbs_public_00968
+Caterpillar,OCBC,ORGANIZATION,dbs_public_00968|dbs_public_01346
+Caterpillar,RHB,ORGANIZATION,dbs_public_00968
+Caterpillar,UOB,ORGANIZATION,dbs_public_00968|dbs_public_01346
+Champions,City Developments Limited,ORGANIZATION,dbs_public_01425
+Champions,DBS,ORGANIZATION,dbs_public_01425
+Chanyaporn Chanjaroen,DBS,PERSON,dbs_public_01210
+Chee,Teen,PERSON,dbs_public_00599
+Chee,The Promontory @ Marina Bay,PERSON,dbs_public_00599
+Chief,DBS,PERSON,dbs_public_01545
+Chief,OCBC,PERSON,dbs_public_01545
+Chief,Piyush Gupta,PERSON,dbs_public_01545
+Chief,Tsien,PERSON,dbs_public_01545
+Chief Innovation Officer,DBS,PERSON,dbs_public_00211
+Chief Investment Officer,DBS,PERSON,dbs_public_00218
+Chinatrust Commercial Bank,DBS,ORGANIZATION,dbs_public_00869
+Chinatrust Commercial Bank,OCBC,ORGANIZATION,dbs_public_00869
+Chinatrust Commercial Bank,Triyards,PERSON,dbs_public_00869
+Chinatrust Commercial Bank,UOB,ORGANIZATION,dbs_public_00869
+Chinatrust Commercial Bank Co,DBS,ORGANIZATION,dbs_public_00886
+Chinatrust Commercial Bank Co,Ezra Holdings,ORGANIZATION,dbs_public_00886
+Chinatrust Commercial Bank Co,OCBC,ORGANIZATION,dbs_public_00886
+Chinatrust Commercial Bank Co,Triyards,PERSON,dbs_public_00886
+Chinatrust Commercial Bank Co,UOB,ORGANIZATION,dbs_public_00886
+Chubb,DBS,PERSON,dbs_public_00802|dbs_public_00834|dbs_public_01211|dbs_public_01212|dbs_public_01232|dbs_public_01263
+Chubb,SME,PERSON,dbs_public_01232
+Citibank,DBS,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Citibank,HSBC,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Citibank,Maybank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Citibank,OCBC,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Citibank,PayNow,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Citibank,Standard Chartered Bank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Citibank,UOB,ORGANIZATION,dbs_public_00563|dbs_public_01055
+City Developments Limited,DBS,ORGANIZATION,dbs_public_01200|dbs_public_01221|dbs_public_01226|dbs_public_01425|dbs_public_01444
+City Developments Limited,Goh Swee Chen,PERSON,dbs_public_01444
+City Developments Limited,Piyush Gupta,PERSON,dbs_public_01444
+City Developments Limited,Shell Companies,ORGANIZATION,dbs_public_01444
+City Developments Limited,Sherman Kwek,PERSON,dbs_public_01444
+City Developments Limited,Women,PERSON,dbs_public_01444
+Cleveland Clinic,DBS,ORGANIZATION,dbs_public_00097
+Cleveland Clinic,Judy Slater,PERSON,dbs_public_00097
+CoinHako,DBS,PERSON,dbs_public_00801
+CoinHako,Singapore Cryptocurrency Firms,PERSON,dbs_public_00801
+ComfortDelGro,DBS,ORGANIZATION,dbs_public_00601|dbs_public_00761
+ComfortDelGro,OCBC,ORGANIZATION,dbs_public_00761
+ComfortDelGro,PayLah,PERSON,dbs_public_00601
+Corporates,DBS,ORGANIZATION,dbs_public_00828
+Corporates,SMEs,ORGANIZATION,dbs_public_00828
+Corporates,Swift,PERSON,dbs_public_00828
+DBS,David Gledhill,PERSON,dbs_public_01009|dbs_public_01069
+DBS,Digital Bank of the Year,ORGANIZATION,dbs_public_00434
+DBS,Dr,PERSON,dbs_public_01158
+DBS,Euromoney,ORGANIZATION,dbs_public_00434
+DBS,Ezion,ORGANIZATION,dbs_public_00968|dbs_public_01346
+DBS,Ezra Holdings,ORGANIZATION,dbs_public_00886
+DBS,FDA,ORGANIZATION,dbs_public_01186
+DBS,Financial Times,ORGANIZATION,dbs_public_00305
+DBS,Fornix,ORGANIZATION,dbs_public_01582
+DBS,Goh Swee Chen,PERSON,dbs_public_01444
+DBS,Group Head,PERSON,dbs_public_00356
+DBS,Group Head Consumer Banking,ORGANIZATION,dbs_public_00305
+DBS,HSBC,ORGANIZATION,dbs_public_00563|dbs_public_01055
+DBS,Health Canada,ORGANIZATION,dbs_public_00569
+DBS,Hou,PERSON,dbs_public_01222
+DBS,Hou Wey Fook,PERSON,dbs_public_00605|dbs_public_01222|dbs_public_01229
+DBS,Industry watchers,PERSON,dbs_public_00054
+DBS,Jeremy Soo,PERSON,dbs_public_00036
+DBS,Judy Slater,PERSON,dbs_public_00097
+DBS,Kasisto,PERSON,dbs_public_00988
+DBS,Laurence Smith,PERSON,dbs_public_00533
+DBS,Lim Say Boon,PERSON,dbs_public_00234
+DBS,MCA,ORGANIZATION,dbs_public_00306|dbs_public_00910|dbs_public_00917
+DBS,MSIG,ORGANIZATION,dbs_public_01409
+DBS,Managing Director,PERSON,dbs_public_00305
+DBS,Manulife Financial Asia,ORGANIZATION,dbs_public_00042
+DBS,MayBank,ORGANIZATION,dbs_public_01346
+DBS,Maybank,ORGANIZATION,dbs_public_00563|dbs_public_00968|dbs_public_01055
+DBS,McDonald's,ORGANIZATION,dbs_public_01409
+DBS,Medtronic SureTune3 Obtains Health Canada,ORGANIZATION,dbs_public_00569
+DBS,Messenger,PERSON,dbs_public_00000|dbs_public_00988
+DBS,Most Valuable Brand,ORGANIZATION,dbs_public_00537
+DBS,Neal,PERSON,dbs_public_00434
+DBS,Neal Cross,PERSON,dbs_public_00360|dbs_public_00533|dbs_public_01507
+DBS,Nets,ORGANIZATION,dbs_public_01035|dbs_public_01387
+DBS,OCBC,ORGANIZATION,dbs_public_00007|dbs_public_00200|dbs_public_00563|dbs_public_00761|dbs_public_00804|dbs_public_00869|dbs_public_00886|dbs_public_00968|dbs_public_01054|dbs_public_01055|dbs_public_01145|dbs_public_01157|dbs_public_01346|dbs_public_01387|dbs_public_01545
+DBS,PD,ORGANIZATION,dbs_public_00269|dbs_public_01158|dbs_public_01288
+DBS,POSB,ORGANIZATION,dbs_public_00024|dbs_public_00036|dbs_public_00081|dbs_public_00302|dbs_public_00303|dbs_public_00329|dbs_public_00330|dbs_public_00988|dbs_public_01234
+DBS,Patients,PERSON,dbs_public_01288
+DBS,PayLah,PERSON,dbs_public_00601
+DBS,PayNow,ORGANIZATION,dbs_public_00563|dbs_public_01055
+DBS,Piyush Gupta,PERSON,dbs_public_00206|dbs_public_00225|dbs_public_00355|dbs_public_01329|dbs_public_01402|dbs_public_01408|dbs_public_01423|dbs_public_01444|dbs_public_01545|dbs_public_01568
+DBS,PropertyGuru,ORGANIZATION,dbs_public_01409
+DBS,RHB,ORGANIZATION,dbs_public_00968
+DBS,Renewable Energy,ORGANIZATION,dbs_public_00806
+DBS,Reuters,ORGANIZATION,dbs_public_00401
+DBS,SIA,ORGANIZATION,dbs_public_01109|dbs_public_01113
+DBS,SME,ORGANIZATION,dbs_public_01232|dbs_public_01514
+DBS,SMEs,ORGANIZATION,dbs_public_00202|dbs_public_00210|dbs_public_00828
+DBS,STI,ORGANIZATION,dbs_public_01145
+DBS,Scientists,PERSON,dbs_public_00128
+DBS,Shell Companies,ORGANIZATION,dbs_public_01444
+DBS,Sherman Kwek,PERSON,dbs_public_01444
+DBS,Singapore Airlines,ORGANIZATION,dbs_public_01100|dbs_public_01109|dbs_public_01113
+DBS,Singapore Cryptocurrency Firms,ORGANIZATION,dbs_public_00801
+DBS,Singapore Exchange,ORGANIZATION,dbs_public_00622
+DBS,Standard Chartered Bank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+DBS,Su Shan Tan,ORGANIZATION,dbs_public_00356
+DBS,Swift,PERSON,dbs_public_00828
+DBS,Tan,PERSON,dbs_public_01035
+DBS,Tan Su Shan,PERSON,dbs_public_00054|dbs_public_00305|dbs_public_00622|dbs_public_01178|dbs_public_01220|dbs_public_01329
+DBS,The Bank Branch,ORGANIZATION,dbs_public_00329
+DBS,Top 100 Singapore Brands,ORGANIZATION,dbs_public_00537
+DBS,Triyards,PERSON,dbs_public_00869|dbs_public_00886
+DBS,Tsien,PERSON,dbs_public_01545
+DBS,UOB,ORGANIZATION,dbs_public_00007|dbs_public_00563|dbs_public_00804|dbs_public_00869|dbs_public_00886|dbs_public_00968|dbs_public_01054|dbs_public_01055|dbs_public_01145|dbs_public_01157|dbs_public_01346|dbs_public_01387|dbs_public_01568
+DBS,Ultra,ORGANIZATION,dbs_public_00454
+DBS,VTM,ORGANIZATION,dbs_public_00303
+DBS,VTMs,ORGANIZATION,dbs_public_00329
+DBS,Venture boss,PERSON,dbs_public_01568
+DBS,Virtual Assistant,PERSON,dbs_public_00988
+DBS,Visa,ORGANIZATION,dbs_public_00001|dbs_public_00002|dbs_public_01427
+DBS,Women,PERSON,dbs_public_01209|dbs_public_01444
+DBS,Xero,ORGANIZATION,dbs_public_00202|dbs_public_00210
+DBS,van Horne,PERSON,dbs_public_00015
+Digital Bank of the Year,Euromoney,ORGANIZATION,dbs_public_00434
+Digital Bank of the Year,Neal,PERSON,dbs_public_00434
+Dr,PD,PERSON,dbs_public_01158
+Edward Hines,Parkinson,PERSON,dbs_public_01112
+Edward Hines,Researchers,PERSON,dbs_public_01112
+Euromoney,Neal,PERSON,dbs_public_00434
+Ezion,MayBank,ORGANIZATION,dbs_public_01346
+Ezion,Maybank,ORGANIZATION,dbs_public_00968
+Ezion,OCBC,ORGANIZATION,dbs_public_00968|dbs_public_01346
+Ezion,RHB,ORGANIZATION,dbs_public_00968
+Ezion,UOB,ORGANIZATION,dbs_public_00968|dbs_public_01346
+Ezra Holdings,OCBC,ORGANIZATION,dbs_public_00886
+Ezra Holdings,Triyards,PERSON,dbs_public_00886
+Ezra Holdings,UOB,ORGANIZATION,dbs_public_00886
+Financial Times,Group Head Consumer Banking,ORGANIZATION,dbs_public_00305
+Financial Times,Managing Director,PERSON,dbs_public_00305
+Financial Times,Tan Su Shan,PERSON,dbs_public_00305
+Goh Swee Chen,Piyush Gupta,PERSON,dbs_public_01444
+Goh Swee Chen,Shell Companies,PERSON,dbs_public_01444
+Goh Swee Chen,Sherman Kwek,PERSON,dbs_public_01444
+Goh Swee Chen,Women,PERSON,dbs_public_01444
+Group Head,Su Shan Tan,PERSON,dbs_public_00356
+Group Head Consumer Banking,Managing Director,PERSON,dbs_public_00305
+Group Head Consumer Banking,Tan Su Shan,PERSON,dbs_public_00305
+HSBC,Maybank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+HSBC,OCBC,ORGANIZATION,dbs_public_00506|dbs_public_00563|dbs_public_01055
+HSBC,PayNow,ORGANIZATION,dbs_public_00506|dbs_public_00563|dbs_public_01055
+HSBC,Standard Chartered,ORGANIZATION,dbs_public_00506
+HSBC,Standard Chartered Bank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+HSBC,UOB,ORGANIZATION,dbs_public_00506|dbs_public_00563|dbs_public_01055
+Health Canada,Medtronic,ORGANIZATION,dbs_public_00586|dbs_public_00588
+Health Canada,Medtronic SureTune3 Obtains Health Canada,ORGANIZATION,dbs_public_00569
+HealthDay News,Patients,PERSON,dbs_public_01242
+Hou,Hou Wey Fook,PERSON,dbs_public_01222
+Industry watchers,Tan Su Shan,PERSON,dbs_public_00054
+Jeremy Soo,POSB,PERSON,dbs_public_00036
+Judy Slater,Woman,PERSON,dbs_public_00739
+Kasisto,Messenger,PERSON,dbs_public_00988
+Kasisto,POSB,PERSON,dbs_public_00988
+Kasisto,Virtual Assistant,PERSON,dbs_public_00988
+Laurence Smith,Neal Cross,PERSON,dbs_public_00533
+Lim Say Boon,Private Bank,PERSON,dbs_public_00399
+MSIG,McDonald's,ORGANIZATION,dbs_public_01409
+MSIG,PropertyGuru,ORGANIZATION,dbs_public_01409
+Managing Director,Tan Su Shan,PERSON,dbs_public_00305
+MayBank,OCBC,ORGANIZATION,dbs_public_01346
+MayBank,UOB,ORGANIZATION,dbs_public_01346
+Maybank,OCBC,ORGANIZATION,dbs_public_00563|dbs_public_00968|dbs_public_01055
+Maybank,PayNow,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Maybank,RHB,ORGANIZATION,dbs_public_00968
+Maybank,Standard Chartered Bank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Maybank,UOB,ORGANIZATION,dbs_public_00563|dbs_public_00968|dbs_public_01055
+McDonald's,PropertyGuru,ORGANIZATION,dbs_public_01409
+Messenger,POSB,PERSON,dbs_public_00988
+Messenger,Virtual Assistant,PERSON,dbs_public_00988
+Most Valuable Brand,Top 100 Singapore Brands,ORGANIZATION,dbs_public_00537
+Mr.,Mr. X,PERSON,dbs_public_01588
+Nets,OCBC,ORGANIZATION,dbs_public_01387
+Nets,Tan,PERSON,dbs_public_01035
+Nets,UOB,ORGANIZATION,dbs_public_01387
+OCBC,Ooi Sang Kuang,PERSON,dbs_public_00371
+OCBC,PayNow,ORGANIZATION,dbs_public_00506|dbs_public_00563|dbs_public_01055
+OCBC,Piyush Gupta,PERSON,dbs_public_01545
+OCBC,RHB,ORGANIZATION,dbs_public_00968
+OCBC,STI,ORGANIZATION,dbs_public_01145
+OCBC,Standard Chartered,ORGANIZATION,dbs_public_00506
+OCBC,Standard Chartered Bank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+OCBC,Triyards,PERSON,dbs_public_00869|dbs_public_00886
+OCBC,Tsien,PERSON,dbs_public_01545
+OCBC,UOB,ORGANIZATION,dbs_public_00007|dbs_public_00506|dbs_public_00563|dbs_public_00804|dbs_public_00869|dbs_public_00886|dbs_public_00968|dbs_public_01054|dbs_public_01055|dbs_public_01145|dbs_public_01157|dbs_public_01346|dbs_public_01387
+PD,Patients,PERSON,dbs_public_01288
+POSB,The Bank Branch,ORGANIZATION,dbs_public_00329
+POSB,VTM,ORGANIZATION,dbs_public_00303
+POSB,VTMs,ORGANIZATION,dbs_public_00329
+POSB,Virtual Assistant,PERSON,dbs_public_00988
+Parkinson,Researchers,PERSON,dbs_public_01112
+PayNow,Standard Chartered,ORGANIZATION,dbs_public_00506
+PayNow,Standard Chartered Bank,ORGANIZATION,dbs_public_00563|dbs_public_01055
+PayNow,UOB,ORGANIZATION,dbs_public_00506|dbs_public_00563|dbs_public_01055
+Piyush Gupta,Shell Companies,PERSON,dbs_public_01444
+Piyush Gupta,Sherman Kwek,PERSON,dbs_public_01444
+Piyush Gupta,Tan Su Shan,PERSON,dbs_public_01329
+Piyush Gupta,Tsien,PERSON,dbs_public_01545
+Piyush Gupta,UOB,PERSON,dbs_public_01568
+Piyush Gupta,Venture boss,PERSON,dbs_public_01568
+Piyush Gupta,Women,PERSON,dbs_public_01444
+RHB,UOB,ORGANIZATION,dbs_public_00968
+SIA,Singapore Airlines,ORGANIZATION,dbs_public_01109|dbs_public_01113
+SMEs,Swift,PERSON,dbs_public_00828
+SMEs,Xero,ORGANIZATION,dbs_public_00202|dbs_public_00210
+STI,UOB,ORGANIZATION,dbs_public_01145
+Shell Companies,Sherman Kwek,PERSON,dbs_public_01444
+Shell Companies,Women,PERSON,dbs_public_01444
+Sherman Kwek,Women,PERSON,dbs_public_01444
+Singapore Exchange,Tan Su Shan,PERSON,dbs_public_00622
+Standard Chartered,UOB,ORGANIZATION,dbs_public_00506
+Standard Chartered Bank,UOB,ORGANIZATION,dbs_public_00563|dbs_public_01055
+Teen,The Promontory @ Marina Bay,PERSON,dbs_public_00599
+The Bank Branch,VTMs,ORGANIZATION,dbs_public_00329
+Triyards,UOB,PERSON,dbs_public_00869|dbs_public_00886
+UOB,Venture boss,PERSON,dbs_public_01568

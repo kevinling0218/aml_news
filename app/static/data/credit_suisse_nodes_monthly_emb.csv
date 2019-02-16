@@ -1,0 +1,36 @@
+name,year_month,sentiment_emb,year,month
+Benjamin Cavalli,2017-1,-100.0,2017,1
+Credit Suisse,2017-1,-100.0,2017,1
+Benjamin Cavalli,2017-2,100.0,2017,2
+Credit Suisse,2017-2,100.0,2017,2
+Symasia Foundation,2017-2,100.0,2017,2
+Credit Suisse,2017-4,-100.0,2017,4
+David Mulford,2017-4,-100.0,2017,4
+John Major,2017-4,-100.0,2017,4
+Prime Minister,2017-4,-100.0,2017,4
+Credit Suisse,2017-5,100.0,2017,5
+MAS,2017-5,100.0,2017,5
+UOB,2017-5,100.0,2017,5
+Credit Suisse,2017-7,100.0,2017,7
+Millennials,2017-7,100.0,2017,7
+Credit Suisse,2017-8,-100.0,2017,8
+Credit Suisse,2017-10,100.0,2017,10
+Mikhail Brovman,2017-10,100.0,2017,10
+Standard Chartered,2017-10,100.0,2017,10
+Credit Suisse,2017-11,33.33333333333333,2017,11
+Tsao,2017-11,100.0,2017,11
+Credit Suisse,2017-12,100.0,2017,12
+Credit Suisse,2018-1,-100.0,2018,1
+VIP GGR,2018-1,-100.0,2018,1
+Credit Suisse,2018-2,-100.0,2018,2
+BOS,2018-3,100.0,2018,3
+Bank of Singapore,2018-3,100.0,2018,3
+Credit Suisse,2018-3,33.33333333333333,2018,3
+Tidjane Thiam,2018-3,0.0,2018,3
+UBS,2018-3,100.0,2018,3
+BLOOMBERG,2018-4,100.0,2018,4
+CSFS,2018-4,100.0,2018,4
+China,2018-4,100.0,2018,4
+Credit Suisse,2018-4,100.0,2018,4
+TIDJANE Thiam,2018-4,100.0,2018,4
+Tidjane Thiam,2018-4,100.0,2018,4

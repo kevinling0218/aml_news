@@ -1,0 +1,74 @@
+name,year_month,sentiment_emb,year,month
+Birds Eye,2017-1,100.0,2017,1
+Hajipieris,2017-1,100.0,2017,1
+Iglo,2017-1,100.0,2017,1
+Nomad Foods Europe,2017-1,100.0,2017,1
+Pacific Andes,2017-1,-100.0,2017,1
+Red Lobster,2017-1,100.0,2017,1
+Red Lobster Seafood Company,2017-1,100.0,2017,1
+China Fishery Group,2017-2,-100.0,2017,2
+HSBC,2017-2,-100.0,2017,2
+MRAG Americas,2017-4,100.0,2017,4
+MSC,2017-4,100.0,2017,4
+Marine Stewardship Council,2017-5,100.0,2017,5
+Pacific Andes,2017-5,0.0,2017,5
+International Council for the Exploration of the Sea,2017-6,100.0,2017,6
+Pacific Andes,2017-6,-100.0,2017,6
+Pacific Seafood,2017-6,100.0,2017,6
+Scientists,2017-6,100.0,2017,6
+China Fishery,2017-7,-100.0,2017,7
+China Fishery Group,2017-7,-100.0,2017,7
+Garrity,2017-7,-100.0,2017,7
+HSBC,2017-7,-100.0,2017,7
+Independent Fisheries New Zealand,2017-7,100.0,2017,7
+Pacific Andes,2017-7,-33.33333333333333,2017,7
+Trustee,2017-7,-100.0,2017,7
+William Brandt,2017-7,-100.0,2017,7
+Trident Seafoods,2017-8,-100.0,2017,8
+China Fishery,2017-9,33.33333333333333,2017,9
+Guolian,2017-9,-100.0,2017,9
+HSBC,2017-9,100.0,2017,9
+Hayduk,2017-9,-100.0,2017,9
+Judge,2017-9,100.0,2017,9
+National Fish and Seafood,2017-9,100.0,2017,9
+Pac Andes,2017-9,-100.0,2017,9
+Pacific Andes,2017-9,33.33333333333333,2017,9
+Trustee,2017-9,100.0,2017,9
+China,2017-10,100.0,2017,10
+China Fishery Group,2017-10,100.0,2017,10
+EU,2017-10,100.0,2017,10
+Exporters,2017-10,100.0,2017,10
+PAIH,2017-10,100.0,2017,10
+Pacific Andes,2017-10,33.33333333333333,2017,10
+Rabobank,2017-10,100.0,2017,10
+China Fishery,2017-11,-100.0,2017,11
+Pacific Andes,2017-11,-50.0,2017,11
+Andrew Marr,2017-12,100.0,2017,12
+Pacific Andes,2017-12,100.0,2017,12
+Undercurrent News,2017-12,100.0,2017,12
+Cooke,2018-2,-100.0,2018,2
+China Fishery,2018-3,100.0,2018,3
+Cooke Aquaculture,2018-3,-100.0,2018,3
+Faro,2018-3,-100.0,2018,3
+Noteholders,2018-3,100.0,2018,3
+Pacific Andes,2018-3,20.0,2018,3
+Sea Star,2018-3,-100.0,2018,3
+Seller,2018-3,100.0,2018,3
+Asda,2018-4,-100.0,2018,4
+Canadian Department of Fisheries and Oceans,2018-4,100.0,2018,4
+DFO,2018-4,100.0,2018,4
+Editor,2018-4,-100.0,2018,4
+IPNLF,2018-4,100.0,2018,4
+Jack Ventola,2018-4,-100.0,2018,4
+National Fish,2018-4,-100.0,2018,4
+National Fish and Seafood,2018-4,-100.0,2018,4
+Pacific Andes,2018-4,-33.33333333333333,2018,4
+Sainsbury,2018-4,-100.0,2018,4
+TAC,2018-4,100.0,2018,4
+Tri Marine,2018-4,100.0,2018,4
+Undercurrent News,2018-4,-100.0,2018,4
+Ventola,2018-4,-100.0,2018,4
+Young,2018-4,-100.0,2018,4
+Young's Seafood,2018-4,-100.0,2018,4
+Japan,2018-5,-100.0,2018,5
+Pew Charitable Trusts,2018-5,-100.0,2018,5

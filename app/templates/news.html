@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+    <title>Intelligent News</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{ url_for('static', filename='bower_components/bootstrap/dist/css/bootstrap.css') }}" rel="stylesheet"
+          media="screen">
+    <link href="../static/css/main.css?version={{range(1, 1001) | random}}" rel="stylesheet" media="screen">
+</head>
+
+<body>
+
+{% set active_news=True %}
+{% include 'template_top_header.html' %}
+
+<section id="section_news">
+    <!--<article class="news">-->
+        <!--<div class="news_left_wrap">-->
+            <!--<a target="_blank" href="http://www.straitstimes.com/singapore/transport/expect-possible-delay-on-north-south-line-smrt">-->
+                <!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpdz7kD7Hbv_8gDzQyUngmbfeCDIsFvEivuIrikCUCAVwX0a4yG6VEDZH-L-8vZ19C4KmtxMuO">-->
+            <!--</a>-->
+            <!--<div class="news_holder">-->
+                <!--<a class="title" target="_blank" href="http://www.straitstimes.com/singapore/transport/expect-possible-delay-on-north-south-line-smrt">-->
+                    <!--NSL, DTL delays on Friday morning caused by 2 separate and ...-->
+                <!--</a>-->
+                <!--<div class="meta">-->
+                    <!--<span class="news_media">The Straits Times</span>-->
+                    <!--<span class="sep"></span>-->
+                    <!--<span class="date">18/8/2017</span>-->
+                <!--</div>-->
+                <!--<div class="abstract">-->
+                    <!--Subsequent trains were then manually driven to the main line at a lower speed, leading to delays. The fault has since been rectified but further investigations are ongoing. The problems on the NSL, which was also crippled on Thursday evening due to a fault on its brand new signalling system, prompted operator SMRT to...-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="news_right_wrap">-->
+            <!--<div class="news_sentiment">-->
+                <!--Sentiment-->
+                <!--<span class="sentiment_class positive">Positive</span>-->
+            <!--</div>-->
+            <!--<div class="news_organizations">-->
+                <!--Organization:-->
+                <!--<li>OCBC</li>-->
+                <!--<li>MAS</li>-->
+            <!--</div>-->
+            <!--<div class="news_people">-->
+                <!--People:-->
+                <!--<li>Micheal</li>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</article>-->
+    <!--<article class="news">-->
+        <!--<div class="news_left_wrap">-->
+            <!--<a href="http://www.straitstimes.com/singapore/transport/north-south-east-west-lines-hit-by-track-faults-on-tuesday-morning-0">-->
+                <!--<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFliWl3ft4EzRJ14mmEFJvZkIlCGD0leE96V90-Z27_wZhWeWmoay0a1Lx0wMVzAdGeua7um0">-->
+            <!--</a>-->
+            <!--<div class="news_holder">-->
+                <!--<a class="title" href="http://www.straitstimes.com/singapore/transport/north-south-east-west-lines-hit-by-track-faults-on-tuesday-morning-0">-->
+                    <!--Track circuit faults cause delays on NSL, EWL on Tuesday morning ...-->
+                <!--</a>-->
+                <!--<div class="meta">-->
+                    <!--<span class="news_media">The Straits Times</span>-->
+                    <!--<span class="sep"></span>-->
+                    <!--<span class="date">17/4/2017</span>-->
+                <!--</div>-->
+                <!--<div class="abstract">-->
+                    <!--SINGAPORE - Commuters on both the North-South (NSL) and East-West (EWL) Lines were affected by delays throughout Tuesday (April 18) morning. SMRT, which operates both lines, told The Straits Times that the delays were caused by track circuit faults. Such faults, which are not the same as the more common track...-->
+                <!--</div>-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--<div class="news_right_wrap">-->
+            <!--<div class="news_sentiment">-->
+                <!--Sentiment-->
+                <!--<span class="sentiment_class very_negative">Very Negative</span>-->
+            <!--</div>-->
+            <!--<div class="news_organizations">-->
+                <!--Organization:-->
+                <!--<li>OCBC</li>-->
+                <!--<li>MAS</li>-->
+            <!--</div>-->
+            <!--<div class="news_people">-->
+                <!--People:-->
+                <!--<li>Micheal</li>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</article>-->
+</section>
+
+
+<script src="{{ url_for('static', filename='bower_components/jquery/dist/jquery.js') }}"></script>
+<script src="{{ url_for('static', filename='bower_components/bootstrap/dist/js/bootstrap.js') }}"></script>
+
+<script src="{{ url_for('static', filename='js/plotly-latest.min.js') }}"></script>
+<script src="{{ url_for('static', filename='bower_components/d3/d3.js') }}"></script>
+
+
+<script type=text/javascript>
+    var industry = '{{ data.industry | safe }}'
+</script>
+
+<script src="../static/js/get_news_html.js?version={{range(1, 1001) | random}}"></script>
+<script src="../static/js/enable_sentiment_override.js?version={{range(1, 1001) | random}}"></script>
+<script src="../static/js/news.js?version={{range(1, 1001) | random}}"></script>
+
+</body>
+</html>

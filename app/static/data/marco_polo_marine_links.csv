@@ -1,0 +1,14 @@
+source,target,link_type,weight
+MARCO Polo Marine,Marco Polo,PERSON,5
+Marco Polo Marine,O&M,PERSON,4
+5LY,Marco Polo Marine Ltd,ORGANIZATION,2
+Marco Polo Marine Ltd,Woodside Petroleum Ltd,ORGANIZATION,2
+Marco Polo,Marine,PERSON,2
+Marco Polo Marine,Singapore High Court,PERSON,2
+5LY,Woodside Petroleum Ltd,ORGANIZATION,2
+Marine,O&M,ORGANIZATION,1
+Marco Polo,Marco Polo Marine,PERSON,1
+Marco Polo,O&M,PERSON,1
+Marco Polo,Singapore High Court,PERSON,1
+MARCO Polo Marine,Singapore High Court,PERSON,1
+MARCO Polo Marine,Marine,PERSON,1

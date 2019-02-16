@@ -1,0 +1,22 @@
+source,target,link_type,article_id
+Director,Joint Company Secretary,PERSON,zicom_private_limited_00000
+Director,MTA,PERSON,zicom_private_limited_00000
+Director,PDF,PERSON,zicom_private_limited_00000
+Director,Sysmac,PERSON,zicom_private_limited_00000
+Director,Zicom Group Limited,PERSON,zicom_private_limited_00000
+Director,Zicom MedTacc Private Limited,PERSON,zicom_private_limited_00000
+Joint Company Secretary,MTA,PERSON,zicom_private_limited_00000
+Joint Company Secretary,PDF,PERSON,zicom_private_limited_00000
+Joint Company Secretary,Sysmac,PERSON,zicom_private_limited_00000
+Joint Company Secretary,Zicom Group Limited,PERSON,zicom_private_limited_00000
+Joint Company Secretary,Zicom MedTacc Private Limited,PERSON,zicom_private_limited_00000
+MTA,PDF,ORGANIZATION,zicom_private_limited_00000
+MTA,Sysmac,ORGANIZATION,zicom_private_limited_00000
+MTA,Zicom Group Limited,ORGANIZATION,zicom_private_limited_00000
+MTA,Zicom MedTacc Private Limited,ORGANIZATION,zicom_private_limited_00000
+PDF,Sysmac,ORGANIZATION,zicom_private_limited_00000
+PDF,Zicom Group Limited,ORGANIZATION,zicom_private_limited_00000
+PDF,Zicom MedTacc Private Limited,ORGANIZATION,zicom_private_limited_00000
+Sysmac,Zicom Group Limited,ORGANIZATION,zicom_private_limited_00000
+Sysmac,Zicom MedTacc Private Limited,ORGANIZATION,zicom_private_limited_00000
+Zicom Group Limited,Zicom MedTacc Private Limited,ORGANIZATION,zicom_private_limited_00000

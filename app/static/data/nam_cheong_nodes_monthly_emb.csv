@@ -1,0 +1,51 @@
+name,year_month,sentiment_emb,year,month
+Nam Cheong MTR,2017-2,-100.0,2017,2
+Sun Hung Kai Properties,2017-2,-100.0,2017,2
+Auditors,2017-3,-100.0,2017,3
+OSV,2017-3,-100.0,2017,3
+Sun Hung Kai Properties,2017-3,-100.0,2017,3
+Victor Lui,2017-3,-100.0,2017,3
+FSL Trust,2017-4,-100.0,2017,4
+Nam Cheong MTR,2017-4,-100.0,2017,4
+Singapore Exchange,2017-4,-100.0,2017,4
+Sun Hung Kai Properties,2017-4,-100.0,2017,4
+Broadway,2017-5,100.0,2017,5
+Li,2017-5,100.0,2017,5
+NAM Cheong,2017-8,-100.0,2017,8
+O&M,2017-8,-100.0,2017,8
+Shipbuilder,2017-8,-100.0,2017,8
+TROUBLED,2017-8,100.0,2017,8
+Alam Maritim Resources Bhd,2017-9,100.0,2017,9
+MCM,2017-9,100.0,2017,9
+Nam Cheong Group,2017-9,100.0,2017,9
+Perisai Petroleum Teknologi Bhd,2017-9,100.0,2017,9
+Petronas,2017-9,100.0,2017,9
+Alvin Lam Tsz,2017-10,100.0,2017,10
+Midland Realty,2017-10,100.0,2017,10
+SHKP,2017-10,100.0,2017,10
+Lai King,2017-12,100.0,2017,12
+Nam Cheong MTR,2017-12,-100.0,2017,12
+Sun Hung Kai Properties,2017-12,-100.0,2017,12
+CREDITORS,2018-1,100.0,2018,1
+Creditors,2018-1,100.0,2018,1
+SCHEME creditors,2018-1,100.0,2018,1
+Havila Shipping,2018-4,100.0,2018,4
+Intermarine,2018-4,100.0,2018,4
+KG Offshore Services,2018-4,100.0,2018,4
+Americasn SB,2018-5,100.0,2018,5
+Barkmeijer Stroobos,2018-5,100.0,2018,5
+Bollinger Shipyards,2018-5,100.0,2018,5
+Damen,2018-5,100.0,2018,5
+Eastern Shipbuilding Group,2018-5,100.0,2018,5
+Hong Kong Council of Social Service,2018-5,-100.0,2018,5
+Key Manufacturers of Platform Supply Vessels,2018-5,100.0,2018,5
+Market Global Players 2018: Nam Cheong,2018-5,100.0,2018,5
+NGO,2018-5,-100.0,2018,5
+OSD,2018-5,100.0,2018,5
+PSV,2018-5,100.0,2018,5
+Players,2018-5,100.0,2018,5
+Remontowa,2018-5,100.0,2018,5
+Shipyard DeHoop,2018-5,100.0,2018,5
+Top Manufacturers of Aluminum Billets Market,2018-5,100.0,2018,5
+VT Halter Marine,2018-5,100.0,2018,5
+Vard Group,2018-5,100.0,2018,5

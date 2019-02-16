@@ -1,0 +1,45 @@
+source,target,link_type,weight
+Boris Collardi,Julius Baer,PERSON,4
+Julius Baer,Siam Commercial Bank,ORGANIZATION,3
+Julius Baer,PwC Singapore,ORGANIZATION,3
+Julius Baer,M+S,ORGANIZATION,3
+Bernhard Hodler,Julius Baer,PERSON,3
+Credit Suisse,Julius Baer,ORGANIZATION,3
+M+S,Marina One,PERSON,2
+Credit Suisse,Rivals,ORGANIZATION,2
+BB Biotech AG,Julius Baer,ORGANIZATION,2
+BB Biotech AG,Sequoia Capital,ORGANIZATION,2
+Julius Baer,Khazanah Nasional,ORGANIZATION,2
+M+S,PwC Singapore,ORGANIZATION,2
+Julius Baer,Leaders,PERSON,2
+Credit Suisse,UBS,ORGANIZATION,2
+Julius Baer,Marina One,PERSON,2
+Khazanah Nasional,PwC Singapore,ORGANIZATION,2
+Julius Baer,Sequoia Capital,ORGANIZATION,2
+China,People's Bank of China,ORGANIZATION,2
+Credit Suisse,Standard Chartered,ORGANIZATION,2
+Khazanah Nasional,M+S,ORGANIZATION,2
+DBS,Julius Baer,ORGANIZATION,2
+Deloitte,Julius Baer,ORGANIZATION,2
+Standard Chartered,UBS,ORGANIZATION,2
+Private Bank,Standard Chartered,ORGANIZATION,2
+ADIA,Julius Baer,ORGANIZATION,2
+Abu Dhabi Investment Authority,Julius Baer,ORGANIZATION,2
+Julius Baer,Rivals,ORGANIZATION,1
+Julius Baer,Standard Chartered,ORGANIZATION,1
+ADIA,Abu Dhabi Investment Authority,ORGANIZATION,1
+Private Bank,UBS,ORGANIZATION,1
+Rivals,Siam Commercial Bank,ORGANIZATION,1
+Rivals,Standard Chartered,ORGANIZATION,1
+Rivals,UBS,ORGANIZATION,1
+Khazanah Nasional,Marina One,PERSON,1
+Marina One,PwC Singapore,PERSON,1
+Deloitte,Leaders,PERSON,1
+Bernhard Hodler,Boris Collardi,PERSON,1
+ADIA,BB Biotech AG,ORGANIZATION,1
+ADIA,Sequoia Capital,ORGANIZATION,1
+Abu Dhabi Investment Authority,BB Biotech AG,ORGANIZATION,1
+Abu Dhabi Investment Authority,Sequoia Capital,ORGANIZATION,1
+Credit Suisse,Siam Commercial Bank,ORGANIZATION,1
+DBS,Leaders,PERSON,1
+Credit Suisse,Private Bank,ORGANIZATION,1

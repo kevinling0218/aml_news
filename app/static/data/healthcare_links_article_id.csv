@@ -1,0 +1,177 @@
+source,target,link_type,article_id
+ALI,Fullerton,PERSON,fullerton_00029
+ALI,Fullerton Healthcare,PERSON,fullerton_00029
+ALI,PCC,PERSON,fullerton_00029
+ARTMS,Alliance Medical Group,ORGANIZATION,alliance_medical_group_00007
+ARTMS,GE Healthcare,ORGANIZATION,alliance_medical_group_00007
+Africa Is Set,Alliance Medical Group Ltd.,ORGANIZATION,alliance_medical_group_00016
+Africa Is Set,Life Healthcare Group Holdings Ltd.,ORGANIZATION,alliance_medical_group_00016
+Akeso,Akeso Clinics,PERSON,alliance_medical_group_00014
+Akeso,Competition Commission,PERSON,alliance_medical_group_00014
+Akeso,Netcare,PERSON,alliance_medical_group_00014
+Akeso,The Competition Tribunal,PERSON,alliance_medical_group_00014
+Akeso Clinics,Competition Commission,ORGANIZATION,alliance_medical_group_00014
+Akeso Clinics,Netcare,ORGANIZATION,alliance_medical_group_00014
+Akeso Clinics,The Competition Tribunal,ORGANIZATION,alliance_medical_group_00014
+Alcon Manufacturing,Biomedicals Asia Pacific,PERSON,mp_biomedicals_asia_pacific_00000
+Alcon Manufacturing,CapitaLand Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Alcon Manufacturing,Changi Airport Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Alcon Manufacturing,Fragomen Singapore,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Alcon Manufacturing,HCPartners,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Alcon Manufacturing,Jurong Port,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Alcon Manufacturing,Park Hotel Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Alliance Medical Group,"Aramark Services, Inc.",ORGANIZATION,alliance_medical_group_00029
+Alliance Medical Group,Avensys UK Ltd,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00029|alliance_medical_group_00032|alliance_medical_group_00035
+Alliance Medical Group,"BC Technical, Inc.",ORGANIZATION,alliance_medical_group_00029
+Alliance Medical Group,Drs,ORGANIZATION,alliance_medical_group_00000
+Alliance Medical Group,Durban - Private,ORGANIZATION,alliance_medical_group_00001
+Alliance Medical Group,GE Healthcare,ORGANIZATION,alliance_medical_group_00007
+Alliance Medical Group,KGaA,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Alliance Medical Group,Life Healthcare,PERSON,alliance_medical_group_00003
+Alliance Medical Group,Life Healthcare Group,ORGANIZATION,alliance_medical_group_00031
+Alliance Medical Group,Max Healthcare,ORGANIZATION,alliance_medical_group_00012
+Alliance Medical Group,NHS,ORGANIZATION,alliance_medical_group_00031
+Alliance Medical Group,Pantheon Group,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00029|alliance_medical_group_00032|alliance_medical_group_00035
+Alliance Medical Group,R1.3bn,PERSON,alliance_medical_group_00005
+Alliance Medical Group,Rand Merchant Bank,ORGANIZATION,alliance_medical_group_00009
+Alliance Medical Group,Rheumatologist,PERSON,alliance_medical_group_00017
+Alliance Medical Group,Southbury Medical Associates Joins Alliance Medical Group,ORGANIZATION,alliance_medical_group_00000
+Alliance Medical Group,TBS Group S.p.A.,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Alliance Medical Group,Technologie Sanitarie S.p.A.,PERSON,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Alliance Medical Group,Waterbury Health: Ermal Molla,PERSON,alliance_medical_group_00017
+Alliance Medical Group,"Waterbury Health: Southbury Medical Associates, LLP",ORGANIZATION,alliance_medical_group_00000
+Alliance Medical Group Ltd.,Life Healthcare Group Holdings Ltd.,ORGANIZATION,alliance_medical_group_00016
+Analysts,Fullerton Healthcare,PERSON,fullerton_00038
+Analysts,Ping An Ventures,PERSON,fullerton_00038
+Aramark Services,"BC Technical, Alliance Medical Group",ORGANIZATION,alliance_medical_group_00038
+Aramark Services,Pantheon Group,ORGANIZATION,alliance_medical_group_00038
+Aramark Services,TBS Group,ORGANIZATION,alliance_medical_group_00038
+"Aramark Services, Inc.",Avensys UK Ltd,ORGANIZATION,alliance_medical_group_00029
+"Aramark Services, Inc.","BC Technical, Inc.",ORGANIZATION,alliance_medical_group_00029
+"Aramark Services, Inc.",Pantheon Group,ORGANIZATION,alliance_medical_group_00029
+Asia-Pac,Biosensors International,ORGANIZATION,fullerton_00013
+Asia-Pac,Fullerton Healthcare,ORGANIZATION,fullerton_00013
+Asia-Pac,Ping An Ventures,ORGANIZATION,fullerton_00013
+Avega,Developer,ORGANIZATION,fullerton_00036
+Avega,Fullerton,PERSON,fullerton_00036
+Avega,Fullerton Healthcare,ORGANIZATION,fullerton_00036
+Avega,PCC,ORGANIZATION,fullerton_00036
+Avensys UK Ltd,"BC Technical, Inc.",ORGANIZATION,alliance_medical_group_00029
+Avensys UK Ltd,KGaA,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Avensys UK Ltd,Pantheon Group,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00029|alliance_medical_group_00032|alliance_medical_group_00035
+Avensys UK Ltd,TBS Group S.p.A.,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Avensys UK Ltd,Technologie Sanitarie S.p.A.,PERSON,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+"BC Technical, Alliance Medical Group",GE Healthcare,ORGANIZATION,alliance_medical_group_00006
+"BC Technical, Alliance Medical Group",Pantheon Group,ORGANIZATION,alliance_medical_group_00026|alliance_medical_group_00038
+"BC Technical, Alliance Medical Group",Players,PERSON,alliance_medical_group_00006
+"BC Technical, Alliance Medical Group",TBS Group,ORGANIZATION,alliance_medical_group_00038
+"BC Technical, Inc.",Pantheon Group,ORGANIZATION,alliance_medical_group_00029
+Best Corporate Healthcare Provider,HR Vendors of the Year Awards,ORGANIZATION,fullerton_00014
+Biomedicals Asia Pacific,CapitaLand Group,PERSON,mp_biomedicals_asia_pacific_00000
+Biomedicals Asia Pacific,Changi Airport Group,PERSON,mp_biomedicals_asia_pacific_00000
+Biomedicals Asia Pacific,Fragomen Singapore,PERSON,mp_biomedicals_asia_pacific_00000
+Biomedicals Asia Pacific,HCPartners,PERSON,mp_biomedicals_asia_pacific_00000
+Biomedicals Asia Pacific,Jurong Port,PERSON,mp_biomedicals_asia_pacific_00000
+Biomedicals Asia Pacific,Park Hotel Group,PERSON,mp_biomedicals_asia_pacific_00000
+Biosensors International,Fullerton Healthcare,ORGANIZATION,fullerton_00013
+Biosensors International,Ping An Ventures,ORGANIZATION,fullerton_00013
+CapitaLand Group,Changi Airport Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+CapitaLand Group,Fragomen Singapore,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+CapitaLand Group,HCPartners,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+CapitaLand Group,Jurong Port,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+CapitaLand Group,Park Hotel Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Changi Airport Group,Fragomen Singapore,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Changi Airport Group,HCPartners,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Changi Airport Group,Jurong Port,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Changi Airport Group,Park Hotel Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Co-Founder,David Chiem,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Eu Yan Sang International,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Founder,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Fullerton Healthcare,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+Competition Commission,Netcare,ORGANIZATION,alliance_medical_group_00014
+Competition Commission,The Competition Tribunal,ORGANIZATION,alliance_medical_group_00014
+David Chiem,Eu Yan Sang International,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Founder,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Fullerton Healthcare,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+Developer,Fullerton,PERSON,fullerton_00036
+Developer,Fullerton Healthcare,ORGANIZATION,fullerton_00036
+Developer,PCC,ORGANIZATION,fullerton_00036
+Drs,Southbury Medical Associates Joins Alliance Medical Group,ORGANIZATION,alliance_medical_group_00000
+Drs,"Waterbury Health: Southbury Medical Associates, LLP",ORGANIZATION,alliance_medical_group_00000
+Eu Yan Sang International,Founder,PERSON,fullerton_00030|fullerton_00046
+Eu Yan Sang International,Fullerton Healthcare,ORGANIZATION,fullerton_00030|fullerton_00046
+Eu Yan Sang International,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+Eu Yan Sang International,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+FHPC,Fullerton Healthcare,PERSON,fullerton_00006
+FHPC,Intellicare,PERSON,fullerton_00006
+Fonda,Fondaco Dental Group,PERSON,fondaco_00000
+Fonda,Fondaco Pte Ltd,PERSON,fondaco_00000
+Fonda,IDEM Singapore,PERSON,fondaco_00000
+Fondaco Dental Group,Fondaco Pte Ltd,ORGANIZATION,fondaco_00000
+Fondaco Dental Group,IDEM Singapore,ORGANIZATION,fondaco_00000
+Fondaco Pte Ltd,IDEM Singapore,ORGANIZATION,fondaco_00000
+Founder,Fullerton Healthcare,PERSON,fullerton_00030|fullerton_00046
+Founder,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+Founder,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+Fragomen Singapore,HCPartners,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Fragomen Singapore,Jurong Port,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Fragomen Singapore,Park Hotel Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+Fullerton,Fullerton Healthcare,PERSON,fullerton_00005|fullerton_00009|fullerton_00017|fullerton_00029|fullerton_00036
+Fullerton,Healthscope,PERSON,fullerton_00009
+Fullerton,PCC,PERSON,fullerton_00029|fullerton_00036
+Fullerton,Ping An Insurance (Group) Co.,PERSON,fullerton_00017
+Fullerton Health,Intellicare,ORGANIZATION,fullerton_00007
+Fullerton Health,Ping An Capital,ORGANIZATION,fullerton_00008
+Fullerton Health,Ping An Insurance,ORGANIZATION,fullerton_00008
+Fullerton Healthcare,HMC,ORGANIZATION,fullerton_00001
+Fullerton Healthcare,HR Vendors,ORGANIZATION,fullerton_00010|fullerton_00012
+Fullerton Healthcare,Healthscope,ORGANIZATION,fullerton_00001|fullerton_00009
+Fullerton Healthcare,Intellicare,ORGANIZATION,fullerton_00006
+Fullerton Healthcare,Intellicare Group,ORGANIZATION,fullerton_00016
+Fullerton Healthcare,Investors,PERSON,fullerton_00031
+Fullerton Healthcare,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+Fullerton Healthcare,PCC,ORGANIZATION,fullerton_00029|fullerton_00036
+Fullerton Healthcare,Ping An,ORGANIZATION,fullerton_00031
+Fullerton Healthcare,Ping An Capital,ORGANIZATION,fullerton_00003|fullerton_00041
+Fullerton Healthcare,Ping An Capital Co,ORGANIZATION,fullerton_00000
+Fullerton Healthcare,Ping An Insurance (Group) Co.,ORGANIZATION,fullerton_00017
+Fullerton Healthcare,Ping An Ventures,ORGANIZATION,fullerton_00013|fullerton_00038
+Fullerton Healthcare,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+GE Healthcare,Players,PERSON,alliance_medical_group_00006
+HCPartners,Jurong Port,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+HCPartners,Park Hotel Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+HMC,Healthscope,ORGANIZATION,fullerton_00001
+I-SPY 2,QuantumLeap Healthcare Collaborative,ORGANIZATION,quantumleap_healthcare_00001
+I-SPY 2,Seattle Genetics Reports Third,ORGANIZATION,quantumleap_healthcare_00001
+INDIA,Medical Equipment Maintenance,ORGANIZATION,alliance_medical_group_00033
+Investors,Ping An,PERSON,fullerton_00031
+Jurong Port,Park Hotel Group,ORGANIZATION,mp_biomedicals_asia_pacific_00000
+KGaA,Pantheon Group,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+KGaA,TBS Group S.p.A.,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+KGaA,Technologie Sanitarie S.p.A.,PERSON,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Life Healthcare Group,NHS,ORGANIZATION,alliance_medical_group_00031
+Malaysia Universe,Q&M Dental Group,PERSON,qm_dental_group_00001
+Merck,QuantumLeap Healthcare Collaborative,ORGANIZATION,quantumleap_healthcare_00000
+Michael Tan,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+NYSE,Richard Conner,PERSON,hc_surgical_specialists_limited_00001
+NYSE,Sabine Royalty Trust,ORGANIZATION,hc_surgical_specialists_limited_00001
+NYSE,Shareholders,PERSON,hc_surgical_specialists_limited_00001
+Netcare,The Competition Tribunal,ORGANIZATION,alliance_medical_group_00014
+Pantheon Group,TBS Group,ORGANIZATION,alliance_medical_group_00038
+Pantheon Group,TBS Group S.p.A.,ORGANIZATION,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Pantheon Group,Technologie Sanitarie S.p.A.,PERSON,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035
+Ping An Capital,Ping An Insurance,ORGANIZATION,fullerton_00008
+Qiwi plc,Spotify Technology SA,ORGANIZATION,hc_surgical_specialists_limited_00000
+Qiwi plc,Wells Fargo,ORGANIZATION,hc_surgical_specialists_limited_00000
+QuantumLeap Healthcare Collaborative,Seattle Genetics Reports Third,ORGANIZATION,quantumleap_healthcare_00001
+Rheumatologist,Waterbury Health: Ermal Molla,PERSON,alliance_medical_group_00017
+Richard Conner,Sabine Royalty Trust,PERSON,hc_surgical_specialists_limited_00001
+Richard Conner,Shareholders,PERSON,hc_surgical_specialists_limited_00001
+Sabine Royalty Trust,Shareholders,PERSON,hc_surgical_specialists_limited_00001
+Southbury Medical Associates Joins Alliance Medical Group,"Waterbury Health: Southbury Medical Associates, LLP",ORGANIZATION,alliance_medical_group_00000
+Spotify Technology SA,Wells Fargo,ORGANIZATION,hc_surgical_specialists_limited_00000|hc_surgical_specialists_limited_00002|hc_surgical_specialists_limited_00003
+TBS Group S.p.A.,Technologie Sanitarie S.p.A.,PERSON,alliance_medical_group_00018|alliance_medical_group_00020|alliance_medical_group_00027|alliance_medical_group_00032|alliance_medical_group_00035

@@ -1,0 +1,50 @@
+name,year_month,sentiment_emb,year,month
+Christopher Chitty,2017-1,100.0,2017,1
+City Developments Limited,2017-1,100.0,2017,1
+Global 100 Most Sustainable Corporations,2017-1,100.0,2017,1
+Most Sustainable Corporation,2017-1,100.0,2017,1
+Top Singapore Company,2017-1,100.0,2017,1
+City Developments Limited,2017-2,100.0,2017,2
+Hong Leong Group,2017-2,100.0,2017,2
+Kwek Leng Beng,2017-2,100.0,2017,2
+Millennium Hotels and Resorts,2017-2,100.0,2017,2
+Ang Wee Gee,2017-3,100.0,2017,3
+Keppel Land,2017-3,100.0,2017,3
+BT,2017-5,100.0,2017,5
+City Developments Limited,2017-5,100.0,2017,5
+Sustainable Singapore Blueprint,2017-5,100.0,2017,5
+BCA,2017-6,100.0,2017,6
+City Developments Limited,2017-6,100.0,2017,6
+Construction contractors,2017-6,100.0,2017,6
+Construction firms,2017-6,100.0,2017,6
+Dragages Singapore,2017-6,100.0,2017,6
+Firms,2017-6,100.0,2017,6
+Teambuild,2017-6,100.0,2017,6
+UOL Group Ltd,2017-6,100.0,2017,6
+CapitaLand Commercial Trust,2017-7,100.0,2017,7
+City Developments Limited,2017-7,100.0,2017,7
+DBS,2017-7,100.0,2017,7
+Leaders,2017-7,100.0,2017,7
+Megachem Limited,2017-7,100.0,2017,7
+Reits,2017-7,100.0,2017,7
+Tuan Sing Holdings,2017-7,100.0,2017,7
+City Developments Limited,2017-10,-100.0,2017,10
+Millennium & Copthorne,2017-10,-100.0,2017,10
+Ang Wee Gee,2017-12,100.0,2017,12
+KEPPEL Land,2017-12,100.0,2017,12
+KepLand,2017-12,100.0,2017,12
+Keppel Land,2017-12,100.0,2017,12
+CIO,2018-1,100.0,2018,1
+Channel NewsAsia,2018-1,-100.0,2018,1
+City Developments Limited,2018-1,0.0,2018,1
+Frank Khoo,2018-1,100.0,2018,1
+Kwek Leng Beng,2018-1,-100.0,2018,1
+MCST,2018-1,-100.0,2018,1
+Millennium & Copthorne,2018-1,-100.0,2018,1
+City Developments Limited,2018-2,-100.0,2018,2
+MCST,2018-2,-100.0,2018,2
+Management Corporation Strata Title,2018-2,-100.0,2018,2
+Bloomberg,2018-3,-100.0,2018,3
+Champions,2018-3,-100.0,2018,3
+City Developments Limited,2018-3,-100.0,2018,3
+DBS,2018-3,-100.0,2018,3

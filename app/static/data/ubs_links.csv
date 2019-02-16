@@ -1,0 +1,10 @@
+source,target,link_type,weight
+Sergio Ermotti,UBS,PERSON,8
+GIC,UBS,ORGANIZATION,3
+Credit Suisse,UBS,ORGANIZATION,2
+H&M,UBS,ORGANIZATION,2
+Analysts,UBS,PERSON,2
+UBS,UBS Asset Management,ORGANIZATION,2
+Analysts,H&M,PERSON,2
+Menon,UBS,PERSON,2
+Credit Suisse,Sergio Ermotti,PERSON,1

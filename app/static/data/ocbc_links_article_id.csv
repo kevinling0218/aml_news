@@ -1,0 +1,254 @@
+source,target,link_type,article_id
+AI Lab@TOV,OCBC,ORGANIZATION,ocbc_01400
+ANZ,Banking giants,ORGANIZATION,ocbc_00519
+ANZ,Barclays,ORGANIZATION,ocbc_00519
+ANZ,DBS,ORGANIZATION,ocbc_00519
+ANZ,National Australia Bank,ORGANIZATION,ocbc_00519
+ANZ,OCBC,ORGANIZATION,ocbc_00519
+Aaron Loh Cheng Lee,Angela Ee Meng Yen,PERSON,ocbc_00841
+Aaron Loh Cheng Lee,BBPL,PERSON,ocbc_00813
+Aaron Loh Cheng Lee,Big Box Pte Ltd,PERSON,ocbc_00813
+Aaron Loh Cheng Lee,Ee Meng Yen Angela,PERSON,ocbc_00813
+Aaron Loh Cheng Lee,Ernst & Young Solutions,PERSON,ocbc_00841
+Aaron Loh Cheng Lee,Ernst & Young Solutions LLP,PERSON,ocbc_00813
+Aaron Loh Cheng Lee,OCBC,PERSON,ocbc_00813|ocbc_00841
+Aaron Loh Cheng Lee,TT International,PERSON,ocbc_00813|ocbc_00841
+Aditya Gupta,OCBC,PERSON,ocbc_00300
+Ang Mo Kio Hub Premier,Chng Kunda,PERSON,ocbc_01106
+Ang Mo Kio Hub Premier,OCBC,PERSON,ocbc_01106
+Angela Ee Meng Yen,Ernst & Young Solutions,PERSON,ocbc_00841
+Angela Ee Meng Yen,OCBC,PERSON,ocbc_00841
+Angela Ee Meng Yen,TT International,PERSON,ocbc_00841
+Apple,OCBC,ORGANIZATION,ocbc_00903|ocbc_00908
+Apple,Siri,ORGANIZATION,ocbc_00903|ocbc_00908
+Asean,Brand Finance,ORGANIZATION,ocbc_00106
+Asean,DBS,ORGANIZATION,ocbc_00106
+Asean,Global Brand Valuation,ORGANIZATION,ocbc_00106
+Asean,OCBC,ORGANIZATION,ocbc_00106
+Asean,UOB,ORGANIZATION,ocbc_00106
+Aung Khine Phyo,Mobike,PERSON,ocbc_01208
+Aung Khine Phyo,OCBC,PERSON,ocbc_01208
+BBPL,Big Box Pte Ltd,ORGANIZATION,ocbc_00813
+BBPL,Ee Meng Yen Angela,PERSON,ocbc_00813
+BBPL,Ernst & Young Solutions LLP,ORGANIZATION,ocbc_00813
+BBPL,OCBC,ORGANIZATION,ocbc_00813
+BBPL,TT International,ORGANIZATION,ocbc_00813
+BCS,BCS Information Systems,PERSON,ocbc_00307
+BCS,Banking Computer Services,PERSON,ocbc_00307
+BCS,Nets,PERSON,ocbc_00307
+BCS,OCBC,PERSON,ocbc_00307
+BCS,Singapore Clearing House,PERSON,ocbc_00307
+BCS Information Systems,Banking Computer Services,ORGANIZATION,ocbc_00307
+BCS Information Systems,Nets,ORGANIZATION,ocbc_00307
+BCS Information Systems,OCBC,ORGANIZATION,ocbc_00307
+BCS Information Systems,Singapore Clearing House,ORGANIZATION,ocbc_00307
+BCS Information Systems Pte Ltd,BCSIS,ORGANIZATION,ocbc_00304
+BCS Information Systems Pte Ltd,Nets,ORGANIZATION,ocbc_00304
+BCS Information Systems Pte Ltd,OCBC,ORGANIZATION,ocbc_00304
+BCSIS,Nets,ORGANIZATION,ocbc_00304
+BCSIS,OCBC,ORGANIZATION,ocbc_00304
+BIDDER,OCBC,PERSON,ocbc_00602
+BIDDER,Singapore Exchange,PERSON,ocbc_00602
+BIDDER,UEL,PERSON,ocbc_00602
+BIDDER,WBL Corp Ltd,PERSON,ocbc_00602
+BNM,GEH,ORGANIZATION,ocbc_00804
+BNM,Great Eastern,ORGANIZATION,ocbc_00804
+BNM,OCBC,ORGANIZATION,ocbc_00804
+BNM,RHB,ORGANIZATION,ocbc_00804
+Bank of Ningbo,OCBC,ORGANIZATION,ocbc_00702|ocbc_00704|ocbc_00725
+Bank of Ningbo,Straits Times,ORGANIZATION,ocbc_00725
+Bank of Singapore,Bloomberg,ORGANIZATION,ocbc_01102
+Bank of Singapore,Indians,PERSON,ocbc_01102|ocbc_01118
+Bank of Singapore,OCBC,ORGANIZATION,ocbc_01102|ocbc_01118
+Banking Computer Services,Nets,ORGANIZATION,ocbc_00307
+Banking Computer Services,OCBC,ORGANIZATION,ocbc_00307
+Banking Computer Services,Singapore Clearing House,ORGANIZATION,ocbc_00307
+Banking giants,Barclays,ORGANIZATION,ocbc_00519
+Banking giants,DBS,ORGANIZATION,ocbc_00519
+Banking giants,National Australia Bank,ORGANIZATION,ocbc_00519
+Banking giants,OCBC,ORGANIZATION,ocbc_00519
+Barclays,DBS,ORGANIZATION,ocbc_00519
+Barclays,National Australia Bank,ORGANIZATION,ocbc_00519
+Barclays,OCBC,ORGANIZATION,ocbc_00519
+Big Box Pte Ltd,Ee Meng Yen Angela,PERSON,ocbc_00813
+Big Box Pte Ltd,Ernst & Young Solutions LLP,ORGANIZATION,ocbc_00813
+Big Box Pte Ltd,OCBC,ORGANIZATION,ocbc_00710|ocbc_00813
+Big Box Pte Ltd,TT International,ORGANIZATION,ocbc_00813
+Bloomberg,Indians,PERSON,ocbc_01102
+Bloomberg,OCBC,ORGANIZATION,ocbc_00137|ocbc_01102
+Brand Finance,DBS,ORGANIZATION,ocbc_00106
+Brand Finance,Global Brand Valuation,ORGANIZATION,ocbc_00106
+Brand Finance,OCBC,ORGANIZATION,ocbc_00106|ocbc_00502
+Brand Finance,UOB,ORGANIZATION,ocbc_00106|ocbc_00502
+Charoen Sirivadhanabhakdi,Great Eastern,PERSON,ocbc_00004
+Charoen Sirivadhanabhakdi,Lee,PERSON,ocbc_00004
+Charoen Sirivadhanabhakdi,OCBC,PERSON,ocbc_00004
+Charoen Sirivadhanabhakdi,UEL,PERSON,ocbc_00004
+Chng Kunda,OCBC,PERSON,ocbc_01106|ocbc_01110
+Citibank,OCBC,ORGANIZATION,ocbc_01081
+Citibank,UOB,ORGANIZATION,ocbc_01081
+Comfort Delgro,DBS,ORGANIZATION,ocbc_00646
+Comfort Delgro,OCBC,ORGANIZATION,ocbc_00646
+Comfort Delgro,Passengers,PERSON,ocbc_00646
+Consumers,DBS,PERSON,ocbc_00715
+Consumers,NRIC,PERSON,ocbc_00715
+Consumers,OCBC,PERSON,ocbc_00715
+Consumers,PayNow,PERSON,ocbc_00715
+Credit Suisse,Great Eastern,ORGANIZATION,ocbc_00000
+Credit Suisse,OCBC,ORGANIZATION,ocbc_00000|ocbc_00601
+Credit Suisse,WBL Corporation,ORGANIZATION,ocbc_00000
+DBS,Global Brand Valuation,ORGANIZATION,ocbc_00106
+DBS,Global Finance,ORGANIZATION,ocbc_00800
+DBS,Komaresan Subramanian,PERSON,ocbc_01026
+DBS,Moody,PERSON,ocbc_01026
+DBS,NRIC,ORGANIZATION,ocbc_00715
+DBS,National Australia Bank,ORGANIZATION,ocbc_00519
+DBS,Nets,ORGANIZATION,ocbc_00692
+DBS,OCBC,ORGANIZATION,ocbc_00014|ocbc_00102|ocbc_00106|ocbc_00118|ocbc_00250|ocbc_00519|ocbc_00646|ocbc_00692|ocbc_00715|ocbc_00800|ocbc_01026|ocbc_01107|ocbc_01204
+DBS,POSB,ORGANIZATION,ocbc_00118
+DBS,Passengers,PERSON,ocbc_00646
+DBS,PayNow,ORGANIZATION,ocbc_00715
+DBS,UOB,ORGANIZATION,ocbc_00014|ocbc_00102|ocbc_00106|ocbc_00118|ocbc_00250|ocbc_00692|ocbc_00800|ocbc_01026|ocbc_01204
+EGM,OCBC,ORGANIZATION,ocbc_01344
+EGM,Oxley,PERSON,ocbc_01344
+EGM,UE,ORGANIZATION,ocbc_01344
+EGM,WBL,ORGANIZATION,ocbc_01344
+EGM,YPI,ORGANIZATION,ocbc_01344
+EGM,Yanlord,ORGANIZATION,ocbc_01344
+Ee Meng Yen Angela,Ernst & Young Solutions LLP,PERSON,ocbc_00813
+Ee Meng Yen Angela,OCBC,PERSON,ocbc_00813
+Ee Meng Yen Angela,TT International,PERSON,ocbc_00813
+Ernst & Young Solutions,OCBC,ORGANIZATION,ocbc_00841
+Ernst & Young Solutions,TT International,ORGANIZATION,ocbc_00841
+Ernst & Young Solutions LLP,OCBC,ORGANIZATION,ocbc_00813
+Ernst & Young Solutions LLP,TT International,ORGANIZATION,ocbc_00813
+Foo Sze Ming,OCBC,PERSON,ocbc_01145
+Foo Sze Ming,Smartkarma,PERSON,ocbc_01145
+Foo Sze Ming,UE,PERSON,ocbc_01145
+Foo Sze Ming,WBL,PERSON,ocbc_01145
+Foo Sze Ming,Yanlord,PERSON,ocbc_01145
+Foo Sze Ming,Yanlord Perennial,PERSON,ocbc_01145
+Funders,OCBC,PERSON,ocbc_01347
+Funders,UOB,PERSON,ocbc_01347
+GEH,Great Eastern,ORGANIZATION,ocbc_00804
+GEH,OCBC,ORGANIZATION,ocbc_00804|ocbc_01413
+GEH,RHB,ORGANIZATION,ocbc_00804
+GELM,OCBC,ORGANIZATION,ocbc_01409
+GELM,UOB,ORGANIZATION,ocbc_01409
+Global Brand Valuation,OCBC,ORGANIZATION,ocbc_00106
+Global Brand Valuation,UOB,ORGANIZATION,ocbc_00106
+Global Finance,OCBC,ORGANIZATION,ocbc_00800
+Global Finance,UOB,ORGANIZATION,ocbc_00800
+Great Eastern,KKR,ORGANIZATION,ocbc_00124
+Great Eastern,Lee,PERSON,ocbc_00004|ocbc_00025|ocbc_00124|ocbc_00425
+Great Eastern,Lees,PERSON,ocbc_00520
+Great Eastern,OCBC,ORGANIZATION,ocbc_00000|ocbc_00004|ocbc_00025|ocbc_00124|ocbc_00425|ocbc_00505|ocbc_00506|ocbc_00518|ocbc_00520|ocbc_00609|ocbc_00804|ocbc_01100
+Great Eastern,Perennial,ORGANIZATION,ocbc_00518
+Great Eastern,RHB,ORGANIZATION,ocbc_00804
+Great Eastern,Representatives,PERSON,ocbc_00025
+Great Eastern,Samling,ORGANIZATION,ocbc_00124
+Great Eastern,UE,ORGANIZATION,ocbc_00506|ocbc_00520|ocbc_00609|ocbc_01100
+Great Eastern,UEL,ORGANIZATION,ocbc_00004
+Great Eastern,WBL,ORGANIZATION,ocbc_00505|ocbc_00520|ocbc_01100
+Great Eastern,WBL Corp,ORGANIZATION,ocbc_00506|ocbc_00609
+Great Eastern,WBL Corporation,ORGANIZATION,ocbc_00000|ocbc_00505
+Great Eastern,YPI,ORGANIZATION,ocbc_01100
+Great Eastern,Yanlord Land,ORGANIZATION,ocbc_01100
+Indians,OCBC,PERSON,ocbc_01102|ocbc_01118
+KKR,Lee,PERSON,ocbc_00124
+KKR,OCBC,ORGANIZATION,ocbc_00124
+KKR,Samling,ORGANIZATION,ocbc_00124
+Komaresan Subramanian,Moody,PERSON,ocbc_01026
+Komaresan Subramanian,OCBC,PERSON,ocbc_01026
+Komaresan Subramanian,UOB,PERSON,ocbc_01026
+Lee,OCBC,PERSON,ocbc_00004|ocbc_00025|ocbc_00124|ocbc_00425
+Lee,Representatives,PERSON,ocbc_00025
+Lee,Samling,PERSON,ocbc_00124
+Lee,UEL,PERSON,ocbc_00004
+Lees,OCBC,PERSON,ocbc_00520
+Lees,UE,PERSON,ocbc_00520
+Lees,WBL,PERSON,ocbc_00520
+MAS,OCBC,ORGANIZATION,ocbc_00108|ocbc_00701|ocbc_00712
+MAS,Prem Hirubalan,PERSON,ocbc_00701|ocbc_00712
+MAS,UOB,ORGANIZATION,ocbc_00108
+MEPS,OCBC,ORGANIZATION,ocbc_00408
+MEPS,Payments Network Malaysia Sdn Bhd,ORGANIZATION,ocbc_00408
+Man,OCBC,PERSON,ocbc_01401
+Mobike,OCBC,ORGANIZATION,ocbc_01208
+Moody,OCBC,PERSON,ocbc_01026
+Moody,UOB,PERSON,ocbc_01026
+NAB,OCBC,ORGANIZATION,ocbc_00400|ocbc_00402|ocbc_00420
+NCIL,Nam Cheong International,ORGANIZATION,ocbc_00503
+NCIL,OCBC,ORGANIZATION,ocbc_00503
+NRIC,OCBC,ORGANIZATION,ocbc_00715
+NRIC,PayNow,ORGANIZATION,ocbc_00715
+Nam Cheong,OCBC,PERSON,ocbc_00645
+Nam Cheong International,OCBC,ORGANIZATION,ocbc_00503
+National Australia Bank,OCBC,ORGANIZATION,ocbc_00519
+Nets,OCBC,ORGANIZATION,ocbc_00304|ocbc_00307|ocbc_00403|ocbc_00692|ocbc_01060
+Nets,Singapore Clearing House,ORGANIZATION,ocbc_00307
+Nets,UOB,ORGANIZATION,ocbc_00692
+OCBC,Oxley,PERSON,ocbc_01344
+OCBC,POSB,ORGANIZATION,ocbc_00118
+OCBC,Passengers,PERSON,ocbc_00646
+OCBC,PayNow,ORGANIZATION,ocbc_00500|ocbc_00715
+OCBC,Payments Network Malaysia Sdn Bhd,ORGANIZATION,ocbc_00408
+OCBC,Perennial,ORGANIZATION,ocbc_00518
+OCBC,Pranav Seth,PERSON,ocbc_00500
+OCBC,Prem Hirubalan,PERSON,ocbc_00701|ocbc_00712
+OCBC,RHB,ORGANIZATION,ocbc_00804
+OCBC,Representatives,PERSON,ocbc_00025
+OCBC,Samling,ORGANIZATION,ocbc_00124
+OCBC,Singapore Clearing House,ORGANIZATION,ocbc_00307
+OCBC,Singapore Exchange,ORGANIZATION,ocbc_00602|ocbc_01200
+OCBC,Siri,ORGANIZATION,ocbc_00903|ocbc_00908
+OCBC,Smartkarma,ORGANIZATION,ocbc_01145
+OCBC,Straits Times,ORGANIZATION,ocbc_00725
+OCBC,TT International,ORGANIZATION,ocbc_00726|ocbc_00813|ocbc_00841
+OCBC,UE,ORGANIZATION,ocbc_00506|ocbc_00520|ocbc_00608|ocbc_00609|ocbc_01100|ocbc_01117|ocbc_01145|ocbc_01331|ocbc_01344
+OCBC,UEL,ORGANIZATION,ocbc_00004|ocbc_00602|ocbc_01117
+OCBC,UOB,ORGANIZATION,ocbc_00014|ocbc_00102|ocbc_00106|ocbc_00108|ocbc_00118|ocbc_00250|ocbc_00502|ocbc_00692|ocbc_00800|ocbc_01026|ocbc_01081|ocbc_01101|ocbc_01204|ocbc_01347|ocbc_01409
+OCBC,Victor Lo,PERSON,ocbc_00705|ocbc_00708
+OCBC,WBL,ORGANIZATION,ocbc_00505|ocbc_00520|ocbc_01100|ocbc_01117|ocbc_01145|ocbc_01331|ocbc_01344
+OCBC,WBL Corp,ORGANIZATION,ocbc_00506|ocbc_00609
+OCBC,WBL Corp Ltd,ORGANIZATION,ocbc_00602
+OCBC,WBL Corporation,ORGANIZATION,ocbc_00000|ocbc_00505
+OCBC,YPI,ORGANIZATION,ocbc_01100|ocbc_01117|ocbc_01344
+OCBC,Yanlord,ORGANIZATION,ocbc_01145|ocbc_01344
+OCBC,Yanlord Land,ORGANIZATION,ocbc_01100
+OCBC,Yanlord Land Group,ORGANIZATION,ocbc_00608
+OCBC,Yanlord Perennial,PERSON,ocbc_01145
+OCBC,Yanlord Perennial Investment,ORGANIZATION,ocbc_01331
+Oxley,UE,PERSON,ocbc_01344
+Oxley,WBL,PERSON,ocbc_01344
+Oxley,YPI,PERSON,ocbc_01344
+Oxley,Yanlord,PERSON,ocbc_01344
+POSB,UOB,ORGANIZATION,ocbc_00118
+PayNow,Pranav Seth,PERSON,ocbc_00500
+Singapore Exchange,UEL,ORGANIZATION,ocbc_00602
+Singapore Exchange,WBL Corp Ltd,ORGANIZATION,ocbc_00602
+Smartkarma,UE,ORGANIZATION,ocbc_01145
+Smartkarma,WBL,ORGANIZATION,ocbc_01145
+Smartkarma,Yanlord,ORGANIZATION,ocbc_01145
+Smartkarma,Yanlord Perennial,PERSON,ocbc_01145
+UE,UEL,ORGANIZATION,ocbc_01117
+UE,WBL,ORGANIZATION,ocbc_00520|ocbc_01100|ocbc_01117|ocbc_01145|ocbc_01331|ocbc_01344
+UE,WBL Corp,ORGANIZATION,ocbc_00506|ocbc_00609
+UE,YPI,ORGANIZATION,ocbc_01100|ocbc_01117|ocbc_01344
+UE,Yanlord,ORGANIZATION,ocbc_01145|ocbc_01344
+UE,Yanlord Land,ORGANIZATION,ocbc_01100
+UE,Yanlord Land Group,ORGANIZATION,ocbc_00608
+UE,Yanlord Perennial,PERSON,ocbc_01145
+UE,Yanlord Perennial Investment,ORGANIZATION,ocbc_01331
+UEL,WBL,ORGANIZATION,ocbc_01117
+UEL,WBL Corp Ltd,ORGANIZATION,ocbc_00602
+UEL,YPI,ORGANIZATION,ocbc_01117
+WBL,WBL Corporation,ORGANIZATION,ocbc_00505
+WBL,YPI,ORGANIZATION,ocbc_01100|ocbc_01117|ocbc_01344
+WBL,Yanlord,ORGANIZATION,ocbc_01145|ocbc_01344
+WBL,Yanlord Land,ORGANIZATION,ocbc_01100
+WBL,Yanlord Perennial,PERSON,ocbc_01145
+WBL,Yanlord Perennial Investment,ORGANIZATION,ocbc_01331
+YPI,Yanlord,ORGANIZATION,ocbc_01344
+YPI,Yanlord Land,ORGANIZATION,ocbc_01100
+Yanlord,Yanlord Perennial,PERSON,ocbc_01145

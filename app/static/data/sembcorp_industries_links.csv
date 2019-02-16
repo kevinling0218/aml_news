@@ -1,0 +1,18 @@
+source,target,link_type,weight
+SCI,Sembcorp Industries,ORGANIZATION,6
+OCBC,Sembcorp Industries,ORGANIZATION,5
+OCBC,SCI,ORGANIZATION,4
+Sembcorp Industries,Sembcorp Marine,ORGANIZATION,4
+Contact Energy,Graham Cockroft,PERSON,2
+Sembcorp Industries,Tang Kin Fei,PERSON,2
+SCI,Sembcorp Marine,ORGANIZATION,2
+Sembcorp Marine,UBS AG,ORGANIZATION,2
+CFO,Graham Cockroft,PERSON,2
+AT Capital Group,Sembcorp Industries,ORGANIZATION,2
+CFO,Contact Energy,PERSON,1
+CFO,Sembcorp Industries,PERSON,1
+Sembcorp Industries,UBS AG,ORGANIZATION,1
+OCBC,Sembcorp Marine,ORGANIZATION,1
+Graham Cockroft,Sembcorp Industries,PERSON,1
+AT Capital Group,SCI,ORGANIZATION,1
+AT Capital Group,OCBC,ORGANIZATION,1

@@ -1,0 +1,508 @@
+source,target,link_type,article_id
+Allgreen,Allgreen Holdings,ORGANIZATION,frasers_00327
+Allgreen,Frasers Centrepoint,ORGANIZATION,frasers_00327
+Allgreen,Zouk,ORGANIZATION,frasers_00327
+Allgreen Holdings,Frasers Centrepoint,ORGANIZATION,frasers_00327
+Allgreen Holdings,Zouk,ORGANIZATION,frasers_00327
+Analysts,Frasers Centrepoint,PERSON,frasers_00461
+Analysts,HDB,PERSON,condo_00355|hdb_01323
+Analysts,ROF,PERSON,hdb_01323
+Artist,BTO,PERSON,condo_00351
+Artist,City Developments Limited,PERSON,cdl_00854
+Artist,HDB,PERSON,condo_00351
+Artist,Our Tampines Hub,PERSON,cdl_00854
+Artist,Tampines MRT,PERSON,cdl_00854
+Ascendas Reit,Cache Logistics Trust,ORGANIZATION,frasers_00384
+Ascendas Reit,CapitaLand Commercial Trust,ORGANIZATION,frasers_00384
+Ascendas Reit,CapitaLand Mall Trust,ORGANIZATION,frasers_00384
+Ascendas Reit,Frasers Centrepoint,ORGANIZATION,frasers_00384
+BCA,Brownstone EC,ORGANIZATION,hdb_00554
+BCA,City Developments Limited,ORGANIZATION,cdl_00254|cdl_00255|hdb_00554
+BCA,Construction contractors,PERSON,cdl_00255
+BCA,Dragages Singapore,ORGANIZATION,cdl_00254|cdl_00255
+BCA,Firms,ORGANIZATION,cdl_00254
+BCA,Teambuild,ORGANIZATION,cdl_00254|cdl_00255|hdb_00554
+BT,City Developments Limited,ORGANIZATION,cdl_00003|cdl_00251|cdl_00633|cdl_00716|frasers_00410
+BT,Frasers Centrepoint,ORGANIZATION,frasers_00035|frasers_00385
+BT,Frasers Tower,ORGANIZATION,frasers_00035
+BT,Kwek Leng Beng,PERSON,cdl_00716|frasers_00410
+BT,Millennium & Copthorne,ORGANIZATION,cdl_00633
+BT,People,PERSON,cdl_00251
+BT,Public,PERSON,cdl_00251
+BT,RETAIL,ORGANIZATION,frasers_00385
+BT,Sherman Kwek,PERSON,cdl_00716|frasers_00410
+BT,Singapore Sustainability Academy,ORGANIZATION,cdl_00251
+BT,Sustainability Energy Association of Singapore,ORGANIZATION,cdl_00251
+BT,THE Singapore Sustainability Academy,ORGANIZATION,cdl_00251
+BTO,Blue,PERSON,hdb_00968
+BTO,CPF,ORGANIZATION,hdb_01104
+BTO,Gafoor,PERSON,hdb_01322
+BTO,HDB,ORGANIZATION,condo_00351|hdb_00101|hdb_00202|hdb_00219|hdb_00401|hdb_00408|hdb_00410|hdb_00424|hdb_00602|hdb_00725|hdb_00904|hdb_00919|hdb_00933|hdb_01002|hdb_01104|hdb_01201|hdb_01206|hdb_01315
+BTO,Housing Board,ORGANIZATION,hdb_01322
+BTO,Housing and Development Board,ORGANIZATION,condo_00111|hdb_01000
+BTO,New Housing and Development Board,ORGANIZATION,hdb_00410
+BTO,PUB,ORGANIZATION,hdb_00933|hdb_00968
+BTO,Parliament,ORGANIZATION,hdb_00408
+BTO,ROF,ORGANIZATION,hdb_00725|hdb_01322
+BTO,SBF,ORGANIZATION,hdb_00136|hdb_00219|hdb_00410|hdb_00725|hdb_01000|hdb_01002
+BTO,Smart,PERSON,hdb_00968
+BTO,Some,PERSON,hdb_00408
+BTO,Zaqy,PERSON,hdb_00408
+Balmoral Gardens,Stevens MRT,ORGANIZATION,cdl_00753
+Bellevue Properties,City Developments Limited,ORGANIZATION,cdl_00154|cdl_00203|cdl_00205
+Bellevue Properties,Kingsford Development,ORGANIZATION,cdl_00154
+Bellevue Properties,PropertyGuru,ORGANIZATION,cdl_00205
+Bellevue Properties,Qingjian Realty,ORGANIZATION,cdl_00154
+Bellevue Properties,Tampines West MRT,ORGANIZATION,cdl_00203
+Bellevue Properties,URA,ORGANIZATION,cdl_00203
+Bellevue Properties,Urban Redevelopment Authority,ORGANIZATION,cdl_00205
+Bloomberg,Champions,ORGANIZATION,cdl_00857
+Bloomberg,City Developments Limited,ORGANIZATION,cdl_00707|cdl_00708|cdl_00857
+Bloomberg,DBS,ORGANIZATION,cdl_00707|cdl_00857
+Bloomberg,GEI,ORGANIZATION,cdl_00707
+Blue,PUB,PERSON,hdb_00968
+Blue,Smart,PERSON,hdb_00968
+Brownstone EC,City Developments Limited,ORGANIZATION,hdb_00554
+Brownstone EC,Teambuild,ORGANIZATION,hdb_00554
+CCR,HDB,ORGANIZATION,hdb_00495
+CCR,Wong,PERSON,hdb_00495
+CDP,Christopher Chitty,PERSON,cdl_00500
+CDP,City Developments Limited,ORGANIZATION,cdl_00500
+CDP,Most Sustainable Corporation,ORGANIZATION,cdl_00500
+CPF,HDB,ORGANIZATION,hdb_01104
+Cache Logistics Trust,CapitaLand Commercial Trust,ORGANIZATION,frasers_00384
+Cache Logistics Trust,CapitaLand Mall Trust,ORGANIZATION,frasers_00384
+Cache Logistics Trust,Frasers Centrepoint,ORGANIZATION,frasers_00384
+CapitaLand,City Developments Limited,ORGANIZATION,frasers_00394
+CapitaLand,DBS,ORGANIZATION,frasers_00394
+CapitaLand,Frasers Centrepoint,ORGANIZATION,frasers_00394
+CapitaLand,Frasers Logistics & Industrial Trust,ORGANIZATION,frasers_00394
+CapitaLand,Greater China Commercial Trust,ORGANIZATION,frasers_00394
+CapitaLand,Keppel Corp,ORGANIZATION,frasers_00394
+CapitaLand,Mapletree,ORGANIZATION,frasers_00394
+CapitaLand,Sembcorp Industries,ORGANIZATION,frasers_00394
+CapitaLand,Singtel,ORGANIZATION,frasers_00394
+CapitaLand,UOL,ORGANIZATION,frasers_00394
+CapitaLand,Venture Corp,ORGANIZATION,frasers_00394
+CapitaLand,Wheelock Properties,ORGANIZATION,frasers_00394
+CapitaLand,Wing Tai,PERSON,frasers_00394
+CapitaLand Commercial Trust,CapitaLand Mall Trust,ORGANIZATION,frasers_00384
+CapitaLand Commercial Trust,Frasers Centrepoint,ORGANIZATION,frasers_00384
+CapitaLand Mall Trust,Frasers Centrepoint,ORGANIZATION,frasers_00384
+Champions,City Developments Limited,ORGANIZATION,cdl_00857
+Champions,DBS,ORGANIZATION,cdl_00857
+Chan,HDB,PERSON,hdb_00505
+Chan,Youth,PERSON,hdb_00505
+Christopher Chitty,City Developments Limited,PERSON,cdl_00002|cdl_00500|condo_00226
+Christopher Chitty,Most Sustainable Corporation,PERSON,cdl_00500|condo_00226
+Christopher Tang,Frasers Centrepoint,PERSON,frasers_00075|frasers_00368
+City Developments Limited,CityDev,PERSON,cdl_00706
+City Developments Limited,Colliers International,ORGANIZATION,frasers_00390
+City Developments Limited,Construction contractors,PERSON,cdl_00255
+City Developments Limited,Construction firms,ORGANIZATION,cdl_00252
+City Developments Limited,DBS,ORGANIZATION,cdl_00363|cdl_00707|cdl_00857|frasers_00216|frasers_00394
+City Developments Limited,Distrii,ORGANIZATION,cdl_00000
+City Developments Limited,Dragages Singapore,ORGANIZATION,cdl_00252|cdl_00254|cdl_00255
+City Developments Limited,EC,ORGANIZATION,cdl_00790
+City Developments Limited,FIRST Sponsor Group Limited,ORGANIZATION,cdl_00632|cdl_00643
+City Developments Limited,Firms,ORGANIZATION,cdl_00254
+City Developments Limited,First Sponsor,ORGANIZATION,cdl_00639
+City Developments Limited,Frasers Centrepoint,ORGANIZATION,cdl_00727|frasers_00390|frasers_00394|frasers_00400
+City Developments Limited,Frasers Logistics & Industrial Trust,ORGANIZATION,frasers_00394
+City Developments Limited,GEI,ORGANIZATION,cdl_00707
+City Developments Limited,Global 100 Most Sustainable Corporations,ORGANIZATION,cdl_00006
+City Developments Limited,Gramercy,ORGANIZATION,cdl_00363
+City Developments Limited,Greater China Commercial Trust,ORGANIZATION,frasers_00394
+City Developments Limited,Green,PERSON,cdl_00150
+City Developments Limited,GuocoLand,ORGANIZATION,cdl_00851
+City Developments Limited,Hong Leong,ORGANIZATION,cdl_00851
+City Developments Limited,Hong Leong Co Malaysia Bhd,ORGANIZATION,cdl_00851
+City Developments Limited,Hong Leong Group,ORGANIZATION,cdl_00057|cdl_00368
+City Developments Limited,Hong Leong Investment Holdings,ORGANIZATION,cdl_00851
+City Developments Limited,Hougang,ORGANIZATION,cdl_00513
+City Developments Limited,Housing and Development Board,ORGANIZATION,cdl_00790
+City Developments Limited,Huang Huayan,PERSON,cdl_00097
+City Developments Limited,IVA,ORGANIZATION,cdl_00504
+City Developments Limited,JLL,ORGANIZATION,cdl_00513
+City Developments Limited,Janus,PERSON,cdl_00717
+City Developments Limited,Keppel Corp,ORGANIZATION,frasers_00394
+City Developments Limited,Kingsford Development,ORGANIZATION,cdl_00154
+City Developments Limited,Kino Law and Raymond Law Ka Kui,PERSON,frasers_00390
+City Developments Limited,Kwek,PERSON,cdl_00851
+City Developments Limited,Kwek Leng Beng,PERSON,cdl_00057|cdl_00368|cdl_00634|cdl_00705|cdl_00716|frasers_00410
+City Developments Limited,Logan Property,ORGANIZATION,cdl_00513
+City Developments Limited,MSD Partners,ORGANIZATION,cdl_00504
+City Developments Limited,Mapletree,ORGANIZATION,frasers_00394
+City Developments Limited,Millennium & Copthorne,ORGANIZATION,cdl_00368|cdl_00504|cdl_00506|cdl_00633|cdl_00634|cdl_00705
+City Developments Limited,Millennium Hotels and Resorts,ORGANIZATION,cdl_00057
+City Developments Limited,Most Sustainable Corporation,ORGANIZATION,cdl_00006|cdl_00500|condo_00226
+City Developments Limited,New Futura,ORGANIZATION,cdl_00212
+City Developments Limited,Nicholas Mak,PERSON,frasers_00400
+City Developments Limited,Our Tampines Hub,ORGANIZATION,cdl_00854
+City Developments Limited,People,PERSON,cdl_00251
+City Developments Limited,PropertyGuru,ORGANIZATION,cdl_00205
+City Developments Limited,Public,PERSON,cdl_00251
+City Developments Limited,Qingjian Realty,ORGANIZATION,cdl_00154
+City Developments Limited,Quek,PERSON,cdl_00851
+City Developments Limited,REUTERS,ORGANIZATION,cdl_00150|cdl_00634
+City Developments Limited,Sembcorp Industries,ORGANIZATION,frasers_00394
+City Developments Limited,Sherman Kwek,PERSON,cdl_00716|frasers_00410
+City Developments Limited,Singapore Sustainability Academy,ORGANIZATION,cdl_00250|cdl_00251|cdl_00258|cdl_00259
+City Developments Limited,Singtel,ORGANIZATION,frasers_00394
+City Developments Limited,Sponsor,ORGANIZATION,cdl_00639
+City Developments Limited,Sustainability Energy Association of Singapore,ORGANIZATION,cdl_00251
+City Developments Limited,Sustainable Energy Association of Singapore,ORGANIZATION,cdl_00250|cdl_00258|cdl_00259
+City Developments Limited,THE Singapore Sustainability Academy,ORGANIZATION,cdl_00251
+City Developments Limited,Tai Tak Estates Sdn Bhd,ORGANIZATION,cdl_00632|cdl_00639|cdl_00643
+City Developments Limited,Tampines MRT,ORGANIZATION,cdl_00854
+City Developments Limited,Tampines West MRT,ORGANIZATION,cdl_00203|condo_00079
+City Developments Limited,Teambuild,ORGANIZATION,cdl_00252|cdl_00254|cdl_00255|hdb_00554
+City Developments Limited,Top Singapore Company,ORGANIZATION,cdl_00006
+City Developments Limited,Tricia Song,PERSON,frasers_00390
+City Developments Limited,UOL,ORGANIZATION,frasers_00394
+City Developments Limited,UOL Group,ORGANIZATION,cdl_00717
+City Developments Limited,URA,ORGANIZATION,cdl_00203|cdl_00792|condo_00079
+City Developments Limited,Urban Redevelopment Authority,ORGANIZATION,cdl_00205|cdl_00706|cdl_00792
+City Developments Limited,Venture Corp,ORGANIZATION,frasers_00394
+City Developments Limited,Wheelock Properties,ORGANIZATION,frasers_00394
+City Developments Limited,Wing Tai,PERSON,frasers_00394
+City Developments Limited,ZACD Group,ORGANIZATION,frasers_00400
+CityDev,Urban Redevelopment Authority,PERSON,cdl_00706
+Colliers International,Frasers Centrepoint,ORGANIZATION,frasers_00390
+Colliers International,Kino Law and Raymond Law Ka Kui,PERSON,frasers_00390
+Colliers International,Tricia Song,PERSON,frasers_00390
+Condo,HDB,ORGANIZATION,condo_00360
+Construction contractors,Dragages Singapore,PERSON,cdl_00255
+Construction contractors,Teambuild,PERSON,cdl_00255
+Construction firms,Dragages Singapore,ORGANIZATION,cdl_00252
+Construction firms,Teambuild,ORGANIZATION,cdl_00252
+Corson,Keppel Land,PERSON,condo_00203
+Cushman & Wakefield,Frasers Centrepoint,ORGANIZATION,frasers_00325
+Cushman & Wakefield,Hong Leong,ORGANIZATION,frasers_00325
+Cushman & Wakefield,Jiak Kim,PERSON,frasers_00325
+Cushman & Wakefield,Urban Redevelopment Authority,ORGANIZATION,frasers_00325
+DBS,Frasers Centrepoint,ORGANIZATION,frasers_00139|frasers_00391|frasers_00394
+DBS,Frasers Commercial Trust,ORGANIZATION,frasers_00139
+DBS,Frasers Hospitality Trust,ORGANIZATION,frasers_00139
+DBS,Frasers Logistics & Industrial Trust,ORGANIZATION,frasers_00139|frasers_00394
+DBS,GEI,ORGANIZATION,cdl_00707
+DBS,Gramercy,ORGANIZATION,cdl_00363
+DBS,Greater China Commercial Trust,ORGANIZATION,frasers_00394
+DBS,JV,ORGANIZATION,frasers_00391
+DBS,Keppel Corp,ORGANIZATION,frasers_00394
+DBS,Mapletree,ORGANIZATION,frasers_00394
+DBS,NPI,ORGANIZATION,frasers_00391
+DBS,Sembcorp Industries,ORGANIZATION,frasers_00394
+DBS,Singapore Business Review,ORGANIZATION,frasers_00391
+DBS,Singtel,ORGANIZATION,frasers_00394
+DBS,UOL,ORGANIZATION,frasers_00394
+DBS,Venture Corp,ORGANIZATION,frasers_00394
+DBS,Wheelock Properties,ORGANIZATION,frasers_00394
+DBS,Wing Tai,PERSON,frasers_00394
+DUO,Tan,PERSON,cdl_00281
+Dragages Singapore,Firms,ORGANIZATION,cdl_00254
+Dragages Singapore,Teambuild,ORGANIZATION,cdl_00252|cdl_00254|cdl_00255
+Dunearn Court,Shunfu Ville,PERSON,hdb_00699
+EC,Housing and Development Board,ORGANIZATION,cdl_00790|hdb_01318
+ECE Projektmanagement,Frasers Centrepoint,ORGANIZATION,frasers_00332
+Experts,Frasers Centrepoint,PERSON,frasers_00121
+Experts,Frasers Logistics & Industrial Trust,PERSON,frasers_00121
+Experts,Some,PERSON,frasers_00121
+FBP,FCOT,ORGANIZATION,frasers_00335|frasers_00339
+FBP,Frasers Centrepoint,ORGANIZATION,frasers_00335|frasers_00339
+FBP,Frasers Commercial Trust,ORGANIZATION,frasers_00335|frasers_00339
+FBP,JV,ORGANIZATION,frasers_00339
+FCOT,Frasers Centrepoint,ORGANIZATION,frasers_00335|frasers_00339
+FCOT,Frasers Commercial Trust,ORGANIZATION,frasers_00335|frasers_00339
+FCOT,JV,ORGANIZATION,frasers_00339
+FIRST Sponsor Group Limited,Tai Tak Estates Sdn Bhd,ORGANIZATION,cdl_00632|cdl_00643
+FLT,FSTREI,ORGANIZATION,frasers_00497
+FLT,Frasers Centrepoint,ORGANIZATION,frasers_00138|frasers_00497
+FLT,Frasers Property Australia,ORGANIZATION,frasers_00138
+FLT,Mapletree Logistics Trust,ORGANIZATION,frasers_00497
+FLT,OCBC,ORGANIZATION,frasers_00497
+FLT,STI,ORGANIZATION,frasers_00497
+FRASERS,Frasers Centrepoint,ORGANIZATION,frasers_00445
+FSTREI,Frasers Centrepoint,ORGANIZATION,frasers_00497
+FSTREI,Mapletree Logistics Trust,ORGANIZATION,frasers_00497
+FSTREI,OCBC,ORGANIZATION,frasers_00497
+FSTREI,STI,ORGANIZATION,frasers_00497
+Firms,Teambuild,ORGANIZATION,cdl_00254
+First Sponsor,Sponsor,ORGANIZATION,cdl_00639
+First Sponsor,Tai Tak Estates Sdn Bhd,ORGANIZATION,cdl_00639
+Frasers Centrepoint,Frasers Commercial Trust,ORGANIZATION,frasers_00139|frasers_00335|frasers_00339
+Frasers Centrepoint,Frasers Hospitality Trust,ORGANIZATION,frasers_00139
+Frasers Centrepoint,Frasers Logistics & Industrial Trust,ORGANIZATION,frasers_00057|frasers_00121|frasers_00139|frasers_00394
+Frasers Centrepoint,Frasers Logistics and Industrial Trust,ORGANIZATION,frasers_00334
+Frasers Centrepoint,Frasers Property,ORGANIZATION,frasers_00440
+Frasers Centrepoint,Frasers Property Australia,ORGANIZATION,frasers_00138
+Frasers Centrepoint,Frasers Property International,ORGANIZATION,frasers_00234
+Frasers Centrepoint,Frasers Property Investments,ORGANIZATION,frasers_00262
+Frasers Centrepoint,Frasers Tower,ORGANIZATION,frasers_00035
+Frasers Centrepoint,Geneba Properties NV,ORGANIZATION,frasers_00164
+Frasers Centrepoint,Greater China Commercial Trust,ORGANIZATION,frasers_00057|frasers_00394
+Frasers Centrepoint,Greater China Trust,ORGANIZATION,frasers_00334
+Frasers Centrepoint,GuocoLand,ORGANIZATION,frasers_00331
+Frasers Centrepoint,Hong Leong,ORGANIZATION,frasers_00325
+Frasers Centrepoint,JV,ORGANIZATION,frasers_00339|frasers_00391
+Frasers Centrepoint,Jiak,PERSON,frasers_00336
+Frasers Centrepoint,Jiak Kim,PERSON,frasers_00325
+Frasers Centrepoint,Keppel Corp,ORGANIZATION,frasers_00394
+Frasers Centrepoint,Kim Street_Aerial,PERSON,frasers_00336
+Frasers Centrepoint,Kino Law and Raymond Law Ka Kui,PERSON,frasers_00390
+Frasers Centrepoint,Lee,PERSON,frasers_00057
+Frasers Centrepoint,Mapletree,ORGANIZATION,frasers_00334|frasers_00394
+Frasers Centrepoint,Mapletree Logistics Trust,ORGANIZATION,frasers_00497
+Frasers Centrepoint,Microsoft,ORGANIZATION,frasers_00364|frasers_00405
+Frasers Centrepoint,NPI,ORGANIZATION,frasers_00391
+Frasers Centrepoint,Nicholas Mak,PERSON,frasers_00400
+Frasers Centrepoint,OCBC,ORGANIZATION,frasers_00300|frasers_00334|frasers_00497
+Frasers Centrepoint,REITs,ORGANIZATION,frasers_00334
+Frasers Centrepoint,RETAIL,ORGANIZATION,frasers_00385
+Frasers Centrepoint,STI,ORGANIZATION,frasers_00497
+Frasers Centrepoint,Sembcorp Industries,ORGANIZATION,frasers_00394
+Frasers Centrepoint,Singapore Business Review,ORGANIZATION,frasers_00391
+Frasers Centrepoint,Singapore Exchange,ORGANIZATION,frasers_00073|frasers_00164|frasers_00440
+Frasers Centrepoint,Singtel,ORGANIZATION,frasers_00394
+Frasers Centrepoint,Some,PERSON,frasers_00121
+Frasers Centrepoint,Total Oil,ORGANIZATION,frasers_00364|frasers_00405
+Frasers Centrepoint,Tricia Song,PERSON,frasers_00390
+Frasers Centrepoint,UNIT,ORGANIZATION,frasers_00164
+Frasers Centrepoint,UOL,ORGANIZATION,frasers_00394
+Frasers Centrepoint,URA,ORGANIZATION,frasers_00336
+Frasers Centrepoint,Urban Redevelopment Authority,ORGANIZATION,frasers_00325
+Frasers Centrepoint,Venture Corp,ORGANIZATION,frasers_00394
+Frasers Centrepoint,Wheelock Properties,ORGANIZATION,frasers_00394
+Frasers Centrepoint,Wing Tai,PERSON,frasers_00394
+Frasers Centrepoint,ZACD Group,ORGANIZATION,frasers_00400
+Frasers Centrepoint,Zouk,ORGANIZATION,frasers_00327
+Frasers Commercial Trust,Frasers Hospitality Trust,ORGANIZATION,frasers_00139
+Frasers Commercial Trust,Frasers Logistics & Industrial Trust,ORGANIZATION,frasers_00139
+Frasers Commercial Trust,JV,ORGANIZATION,frasers_00339
+Frasers Hospitality Trust,Frasers Logistics & Industrial Trust,ORGANIZATION,frasers_00139
+Frasers Logistics & Industrial Trust,Greater China Commercial Trust,ORGANIZATION,frasers_00057|frasers_00394
+Frasers Logistics & Industrial Trust,Keppel Corp,ORGANIZATION,frasers_00394
+Frasers Logistics & Industrial Trust,Lee,PERSON,frasers_00057
+Frasers Logistics & Industrial Trust,Mapletree,ORGANIZATION,frasers_00394
+Frasers Logistics & Industrial Trust,Sembcorp Industries,ORGANIZATION,frasers_00394
+Frasers Logistics & Industrial Trust,Singtel,ORGANIZATION,frasers_00394
+Frasers Logistics & Industrial Trust,Some,PERSON,frasers_00121
+Frasers Logistics & Industrial Trust,UOL,ORGANIZATION,frasers_00394
+Frasers Logistics & Industrial Trust,Venture Corp,ORGANIZATION,frasers_00394
+Frasers Logistics & Industrial Trust,Wheelock Properties,ORGANIZATION,frasers_00394
+Frasers Logistics & Industrial Trust,Wing Tai,PERSON,frasers_00394
+Frasers Logistics and Industrial Trust,Greater China Trust,ORGANIZATION,frasers_00334
+Frasers Logistics and Industrial Trust,Mapletree,ORGANIZATION,frasers_00334
+Frasers Logistics and Industrial Trust,OCBC,ORGANIZATION,frasers_00334
+Frasers Logistics and Industrial Trust,REITs,ORGANIZATION,frasers_00334
+Frasers Property,Singapore Exchange,ORGANIZATION,frasers_00440
+Gafoor,Housing Board,PERSON,hdb_01322
+Gafoor,ROF,PERSON,hdb_01322
+Geneba Properties NV,Singapore Exchange,ORGANIZATION,frasers_00164
+Geneba Properties NV,UNIT,ORGANIZATION,frasers_00164
+Global 100 Most Sustainable Corporations,Most Sustainable Corporation,ORGANIZATION,cdl_00006
+Global 100 Most Sustainable Corporations,Top Singapore Company,ORGANIZATION,cdl_00006
+Goh,HDB,PERSON,hdb_00421
+Goh,Tampines,PERSON,hdb_00421
+Google,HDB,ORGANIZATION,condo_00264|hdb_01242
+Government,HDB,ORGANIZATION,condo_00210
+Greater China Commercial Trust,Keppel Corp,ORGANIZATION,frasers_00394
+Greater China Commercial Trust,Lee,PERSON,frasers_00057
+Greater China Commercial Trust,Mapletree,ORGANIZATION,frasers_00394
+Greater China Commercial Trust,Sembcorp Industries,ORGANIZATION,frasers_00394
+Greater China Commercial Trust,Singtel,ORGANIZATION,frasers_00394
+Greater China Commercial Trust,UOL,ORGANIZATION,frasers_00394
+Greater China Commercial Trust,Venture Corp,ORGANIZATION,frasers_00394
+Greater China Commercial Trust,Wheelock Properties,ORGANIZATION,frasers_00394
+Greater China Commercial Trust,Wing Tai,PERSON,frasers_00394
+Greater China Trust,Mapletree,ORGANIZATION,frasers_00334
+Greater China Trust,OCBC,ORGANIZATION,frasers_00334
+Greater China Trust,REITs,ORGANIZATION,frasers_00334
+Green,REUTERS,PERSON,cdl_00150
+Guoco Group Limited,GuocoLand,ORGANIZATION,cdl_00542
+GuocoLand,Hong Leong,ORGANIZATION,cdl_00851
+GuocoLand,Hong Leong Co Malaysia Bhd,ORGANIZATION,cdl_00851
+GuocoLand,Hong Leong Investment Holdings,ORGANIZATION,cdl_00851
+GuocoLand,Kwek,PERSON,cdl_00851
+GuocoLand,Pearlbank Apartments,ORGANIZATION,condo_00249
+GuocoLand,Quek,PERSON,cdl_00851
+GuocoLand Limited,Raymond Choong,PERSON,cdl_00534
+HDB,Halimah,PERSON,hdb_00948
+HDB,Heng Swee Keat,PERSON,hdb_01330
+HDB,Households,PERSON,hdb_00046
+HDB,Housing Board,ORGANIZATION,hdb_00037|hdb_00055|hdb_00403|hdb_01208
+HDB,Ismail Gafoor,PERSON,hdb_00708
+HDB,Krishnan,PERSON,hdb_00461
+HDB,Ku Swee Yong,PERSON,hdb_01403
+HDB,MOF,ORGANIZATION,hdb_00055
+HDB,Ministry of Finance,ORGANIZATION,hdb_00055
+HDB,Ministry of National,ORGANIZATION,hdb_00508|hdb_01310
+HDB,Ministry of National Development,ORGANIZATION,hdb_00006|hdb_00128
+HDB,New Housing and Development Board,ORGANIZATION,hdb_00410
+HDB,Ng,PERSON,hdb_01110|hdb_01346
+HDB,Ng Han Yuan,PERSON,hdb_01324
+HDB,Ong Boon Hua,PERSON,hdb_00170
+HDB,PAP,ORGANIZATION,hdb_00628
+HDB,PUB,ORGANIZATION,hdb_00933
+HDB,Parliament,ORGANIZATION,hdb_00408|hdb_01425
+HDB,People's Action Party,ORGANIZATION,hdb_00104
+HDB,ROF,ORGANIZATION,condo_00184|hdb_00707|hdb_00708|hdb_00725|hdb_01323
+HDB,Redevelopment Authority,ORGANIZATION,hdb_01298
+HDB,Residents,PERSON,hdb_01202
+HDB,S&CC,ORGANIZATION,condo_00023|hdb_00170|hdb_00212|hdb_00214
+HDB,SBF,ORGANIZATION,hdb_00219|hdb_00403|hdb_00410|hdb_00707|hdb_00708|hdb_00725|hdb_01002
+HDB,SERS,ORGANIZATION,condo_00110|hdb_00404
+HDB,SLA,ORGANIZATION,hdb_00508|hdb_00923
+HDB,SRX Property,ORGANIZATION,hdb_00700
+HDB,ST,ORGANIZATION,hdb_01001|hdb_01006|hdb_01018
+HDB,Some,PERSON,hdb_00018|hdb_00408
+HDB,Straits Times,ORGANIZATION,hdb_01001
+HDB,Tai,PERSON,hdb_01110
+HDB,Tampines,ORGANIZATION,hdb_00421
+HDB,Tan,PERSON,hdb_01219
+HDB,The Straits Times,ORGANIZATION,hdb_01400
+HDB,Town councils,ORGANIZATION,hdb_00006|hdb_00027|hdb_00128
+HDB,URA,ORGANIZATION,condo_00110|hdb_00365|hdb_01161
+HDB,Wong,PERSON,hdb_00495
+HDB,Youth,PERSON,hdb_00505
+HDB,Zaqy,PERSON,hdb_00408
+HLA,Hong Leong Group,ORGANIZATION,cdl_00005
+HLA,Kwek Leng Beng,PERSON,cdl_00005
+HUDC,Hougang,ORGANIZATION,condo_00272|hdb_00974
+HUDC,JLL,ORGANIZATION,condo_00272
+Heng Swee Keat,Lee Hsien Loong,PERSON,frasers_00345
+Heng Swee Keat,MOF,PERSON,frasers_00345
+Heng Swee Keat,Ministry of Finance,PERSON,frasers_00345
+Heng Swee Keat,Parliament,PERSON,frasers_00345
+Hong Leong,Hong Leong Co Malaysia Bhd,ORGANIZATION,cdl_00851
+Hong Leong,Hong Leong Investment Holdings,ORGANIZATION,cdl_00851
+Hong Leong,Jiak Kim,PERSON,frasers_00325
+Hong Leong,Kwek,PERSON,cdl_00851
+Hong Leong,Quek,PERSON,cdl_00851
+Hong Leong,Urban Redevelopment Authority,ORGANIZATION,frasers_00325
+Hong Leong Co Malaysia Bhd,Hong Leong Investment Holdings,ORGANIZATION,cdl_00851
+Hong Leong Co Malaysia Bhd,Kwek,PERSON,cdl_00851
+Hong Leong Co Malaysia Bhd,Quek,PERSON,cdl_00851
+Hong Leong Group,Kwek Leng Beng,PERSON,cdl_00005|cdl_00057|cdl_00368
+Hong Leong Group,Millennium & Copthorne,ORGANIZATION,cdl_00368
+Hong Leong Group,Millennium Hotels and Resorts,ORGANIZATION,cdl_00057
+Hong Leong Investment Holdings,Kwek,PERSON,cdl_00851
+Hong Leong Investment Holdings,Quek,PERSON,cdl_00851
+Hougang,JLL,ORGANIZATION,cdl_00513|condo_00244|condo_00272
+Hougang,Logan Property,ORGANIZATION,cdl_00513
+Housing Board,MOF,ORGANIZATION,hdb_00055
+Housing Board,Ministry of Finance,ORGANIZATION,hdb_00055
+Housing Board,ROF,ORGANIZATION,hdb_01322
+Housing Board,SBF,ORGANIZATION,hdb_00403
+Housing Board,Straits Times,ORGANIZATION,hdb_00582
+Housing Board,Teen,PERSON,hdb_00582
+Housing Development Board,LBS,ORGANIZATION,hdb_00326
+Housing and Development Board,SBF,ORGANIZATION,hdb_01000
+IVA,MSD Partners,ORGANIZATION,cdl_00504
+IVA,Millennium & Copthorne,ORGANIZATION,cdl_00504
+Ismail Gafoor,ROF,PERSON,hdb_00708
+Ismail Gafoor,SBF,PERSON,hdb_00708
+JLL,Logan Property,ORGANIZATION,cdl_00513
+JV,NPI,ORGANIZATION,frasers_00391
+JV,Singapore Business Review,ORGANIZATION,frasers_00391
+Janus,UOL Group,PERSON,cdl_00717
+Jervois Gardens,Normanton Park,ORGANIZATION,condo_00177
+Jiak,Kim Street_Aerial,PERSON,frasers_00336
+Jiak,URA,PERSON,frasers_00336
+Jiak Kim,Urban Redevelopment Authority,PERSON,frasers_00325
+Jianwei Huang,Owners,PERSON,hdb_00674
+Jianwei Huang,Shunfu Ville,PERSON,hdb_00674
+Junction Nine,URA,ORGANIZATION,hdb_00434
+Keppel Corp,Mapletree,ORGANIZATION,frasers_00394
+Keppel Corp,Sembcorp Industries,ORGANIZATION,frasers_00394
+Keppel Corp,Singtel,ORGANIZATION,frasers_00394
+Keppel Corp,UOL,ORGANIZATION,frasers_00394
+Keppel Corp,Venture Corp,ORGANIZATION,frasers_00394
+Keppel Corp,Wheelock Properties,ORGANIZATION,frasers_00394
+Keppel Corp,Wing Tai,PERSON,frasers_00394
+Keppel Land,Wing Tai Holdings,ORGANIZATION,frasers_00176
+Kim Street_Aerial,URA,PERSON,frasers_00336
+Kingsford Development,Qingjian Realty,ORGANIZATION,cdl_00154
+Kino Law and Raymond Law Ka Kui,Tricia Song,PERSON,frasers_00390
+Kwek,Quek,PERSON,cdl_00851
+Kwek Leng Beng,Millennium & Copthorne,PERSON,cdl_00368|cdl_00634|cdl_00705
+Kwek Leng Beng,Millennium Hotels and Resorts,PERSON,cdl_00057
+Kwek Leng Beng,REUTERS,PERSON,cdl_00634
+Kwek Leng Beng,Sherman Kwek,PERSON,cdl_00716|frasers_00410
+Lee Hsien Loong,MOF,PERSON,frasers_00345
+Lee Hsien Loong,Ministry of Finance,PERSON,frasers_00345
+Lee Hsien Loong,Parliament,PERSON,frasers_00345
+Lianhe Zaobao,Sers,PERSON,hdb_00217
+Lianhe Zaobao,Wong,PERSON,hdb_00200
+MOF,Ministry of Finance,ORGANIZATION,frasers_00345|hdb_00055
+MOF,Parliament,ORGANIZATION,frasers_00345
+MSD Partners,Millennium & Copthorne,ORGANIZATION,cdl_00504
+Mapletree,OCBC,ORGANIZATION,frasers_00334
+Mapletree,REITs,ORGANIZATION,frasers_00334
+Mapletree,Sembcorp Industries,ORGANIZATION,frasers_00394
+Mapletree,Singtel,ORGANIZATION,frasers_00394
+Mapletree,UOL,ORGANIZATION,frasers_00394
+Mapletree,Venture Corp,ORGANIZATION,frasers_00394
+Mapletree,Wheelock Properties,ORGANIZATION,frasers_00394
+Mapletree,Wing Tai,PERSON,frasers_00394
+Mapletree Logistics Trust,OCBC,ORGANIZATION,frasers_00497
+Mapletree Logistics Trust,STI,ORGANIZATION,frasers_00497
+Microsoft,Total Oil,ORGANIZATION,frasers_00364|frasers_00405
+Millennium & Copthorne,REUTERS,ORGANIZATION,cdl_00634
+Ministry of Finance,Parliament,ORGANIZATION,frasers_00345
+Ministry of National,SLA,ORGANIZATION,hdb_00508
+Ministry of National Development,Town councils,ORGANIZATION,hdb_00006|hdb_00128
+Most Sustainable Corporation,Top Singapore Company,ORGANIZATION,cdl_00006
+NPI,Singapore Business Review,ORGANIZATION,frasers_00391
+New Housing and Development Board,SBF,ORGANIZATION,hdb_00410
+Ng,Tai,PERSON,hdb_01110
+Nicholas Mak,ZACD Group,PERSON,frasers_00400
+Normanton Park,Shunfu Ville,PERSON,hdb_00787
+OCBC,REITs,ORGANIZATION,frasers_00334
+OCBC,STI,ORGANIZATION,frasers_00497
+Ong Boon Hua,S&CC,PERSON,hdb_00170
+Our Tampines Hub,Tampines MRT,ORGANIZATION,cdl_00854
+Owners,Shunfu Ville,PERSON,hdb_00674
+PAP,Residents,PERSON,hdb_00112
+PUB,Smart,PERSON,hdb_00968
+Parliament,Some,PERSON,hdb_00408
+Parliament,Zaqy,PERSON,hdb_00408
+People,Public,PERSON,cdl_00251
+People,Singapore Sustainability Academy,PERSON,cdl_00251
+People,Sustainability Energy Association of Singapore,PERSON,cdl_00251
+People,THE Singapore Sustainability Academy,PERSON,cdl_00251
+PropertyGuru,Urban Redevelopment Authority,ORGANIZATION,cdl_00205
+Public,Singapore Sustainability Academy,PERSON,cdl_00251
+Public,Sustainability Energy Association of Singapore,PERSON,cdl_00251
+Public,THE Singapore Sustainability Academy,PERSON,cdl_00251
+ROF,SBF,ORGANIZATION,hdb_00707|hdb_00708|hdb_00725
+SERS,URA,ORGANIZATION,condo_00110
+SP Setia International,Urban Redevelopment Authority,ORGANIZATION,cdl_00172
+ST,Straits Times,ORGANIZATION,hdb_01001
+Sembcorp Industries,Singtel,ORGANIZATION,frasers_00394
+Sembcorp Industries,UOL,ORGANIZATION,frasers_00394
+Sembcorp Industries,Venture Corp,ORGANIZATION,frasers_00394
+Sembcorp Industries,Wheelock Properties,ORGANIZATION,frasers_00394
+Sembcorp Industries,Wing Tai,PERSON,frasers_00394
+Singapore Exchange,UNIT,ORGANIZATION,frasers_00164
+Singapore Sustainability Academy,Sustainability Energy Association of Singapore,ORGANIZATION,cdl_00251
+Singapore Sustainability Academy,Sustainable Energy Association of Singapore,ORGANIZATION,cdl_00250|cdl_00258|cdl_00259
+Singapore Sustainability Academy,THE Singapore Sustainability Academy,ORGANIZATION,cdl_00251
+Singtel,UOL,ORGANIZATION,frasers_00394
+Singtel,Venture Corp,ORGANIZATION,frasers_00394
+Singtel,Wheelock Properties,ORGANIZATION,frasers_00394
+Singtel,Wing Tai,PERSON,frasers_00394
+Some,Zaqy,PERSON,hdb_00408
+Sponsor,Tai Tak Estates Sdn Bhd,ORGANIZATION,cdl_00639
+Straits Times,Teen,PERSON,hdb_00582
+Sustainability Energy Association of Singapore,THE Singapore Sustainability Academy,ORGANIZATION,cdl_00251
+Tampines West MRT,URA,ORGANIZATION,cdl_00203|condo_00079
+UOL,Venture Corp,ORGANIZATION,frasers_00394
+UOL,Wheelock Properties,ORGANIZATION,frasers_00394
+UOL,Wing Tai,PERSON,frasers_00394
+URA,Urban Redevelopment,ORGANIZATION,hdb_00142
+URA,Urban Redevelopment Authority,ORGANIZATION,cdl_00792
+URA,Zouk,ORGANIZATION,hdb_00882
+Venture Corp,Wheelock Properties,ORGANIZATION,frasers_00394
+Venture Corp,Wing Tai,PERSON,frasers_00394
+Wheelock Properties,Wing Tai,PERSON,frasers_00394

@@ -1,0 +1,62 @@
+name,year_month,sentiment_emb,year,month
+HSBC,2017-1,100.0,2017,1
+Julius Baer,2017-1,-100.0,2017,1
+PwC Singapore,2017-1,-100.0,2017,1
+Standard Chartered,2017-1,100.0,2017,1
+APAC,2017-2,100.0,2017,2
+DBS,2017-2,100.0,2017,2
+OCBC,2017-2,100.0,2017,2
+Chief Investment Officer,2017-3,100.0,2017,3
+DBS,2017-3,100.0,2017,3
+Credit Suisse,2017-4,100.0,2017,4
+Private Bank,2017-4,100.0,2017,4
+Standard Chartered,2017-4,100.0,2017,4
+UBS,2017-4,100.0,2017,4
+Youyu,2017-4,100.0,2017,4
+Standard Chartered,2017-5,100.0,2017,5
+Credit Suisse,2017-6,-100.0,2017,6
+Fifa,2017-6,-100.0,2017,6
+Julius Baer,2017-6,-100.0,2017,6
+Aviva,2017-7,100.0,2017,7
+DBS,2017-7,100.0,2017,7
+Deloitte,2017-7,100.0,2017,7
+EY,2017-7,100.0,2017,7
+Julius Baer,2017-7,100.0,2017,7
+Leaders,2017-7,100.0,2017,7
+Megachem Limited,2017-7,100.0,2017,7
+Tuan Sing Holdings,2017-7,100.0,2017,7
+Wealth Hiring Coup,2017-7,100.0,2017,7
+Standard Chartered Private Bank,2017-8,100.0,2017,8
+Boris Collardi,2017-9,-100.0,2017,9
+China,2017-9,-100.0,2017,9
+Greater China Team,2017-9,100.0,2017,9
+Julius Baer,2017-9,-100.0,2017,9
+People's Bank of China,2017-9,-100.0,2017,9
+Private Bank,2017-9,100.0,2017,9
+Richard Collis,2017-9,100.0,2017,9
+Standard Chartered,2017-9,100.0,2017,9
+Technology business,2017-9,100.0,2017,9
+Willis Towers Watson,2017-9,100.0,2017,9
+Bernhard Hodler,2017-11,-100.0,2017,11
+Tomas Franczyk,2017-11,100.0,2017,11
+Boris Collardi,2017-12,100.0,2017,12
+Duo,2018-1,100.0,2018,1
+Julius Baer,2018-1,100.0,2018,1
+M+S,2018-1,100.0,2018,1
+Marina One,2018-1,100.0,2018,1
+VP Bank,2018-1,-100.0,2018,1
+VP Bank Group,2018-1,-100.0,2018,1
+ADIA,2018-2,100.0,2018,2
+Abu Dhabi Investment Authority,2018-2,100.0,2018,2
+BB Biotech,2018-2,100.0,2018,2
+Boris Collardi,2018-2,-100.0,2018,2
+Julius Baer,2018-2,100.0,2018,2
+Pictet,2018-2,-100.0,2018,2
+Standard Chartered,2018-2,100.0,2018,2
+Boris Collardi,2018-3,-100.0,2018,3
+Credit Suisse,2018-3,100.0,2018,3
+JV,2018-3,100.0,2018,3
+Julius Baer,2018-3,100.0,2018,3
+Millions,2018-3,-100.0,2018,3
+Siam Commercial Bank,2018-3,100.0,2018,3
+Tidjane Thiam,2018-3,100.0,2018,3

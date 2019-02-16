@@ -1,0 +1,18 @@
+name,year_month,sentiment_emb,year,month
+Experts,2017-5,100.0,2017,5
+STI,2017-5,100.0,2017,5
+BB-8,2017-11,100.0,2017,11
+HERMILL,2017-11,100.0,2017,11
+1MDB,2017-12,-100.0,2017,12
+Umno,2017-12,-100.0,2017,12
+Chew Gek Khim,2018-1,100.0,2018,1
+Sumiko: Straits Trading Company,2018-1,100.0,2018,1
+Tan Chin Tuan,2018-1,100.0,2018,1
+Tecity Group,2018-1,100.0,2018,1
+The Straits Trading Company,2018-1,100.0,2018,1
+CAI,2018-2,-100.0,2018,2
+Changi,2018-2,-100.0,2018,2
+Changi Airports International,2018-2,-100.0,2018,2
+Kuen Wing,2018-4,100.0,2018,4
+Pan Chao,2018-4,100.0,2018,4
+Pan Shi,2018-4,100.0,2018,4

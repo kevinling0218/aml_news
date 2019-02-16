@@ -1,0 +1,158 @@
+source,target,link_type,weight
+Great Eastern,OCBC,ORGANIZATION,15
+AIA,Great Eastern,ORGANIZATION,11
+Great Eastern,Hyundai,ORGANIZATION,10
+Hyundai,S.League,ORGANIZATION,8
+Great Eastern,S.League,ORGANIZATION,8
+Albirex Niigata,S.League,ORGANIZATION,7
+Aviva,Great Eastern,ORGANIZATION,7
+Great Eastern,NTUC Income,ORGANIZATION,6
+Aviva,NTUC Income,ORGANIZATION,6
+AIA,Advisors Alliance Group,ORGANIZATION,5
+Lion Global Investors,OCBC,ORGANIZATION,5
+Albirex Niigata,Great Eastern,ORGANIZATION,5
+Albirex Niigata,Hyundai,ORGANIZATION,5
+Advisors Alliance Group,Great Eastern,ORGANIZATION,5
+Aviva,Prudential,ORGANIZATION,4
+Hougang United,Hyundai,ORGANIZATION,4
+Albirex Niigata,Tampines Rovers,ORGANIZATION,4
+Credit Suisse,OCBC,ORGANIZATION,4
+Hougang United,Philippe Aw,PERSON,4
+AIA,Prudential,ORGANIZATION,4
+AIA,Aviva,ORGANIZATION,4
+Great Eastern,Hougang United,ORGANIZATION,4
+Hougang,Hyundai,ORGANIZATION,3
+Great Eastern,Singaporeans,PERSON,3
+Great Eastern,Prudential,ORGANIZATION,3
+OCBC,WBL,ORGANIZATION,3
+OCBC,UEL,ORGANIZATION,3
+OCBC,UE,ORGANIZATION,3
+Great Eastern,Philippe Aw,PERSON,3
+Great Eastern,Lion Global Investors,ORGANIZATION,3
+NTUC Income,Prudential,ORGANIZATION,3
+S.League,Tampines Rovers,ORGANIZATION,3
+Bank of Singapore,Great Eastern,ORGANIZATION,3
+Bank of Singapore,Lion Global Investors,ORGANIZATION,3
+Great Eastern,Hougang,ORGANIZATION,3
+Great Eastern,Home United,ORGANIZATION,3
+Hyundai,Philippe Aw,PERSON,3
+Hougang United,S.League,ORGANIZATION,3
+Home United,Hyundai,ORGANIZATION,3
+Bank of Singapore,OCBC,ORGANIZATION,3
+Great Eastern,UE,ORGANIZATION,3
+AIA,NTUC Income,ORGANIZATION,3
+Aidil Sharin,Hyundai,PERSON,2
+Credit Suisse,UEL,ORGANIZATION,2
+Hougang,S.League,ORGANIZATION,2
+AXA,Prudential,ORGANIZATION,2
+Hougang United,S. League,ORGANIZATION,2
+GEH,OCBC,ORGANIZATION,2
+Hyundai,S. League,ORGANIZATION,2
+Khoo Kah Siang,Manulife Singapore,PERSON,2
+Khoo Kah Siang,Naveed Irshad,PERSON,2
+Aidil,Great Eastern,PERSON,2
+Global,Great Eastern,ORGANIZATION,2
+Credit Suisse,Great Eastern,ORGANIZATION,2
+Madhu Mohana,S.League,PERSON,2
+Madhu Mohana,Tampines Rovers,PERSON,2
+Manulife Singapore,Naveed Irshad,PERSON,2
+Aviva,Singaporeans,PERSON,2
+Aidil,Hyundai,PERSON,2
+Aviva,Government,ORGANIZATION,2
+Hougang,Philippe Aw,PERSON,2
+Global,Hyundai,ORGANIZATION,2
+OCBC,WBL Corporation,ORGANIZATION,2
+Global,S.League,ORGANIZATION,2
+Great Eastern,WBL,ORGANIZATION,2
+Great Eastern,WBL Corp,ORGANIZATION,2
+Great Eastern,WBL Corporation,ORGANIZATION,2
+Great Eastern,S. League,ORGANIZATION,2
+Home,Hyundai,ORGANIZATION,2
+Great Eastern,IPs,ORGANIZATION,2
+AXA,Aviva,ORGANIZATION,2
+AXA,Great Eastern,ORGANIZATION,2
+Great Eastern,Home,ORGANIZATION,2
+Home United,Hougang United,ORGANIZATION,2
+Home United,Philippe Aw,PERSON,2
+Government,Great Eastern,ORGANIZATION,2
+Home United,S.League,ORGANIZATION,2
+Hougang,Hougang United,ORGANIZATION,2
+UE,WBL Corp,ORGANIZATION,2
+OCBC,WBL Corp,ORGANIZATION,2
+Aidil,Home,PERSON,2
+AIA,AXA,ORGANIZATION,2
+Albirex Niigata,Madhu Mohana,PERSON,2
+Philippe Aw,S. League,PERSON,2
+Albirex,RHB,ORGANIZATION,2
+Albirex,S.League,ORGANIZATION,2
+Albirex Niigata,Global,ORGANIZATION,2
+Aidil Sharin,Home United,PERSON,2
+RHB,S.League,ORGANIZATION,2
+Albirex Niigata,Madhu,PERSON,2
+Albirex Niigata,Raihan,PERSON,2
+Aidil Sharin,Great Eastern,PERSON,2
+Philippe Aw,S.League,PERSON,2
+Hyundai,Tampines Rovers,ORGANIZATION,1
+Home United,S. League,ORGANIZATION,1
+Raihan,Tampines Rovers,PERSON,1
+Raihan,S.League,PERSON,1
+Hougang,S. League,ORGANIZATION,1
+UE,WBL,ORGANIZATION,1
+Hyundai,Madhu,PERSON,1
+WBL,WBL Corporation,ORGANIZATION,1
+Home,Home United,ORGANIZATION,1
+Home United,Hougang,ORGANIZATION,1
+Home,S.League,ORGANIZATION,1
+Home,S. League,ORGANIZATION,1
+Home,Philippe Aw,PERSON,1
+UEL,WBL,ORGANIZATION,1
+Home,Hougang United,ORGANIZATION,1
+Home,Hougang,ORGANIZATION,1
+IPs,NTUC Income,ORGANIZATION,1
+NTUC Income,Singaporeans,PERSON,1
+OCBC,RHB,ORGANIZATION,1
+IPs,Prudential,ORGANIZATION,1
+Madhu,S.League,PERSON,1
+Madhu Mohana,Raihan,PERSON,1
+Madhu,Tampines Rovers,PERSON,1
+Madhu,Raihan,PERSON,1
+Albirex Niigata,RHB,ORGANIZATION,1
+Albirex Niigata,Home United,ORGANIZATION,1
+Aviva,IPs,ORGANIZATION,1
+Albirex Niigata,Hougang United,ORGANIZATION,1
+Aidil,Hougang United,PERSON,1
+Aidil,Hougang,PERSON,1
+Aidil,Home United,PERSON,1
+Aidil,Aidil Sharin,PERSON,1
+AXA,NTUC Income,ORGANIZATION,1
+AXA,IPs,ORGANIZATION,1
+AIA,Singaporeans,PERSON,1
+AIA,IPs,ORGANIZATION,1
+Aidil,Philippe Aw,PERSON,1
+Aidil,S. League,PERSON,1
+Albirex,Hougang,ORGANIZATION,1
+Albirex,S. League,ORGANIZATION,1
+Albirex,Philippe Aw,PERSON,1
+Albirex,Hyundai,ORGANIZATION,1
+Albirex,Hougang United,ORGANIZATION,1
+Albirex,Great Eastern,ORGANIZATION,1
+Aidil,S.League,PERSON,1
+Aidil Sharin,S.League,PERSON,1
+Aidil Sharin,S. League,PERSON,1
+Aidil Sharin,Philippe Aw,PERSON,1
+Aidil Sharin,Hougang United,PERSON,1
+Aidil Sharin,Home,PERSON,1
+Aidil Sharin,Albirex Niigata,PERSON,1
+Great Eastern,Tampines Rovers,ORGANIZATION,1
+Government,NTUC Income,ORGANIZATION,1
+GEH,RHB,ORGANIZATION,1
+GEH,Prudential,ORGANIZATION,1
+GEH,Great Eastern,ORGANIZATION,1
+Government,Singaporeans,PERSON,1
+Great Eastern,RHB,ORGANIZATION,1
+Great Eastern,Naveed Irshad,PERSON,1
+Great Eastern,Manulife Singapore,ORGANIZATION,1
+Great Eastern,Madhu,PERSON,1
+Great Eastern,Khoo Kah Siang,PERSON,1
+Credit Suisse,WBL Corporation,ORGANIZATION,1
+Credit Suisse,WBL,ORGANIZATION,1

@@ -1,0 +1,36 @@
+name,year_month,sentiment_emb,year,month
+ARFIT Club,2017-2,100.0,2017,2
+Fullerton Healthcare,2017-2,100.0,2017,2
+HR Vendors,2017-2,100.0,2017,2
+Best Corporate Healthcare Provider,2017-9,100.0,2017,9
+HR Vendors of the Year Awards,2017-9,100.0,2017,9
+HR Vendors of the Year Awards,2017-10,100.0,2017,10
+Co-Founder,2017-11,100.0,2017,11
+David Chiem,2017-11,100.0,2017,11
+Eu Yan Sang International,2017-11,100.0,2017,11
+Founder,2017-11,100.0,2017,11
+Frost & Sullivan,2017-11,100.0,2017,11
+Fullerton Health Wins,2017-11,-100.0,2017,11
+Fullerton Healthcare,2017-11,0.0,2017,11
+HR Vendors of The Year,2017-11,100.0,2017,11
+Market Talk,2017-11,-100.0,2017,11
+Michael Tan,2017-11,100.0,2017,11
+Ping An,2017-11,-100.0,2017,11
+Ping An Capital,2017-11,100.0,2017,11
+Richard Eu,2017-11,100.0,2017,11
+Fullerton,2017-12,100.0,2017,12
+Fullerton Healthcare,2017-12,-100.0,2017,12
+Intellicare Group,2017-12,-100.0,2017,12
+KKR,2017-12,100.0,2017,12
+Ping An Insurance,2017-12,100.0,2017,12
+ALI,2018-3,100.0,2018,3
+Fullerton,2018-3,100.0,2018,3
+Fullerton Healthcare,2018-3,100.0,2018,3
+HR Vendors,2018-3,100.0,2018,3
+PCC,2018-3,100.0,2018,3
+FHPC,2018-4,100.0,2018,4
+Fullerton,2018-4,100.0,2018,4
+Fullerton Healthcare,2018-4,100.0,2018,4
+HMO firms,2018-4,100.0,2018,4
+IC,2018-4,100.0,2018,4
+Intellicare,2018-4,100.0,2018,4

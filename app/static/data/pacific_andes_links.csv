@@ -1,0 +1,49 @@
+source,target,link_type,weight
+China Fishery,Pacific Andes,ORGANIZATION,8
+China Fishery,HSBC,ORGANIZATION,5
+Birds Eye,Iglo,ORGANIZATION,4
+Ng,Pacific Andes,PERSON,4
+China Fishery,William Brandt,PERSON,4
+China Fishery Group,Pacific Andes,ORGANIZATION,3
+HSBC,Pacific Andes,ORGANIZATION,3
+Pacific Andes,Reuters,ORGANIZATION,3
+HSBC,William Brandt,PERSON,3
+China Fishery,Judge,PERSON,2
+Dyer Coriats,Ng,PERSON,2
+Pacific Andes,Rabobank,ORGANIZATION,2
+Blue Harvest Fisheries,Jeff Davis,PERSON,2
+National Fish and Seafood,Pacific Andes,ORGANIZATION,2
+Copeinca,Dyer Coriats,ORGANIZATION,2
+Copeinca,Ng,PERSON,2
+Canadian Department of Fisheries and Oceans,DFO,ORGANIZATION,2
+Birds Eye,Findus,ORGANIZATION,2
+Copeinca,Pacific Andes,ORGANIZATION,2
+PAIH,Pacific Andes,ORGANIZATION,2
+Jack Ventola,National Fish and Seafood,PERSON,2
+Ngs,Pacific Andes,ORGANIZATION,2
+Jack Ventola,Pacific Andes,PERSON,2
+Ng,Ngs,PERSON,2
+Dyer Coriats,Pacific Andes,ORGANIZATION,2
+Jessie Ng,Pacific Andes,PERSON,2
+Nauru Agreement,PNA,ORGANIZATION,2
+Andrew Marr,Pacific Andes,PERSON,2
+HSBC,Judge,PERSON,2
+China Fishery Group,Trustee,PERSON,2
+Pacific Andes,Trustee,PERSON,2
+Trident Seafoods,Walmart,ORGANIZATION,2
+Pacific Andes,Ventola,PERSON,2
+Trident,Walmart,ORGANIZATION,2
+Judge,Pacific Andes,PERSON,2
+Trident,Trident Seafoods,ORGANIZATION,2
+Findus,Iglo,ORGANIZATION,2
+China Fishery,Trustee,PERSON,2
+Jessie Ng,Ventola,PERSON,1
+HSBC,Trustee,PERSON,1
+Judge,Trustee,PERSON,1
+Pacific Andes,William Brandt,PERSON,1
+Trustee,William Brandt,PERSON,1
+China Fishery,China Fishery Group,ORGANIZATION,1
+China Fishery Group,Copeinca,ORGANIZATION,1
+China Fishery Group,HSBC,ORGANIZATION,1
+China Fishery Group,PAIH,ORGANIZATION,1
+China Fishery Group,William Brandt,PERSON,1

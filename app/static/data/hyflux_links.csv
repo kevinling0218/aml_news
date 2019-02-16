@@ -1,0 +1,82 @@
+source,target,link_type,weight
+Hyflux,SWCC,ORGANIZATION,17
+Hyflux,Trump-Kim,PERSON,11
+Hyflux,Olivia Lum,PERSON,11
+Hyflux,Singapore Exchange,ORGANIZATION,10
+Trump-Kim,Vivian Balakrishnan,PERSON,10
+Hyflux,Vivian Balakrishnan,PERSON,10
+DBS,Hyflux,ORGANIZATION,5
+Hyflux,Sports Hub,ORGANIZATION,5
+Hyflux,Oxley,PERSON,4
+Digibank,Hyflux,ORGANIZATION,3
+Brexit,DBS,ORGANIZATION,3
+Brexit,Digibank,ORGANIZATION,3
+Brexit,Hyflux,ORGANIZATION,3
+Brexit,Oxley,PERSON,3
+Oon Jin Teik,Sports Hub,PERSON,3
+Oon,Sports Hub,PERSON,3
+DBS,Digibank,ORGANIZATION,3
+DBS,Oxley,PERSON,3
+MARCO Polo Marine,Marco Polo,PERSON,3
+Digibank,Oxley,PERSON,3
+Hyflux,Oon,PERSON,3
+Atech,Hyflux,ORGANIZATION,3
+Hyflux,Oon Jin Teik,PERSON,3
+Hi-Tech,Hyflux,ORGANIZATION,2
+Hyflux,LennTech,ORGANIZATION,2
+China International Capital Corp,DBS,ORGANIZATION,2
+China International Capital Corp,Hyflux,ORGANIZATION,2
+Keh,PSA,PERSON,2
+Hyflux,Keh,PERSON,2
+Novasep,Veolia Water Technologies,ORGANIZATION,2
+Singapore Sports,Sports Hub,ORGANIZATION,2
+Hyflux,Jiangsu Jiuwu,PERSON,2
+Hyflux,MOU,ORGANIZATION,2
+Hyflux,Tuaspring,ORGANIZATION,2
+India,SWCC,ORGANIZATION,2
+Hyflux,Veolia Water Technologies,ORGANIZATION,2
+TAMI Industries,Vendors,ORGANIZATION,2
+Hi-Tech,Jiangsu Jiuwu,PERSON,2
+Hyflux,INVESTORS,PERSON,2
+Hyflux,India,ORGANIZATION,2
+Danaher,Veolia,PERSON,2
+Olivia Lum,Singapore Technologies Engineering,PERSON,2
+Singapore Exchange,Vivian Balakrishnan,PERSON,2
+Hydrochem,Hyflux,ORGANIZATION,2
+Oman Public Authority for Electricity and Water,PAEW,ORGANIZATION,2
+Hydrochem Saudi,Hyflux,ORGANIZATION,2
+Hyflux,Novasep,ORGANIZATION,2
+SPH Magazines,Singapore Press Holdings,ORGANIZATION,2
+Hyflux,Moody's Investors Service,ORGANIZATION,2
+Hyflux,Singapore High Court,ORGANIZATION,2
+Atech,Veolia Water Technologies,ORGANIZATION,2
+Hyflux,Modern Channels Services,ORGANIZATION,2
+Atech,Novasep,ORGANIZATION,2
+Hyflux,PSA,ORGANIZATION,2
+Hyflux,Singapore Sports,ORGANIZATION,2
+Atech,LennTech,ORGANIZATION,2
+Oon Jin Teik,Singapore Sports,PERSON,2
+Hydrochem Saudi,MOU,ORGANIZATION,2
+Singapore Exchange,Trump-Kim,PERSON,2
+Hyflux,Singapore Technologies Engineering,ORGANIZATION,2
+ESR,Hyflux,ORGANIZATION,2
+Hyflux,Reuters,ORGANIZATION,2
+Jiangsu Jiuwu,Veolia Water Technologies,PERSON,1
+Jiangsu Jiuwu,Novasep,PERSON,1
+Hyflux,TAMI Industries,ORGANIZATION,1
+Hyflux,Vendors,ORGANIZATION,1
+Olivia Lum,Singapore Exchange,PERSON,1
+Oon,Oon Jin Teik,PERSON,1
+Oon,Singapore Sports,PERSON,1
+TAMI Industries,Veolia,ORGANIZATION,1
+LennTech,Novasep,ORGANIZATION,1
+LennTech,Veolia Water Technologies,ORGANIZATION,1
+MARCO Polo Marine,Singapore High Court,PERSON,1
+Marco Polo,Singapore High Court,PERSON,1
+Danaher,TAMI Industries,PERSON,1
+Danaher,Vendors,PERSON,1
+Atech,Hi-Tech,ORGANIZATION,1
+Atech,Jiangsu Jiuwu,PERSON,1
+Hi-Tech,Veolia Water Technologies,ORGANIZATION,1
+Hi-Tech,Novasep,ORGANIZATION,1
+Vendors,Veolia,ORGANIZATION,1

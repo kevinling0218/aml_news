@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head>
+    <title>Intelligent News</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="{{ url_for('static', filename='bower_components/bootstrap/dist/css/bootstrap.css') }}" rel="stylesheet"
+          media="screen">
+    <link href="../static/css/main.css?version={{range(1, 10001) | random}}" rel="stylesheet" media="screen">
+</head>
+
+<body>
+
+
+{% set active_risk=True %}
+{% include 'template_top_header.html' %}
+
+<section id="section_select_entity">
+    <div id="select_entity_wrap">
+        Select entity <select id="select_entity"></select>
+    </div>
+    <div id="sentiment_emb_wrap">
+        Overall Risk Score <span id="sentiment_emb" class="{{data.sentiment_emb_class | safe}}">{{data.sentiment_emb | safe}}</span>
+    </div>
+</section>
+
+<section id="monthly_sentiment_chart"></section>
+<section id="section_positive_news">
+    <div class="section_header">
+        <span id="positive_news_count"></span>
+        Positive News
+        <span id="positive_news_toggle" class="toggle_button" status="hidden">
+            Show News
+        </span>
+    </div>
+    <div id="positive_news_list"></div>
+</section>
+
+<section id="section_negative_news">
+    <div class="section_header">
+        <span id="negative_news_count"></span>
+        Negative News
+        <span id="negative_news_toggle" class="toggle_button" status="hidden">
+            Show News
+        </span>
+    </div>
+    <div id="negative_news_list"></div>
+</section>
+
+<section id="section_neutral_news">
+    <div class="section_header">
+        <span id="neutral_news_count"></span>
+        Neutral News
+        <span id="neutral_news_toggle" class="toggle_button" status="hidden">
+            Show News
+        </span>
+    </div>
+    <div id="neutral_news_list"></div>
+</section>
+
+
+<script src="{{ url_for('static', filename='bower_components/jquery/dist/jquery.js') }}"></script>
+<script src="{{ url_for('static', filename='bower_components/bootstrap/dist/js/bootstrap.js') }}"></script>
+
+<script src="{{ url_for('static', filename='js/plotly-latest.min.js') }}"></script>
+<!--<script src="{{ url_for('static', filename='bower_components/d3/d3.js') }}"></script>-->
+<script src="{{ url_for('static', filename='js/d3.v4.min.js') }}"></script>
+
+<script type=text/javascript>
+    var entities = '{{data.entities | safe }}';
+    entities = entities.split("|");
+    var news = {{data.news | safe }};
+    var sentiment_emb = {{data.sentiment_emb | safe}};
+    var monthly_sentiment_emb = {{data.monthly_sentiment_emb | safe}};
+    var positive_news = {{data.positive_news | safe }};
+    var negative_news = {{data.negative_news | safe }};
+    var neutral_news = {{data.neutral_news | safe }};
+    var entity = '{{data.entity | safe }}';
+    var industry = '{{data.industry | safe }}'
+</script>
+
+<script src="../static/js/get_news_html.js?version={{range(1, 1001) | random}}"></script>
+<script src="../static/js/enable_sentiment_override.js?version={{range(1, 1001) | random}}"></script>
+<script src="../static/js/risk.js?version={{range(1, 10001) | random}}"></script>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+source,target,link_type,weight
+DBS,Piyush Gupta,PERSON,8
+DBS,OCBC,ORGANIZATION,7
+DBS,UOB,ORGANIZATION,6
+OCBC,UOB,ORGANIZATION,6
+DBS,Irvin Seah,PERSON,4
+DBS,Tan Su Shan,PERSON,3
+DBS,Sachin Mittal,PERSON,3
+DBS,SME,ORGANIZATION,3
+GST,Irvin Seah,PERSON,3
+DBS,GST,ORGANIZATION,3
+DBS,Gupta,PERSON,2
+DBS,Derek Tan,PERSON,2
+DBS,EDBI,ORGANIZATION,2
+DBS,Leaders,PERSON,2
+EDBI,Rakuten Ventures,ORGANIZATION,2
+Carousell,DBS,PERSON,2
+DBS,Wong,PERSON,2
+DBS,Venture,ORGANIZATION,2
+Carousell,Golden Gate Ventures,PERSON,2
+DBS,Rakuten Ventures,ORGANIZATION,2
+Venture,Wong,PERSON,2
+AXA,DBS,ORGANIZATION,2
+Piyush Gupta,Venture,PERSON,2
+Piyush Gupta,Wong,PERSON,2
+Carousell,Rakuten Ventures,PERSON,1
+Carousell,EDBI,PERSON,1
+DBS,Golden Gate Ventures,ORGANIZATION,1

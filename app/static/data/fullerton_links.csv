@@ -1,0 +1,32 @@
+source,target,link_type,weight
+Fullerton,Fullerton Healthcare,PERSON,6
+Fullerton Healthcare,Michael Tan,PERSON,3
+Co-Founder,Richard Eu,PERSON,2
+David Chiem,Eu Yan Sang International,PERSON,2
+Co-Founder,Eu Yan Sang International,PERSON,2
+Co-Founder,Founder,PERSON,2
+Co-Founder,Fullerton Healthcare,PERSON,2
+Co-Founder,Michael Tan,PERSON,2
+Fullerton,PCC,PERSON,2
+David Chiem,Founder,PERSON,2
+Eu Yan Sang International,Michael Tan,PERSON,2
+David Chiem,Fullerton Healthcare,PERSON,2
+David Chiem,Michael Tan,PERSON,2
+David Chiem,Richard Eu,PERSON,2
+Eu Yan Sang International,Fullerton Healthcare,ORGANIZATION,2
+Fullerton Healthcare,Healthscope,ORGANIZATION,2
+Fullerton Healthcare,HR Vendors,ORGANIZATION,2
+Co-Founder,David Chiem,PERSON,2
+Eu Yan Sang International,Founder,PERSON,2
+Eu Yan Sang International,Richard Eu,PERSON,2
+Fullerton Healthcare,PCC,ORGANIZATION,2
+Fullerton Healthcare,Ping An,ORGANIZATION,2
+Fullerton Healthcare,Ping An Capital,ORGANIZATION,2
+Founder,Fullerton Healthcare,PERSON,2
+Fullerton Healthcare,Ping An Ventures,ORGANIZATION,2
+Fullerton Healthcare,Richard Eu,PERSON,2
+Founder,Michael Tan,PERSON,2
+Founder,Richard Eu,PERSON,2
+Michael Tan,Richard Eu,PERSON,2
+Fullerton,Michael Tan,PERSON,1
+Fullerton,Healthscope,PERSON,1

@@ -1,0 +1,41 @@
+source,target,link_type,article_id
+A*Star,Moveon Technologies,PERSON,moveon_technologies_00000
+Akribis Systems,K-One,ORGANIZATION,akribis_systems_00001
+Akribis Systems,Motion control specialist,PERSON,akribis_systems_00001
+Akribis Systems,Oh,PERSON,akribis_systems_00000
+Akribis Systems,Voice Coil Motors,ORGANIZATION,akribis_systems_00004
+Ascenz,Chee Teck Lee,PERSON,moveon_technologies_00002
+Ascenz,Gary Ong,PERSON,moveon_technologies_00002
+Ascenz,Moveon Technologies,PERSON,moveon_technologies_00002
+Ascenz,Oliver Tan,PERSON,moveon_technologies_00002
+Ascenz,ViSenze,PERSON,moveon_technologies_00002
+Candidates,Disk Precision Industries Pte Ltd,PERSON,disk_precision_industries_00000
+Candidates,Employers,PERSON,disk_precision_industries_00000
+Chee Teck Lee,Gary Ong,PERSON,moveon_technologies_00002
+Chee Teck Lee,Manufacturing,PERSON,moveon_technologies_00003
+Chee Teck Lee,Moveon Technologies,PERSON,moveon_technologies_00001|moveon_technologies_00002|moveon_technologies_00003|moveon_technologies_00004
+Chee Teck Lee,Oliver Tan,PERSON,moveon_technologies_00002
+Chee Teck Lee,ViSenze,PERSON,moveon_technologies_00002
+Disk Precision Industries Pte Ltd,Employers,ORGANIZATION,disk_precision_industries_00000
+FCVA,Nanofilm,ORGANIZATION,nanofilm_technologies_international_00000
+FCVA,Nanofilm Technologies International,ORGANIZATION,nanofilm_technologies_international_00000|nanofilm_technologies_international_00005
+Gary Ong,Moveon Technologies,PERSON,moveon_technologies_00002
+Gary Ong,Oliver Tan,PERSON,moveon_technologies_00002
+Gary Ong,ViSenze,PERSON,moveon_technologies_00002
+IPS-LINTEC Group Pte. Ltd,Linnhoff Holdings Pte Ltd -- IPS Group,ORGANIZATION,ips_lintec_group_00000
+IPS-LINTEC Group Pte. Ltd,Linnhoff Holdings Pte. Ltd.,ORGANIZATION,ips_lintec_group_00000
+K-One,Motion control specialist,PERSON,akribis_systems_00001
+Linnhoff Holdings Pte Ltd -- IPS Group,Linnhoff Holdings Pte. Ltd.,ORGANIZATION,ips_lintec_group_00000
+Manufacturing,Moveon Technologies,ORGANIZATION,moveon_technologies_00003
+Moveon Technologies,Oliver Tan,PERSON,moveon_technologies_00002
+Moveon Technologies,ViSenze,PERSON,moveon_technologies_00002
+NANOFILM Technologies International,Nanofilm Tech,ORGANIZATION,nanofilm_technologies_international_00001
+NANOFILM Technologies International,Shi Xu,PERSON,nanofilm_technologies_international_00001
+Nanofilm,Nanofilm Technologies International,ORGANIZATION,nanofilm_technologies_international_00000
+Nanofilm Tech,Shi Xu,PERSON,nanofilm_technologies_international_00001
+Nanofilm Technologies International,Shi Xu,PERSON,nanofilm_technologies_international_00003
+Nanofilm Technologies International,Why Nanotech,ORGANIZATION,nanofilm_technologies_international_00003
+Nanofilm Technologies International Pte Ltd,Shi Xu,PERSON,nanofilm_technologies_international_00002
+Oliver Tan,ViSenze,PERSON,moveon_technologies_00002
+Psychologists,University of Toronto,PERSON,akribis_systems_00008
+Shi Xu,Why Nanotech,PERSON,nanofilm_technologies_international_00003

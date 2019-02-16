@@ -1,0 +1,59 @@
+source,target,link_type,weight
+Singtel,StarHub,ORGANIZATION,29
+Mediacorp,Singtel,ORGANIZATION,11
+Mediacorp,StarHub,ORGANIZATION,10
+Apple,Singtel,ORGANIZATION,8
+Razer,Singtel,ORGANIZATION,8
+M1,StarHub,ORGANIZATION,7
+M1,Singtel,ORGANIZATION,7
+NetLink Trust,Singtel,ORGANIZATION,5
+Fox Networks Group,StarHub,ORGANIZATION,4
+Fox Networks Group,Singtel,ORGANIZATION,4
+Bharti Airtel,Singtel,ORGANIZATION,4
+Dash,Singtel,PERSON,4
+LTE,Singtel,ORGANIZATION,3
+CoE,Singtel,ORGANIZATION,3
+Fox Networks Group,Premier League,ORGANIZATION,3
+Ericsson,Singtel,ORGANIZATION,3
+Premier League,StarHub,ORGANIZATION,3
+Premier League,Singtel,ORGANIZATION,3
+NUS,Singtel,ORGANIZATION,3
+Singtel,Starhub,ORGANIZATION,3
+CoE,Ericsson,ORGANIZATION,3
+Apple,LTE,ORGANIZATION,3
+Apple,StarHub,ORGANIZATION,3
+Football fans,Singtel,PERSON,2
+Maybank Kim Eng,Singtel,ORGANIZATION,2
+LTE,Samsung Gear S3,ORGANIZATION,2
+StarHub,eSIM.,ORGANIZATION,2
+AFC Champions League Group F,Singtel,ORGANIZATION,2
+GIC,Singtel,ORGANIZATION,2
+Apple,eSIM.,ORGANIZATION,2
+City Developments Limited,StarHub,ORGANIZATION,2
+LTE,eSIM.,ORGANIZATION,2
+City Developments Limited,Singtel,ORGANIZATION,2
+Singtel,StarHub Ch209,ORGANIZATION,2
+Samsung Gear S3,Singtel,ORGANIZATION,2
+Samsung Gear S3,StarHub,ORGANIZATION,2
+Samsung Gear S3,eSIM.,ORGANIZATION,2
+LTE,StarHub,ORGANIZATION,2
+Digital Transformation Foundry,Singtel,ORGANIZATION,2
+Digital Transformation Foundry,VMware International,ORGANIZATION,2
+AFC Champions League Group F,Shanghai SIPG,ORGANIZATION,2
+Football fans,Mediacorp,PERSON,2
+Man United,Singtel,ORGANIZATION,2
+R3,Singtel,ORGANIZATION,2
+Bharti Airtel,Bharti Infratel,ORGANIZATION,2
+Singtel,eSIM.,ORGANIZATION,2
+Apple,Samsung Gear S3,ORGANIZATION,2
+EL Development,Singtel,ORGANIZATION,2
+Bharti Infratel,Singtel,ORGANIZATION,2
+Singtel,VMware International,ORGANIZATION,2
+Shanghai SIPG,Singtel,ORGANIZATION,2
+Mediacorp,Starhub,ORGANIZATION,1
+StarHub,StarHub Ch209,ORGANIZATION,1
+Maybank Kim Eng,StarHub,ORGANIZATION,1
+M1,Maybank Kim Eng,ORGANIZATION,1
+Man United,StarHub,ORGANIZATION,1
+Football fans,StarHub,PERSON,1
+Football fans,Starhub,PERSON,1

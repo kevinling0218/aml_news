@@ -1,0 +1,22 @@
+source,target,link_type,weight
+Hewlett-Packard Company,Toshiba Corporation,ORGANIZATION,2
+Logitech International S.A.,Microsoft Corporation,ORGANIZATION,2
+Elecom Co. Ltd.,Mad Catz Interactive,ORGANIZATION,2
+Elecom Co. Ltd.,Logitech International S.A.,ORGANIZATION,2
+Elecom Co. Ltd.,Kobian Pte Ltd.,ORGANIZATION,2
+Elecom Co. Ltd.,Hewlett-Packard Company,ORGANIZATION,2
+Hewlett-Packard Company,Kobian Pte Ltd.,ORGANIZATION,2
+Hewlett-Packard Company,Logitech International S.A.,ORGANIZATION,2
+Hewlett-Packard Company,Mad Catz Interactive,ORGANIZATION,2
+Logitech International S.A.,Mad Catz Interactive,ORGANIZATION,2
+Logitech International S.A.,Toshiba Corporation,ORGANIZATION,2
+Elecom Co. Ltd.,Toshiba Corporation,ORGANIZATION,2
+Mad Catz Interactive,Microsoft Corporation,ORGANIZATION,2
+Mad Catz Interactive,Toshiba Corporation,ORGANIZATION,2
+Hewlett-Packard Company,Microsoft Corporation,ORGANIZATION,2
+Microsoft Corporation,Toshiba Corporation,ORGANIZATION,2
+Kobian Pte Ltd.,Toshiba Corporation,ORGANIZATION,2
+Kobian Pte Ltd.,Microsoft Corporation,ORGANIZATION,2
+Kobian Pte Ltd.,Mad Catz Interactive,ORGANIZATION,2
+Kobian Pte Ltd.,Logitech International S.A.,ORGANIZATION,2
+Elecom Co. Ltd.,Microsoft Corporation,ORGANIZATION,2

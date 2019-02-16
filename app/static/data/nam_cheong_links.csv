@@ -1,0 +1,35 @@
+source,target,link_type,weight
+VT Halter Marine,Vard Group,ORGANIZATION,13
+Americasn SB,VT Halter Marine,ORGANIZATION,5
+Damen,Vard Group,PERSON,5
+Damen,VT Halter Marine,PERSON,5
+Americasn SB,Vard Group,ORGANIZATION,5
+Havila Shipping,Intermarine,ORGANIZATION,5
+PSV,Vard Group,ORGANIZATION,4
+Nam Cheong MTR,Sun Hung Kai Properties,ORGANIZATION,4
+PSV,VT Halter Marine,ORGANIZATION,4
+Americasn SB,Damen,PERSON,3
+Eastern Shipbuilding Group,Vard Group,ORGANIZATION,3
+Havila Shipping,Odyssea Marine,ORGANIZATION,3
+Intermarine,Odyssea Marine,ORGANIZATION,3
+Bollinger Shipyards,Eastern Shipbuilding Group,ORGANIZATION,2
+Havila Shipping,KG Offshore Services,ORGANIZATION,2
+Alam Maritim Resources Bhd,Perisai Petroleum Teknologi Bhd,ORGANIZATION,2
+Manufacturers,Vard Group,ORGANIZATION,2
+Manufacturers,VT Halter Marine,ORGANIZATION,2
+Bollinger Shipyards,Vard Group,ORGANIZATION,2
+Eastern Shipbuilding Group,Shipyard DeHoop,PERSON,2
+Bollinger Shipyards,Remontowa,PERSON,2
+Shipyard DeHoop,Vard Group,PERSON,2
+Intermarine,KG Offshore Services,ORGANIZATION,2
+Shipyard DeHoop,VT Halter Marine,PERSON,1
+Remontowa,Vard Group,PERSON,1
+Remontowa,Shipyard DeHoop,PERSON,1
+PSV,Remontowa,PERSON,1
+Bollinger Shipyards,PSV,ORGANIZATION,1
+Americasn SB,PSV,ORGANIZATION,1
+Americasn SB,Manufacturers,ORGANIZATION,1
+Bollinger Shipyards,Shipyard DeHoop,PERSON,1
+Eastern Shipbuilding Group,VT Halter Marine,ORGANIZATION,1
+Eastern Shipbuilding Group,Remontowa,PERSON,1
+Damen,Shipyard DeHoop,PERSON,1

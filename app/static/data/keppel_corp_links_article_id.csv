@@ -1,0 +1,75 @@
+source,target,link_type,article_id
+CIMB,Keppel,ORGANIZATION,keppel_corp_00115
+CIMB,Offshore & Marine,ORGANIZATION,keppel_corp_00115
+Company Limited,High Court,ORGANIZATION,keppel_corp_00108
+Company Limited,Keppel Corp,ORGANIZATION,keppel_corp_00108
+Company Limited,Sunsea Yacht Club,ORGANIZATION,keppel_corp_00108
+Court,DISTRICT court,ORGANIZATION,keppel_corp_00114
+Court,Keppel Corp,ORGANIZATION,keppel_corp_00114
+Court,SembMarine,ORGANIZATION,keppel_corp_00114
+Court,Sete Brasil,PERSON,keppel_corp_00114
+DISTRICT court,Keppel Corp,ORGANIZATION,keppel_corp_00114
+DISTRICT court,SembMarine,ORGANIZATION,keppel_corp_00114
+DISTRICT court,Sete Brasil,PERSON,keppel_corp_00114
+EDB,KEPPEL Infrastructure Holdings,ORGANIZATION,keppel_corp_00017
+EDB,Keppel Corp,ORGANIZATION,keppel_corp_00017
+EDB,Singapore Economic Development Board,ORGANIZATION,keppel_corp_00017
+EIG,EIG Management,ORGANIZATION,keppel_corp_00105
+EIG,Keppel Corp,ORGANIZATION,keppel_corp_00070|keppel_corp_00105
+EIG Management,Keppel Corp,ORGANIZATION,keppel_corp_00105
+FLNG,Keppel Corp,ORGANIZATION,keppel_corp_00106
+High Court,Keppel Corp,ORGANIZATION,keppel_corp_00108
+High Court,Sunsea Yacht Club,ORGANIZATION,keppel_corp_00108
+Huang Jing,Keppel Corp,PERSON,keppel_corp_00011
+Huang Jing,Keppel Land,PERSON,keppel_corp_00011
+Huang Jing,Singapore Exchange,PERSON,keppel_corp_00011
+Indranee,Keppel Corp,PERSON,keppel_corp_00111
+KEPPEL Corp,Keppel Land,ORGANIZATION,keppel_corp_00116
+KEPPEL Corp,Oil (Asia) Pte Ltd,ORGANIZATION,keppel_corp_00116
+KEPPEL Corp,Saigon Sports City,ORGANIZATION,keppel_corp_00116
+KEPPEL Infrastructure Holdings,Keppel Corp,ORGANIZATION,keppel_corp_00017
+KEPPEL Infrastructure Holdings,Singapore Economic Development Board,ORGANIZATION,keppel_corp_00017
+Keppel,O&M,ORGANIZATION,keppel_corp_00125
+Keppel,Offshore & Marine,ORGANIZATION,keppel_corp_00115
+Keppel,Q4,PERSON,keppel_corp_00125
+Keppel,Singapore Exchange,ORGANIZATION,keppel_corp_00019
+Keppel Corp,Keppel Land,ORGANIZATION,keppel_corp_00011
+Keppel Corp,Keppel Land China Ltd,ORGANIZATION,keppel_corp_00104
+Keppel Corp,Keppel O&M,ORGANIZATION,keppel_corp_00004
+Keppel Corp,Keppel Offshore & Marine,ORGANIZATION,keppel_corp_00012
+Keppel Corp,Keppel Shipyard,ORGANIZATION,keppel_corp_00012
+Keppel Corp,O&M,ORGANIZATION,keppel_corp_00072
+Keppel Corp,REUTERS,ORGANIZATION,keppel_corp_00007
+Keppel Corp,SINGAPORE - Keppel Corporation,ORGANIZATION,keppel_corp_00008
+Keppel Corp,SINGAPORE - Singapore,ORGANIZATION,keppel_corp_00028
+Keppel Corp,STI,ORGANIZATION,keppel_corp_00000
+Keppel Corp,SembMarine,ORGANIZATION,keppel_corp_00114
+Keppel Corp,Sembcorp Marine,ORGANIZATION,keppel_corp_00028|keppel_corp_00112
+Keppel Corp,Sete Brasil,PERSON,keppel_corp_00072|keppel_corp_00114
+Keppel Corp,Shipyards,ORGANIZATION,keppel_corp_00112
+Keppel Corp,Singapore Economic Development Board,ORGANIZATION,keppel_corp_00017
+Keppel Corp,Singapore Exchange,ORGANIZATION,keppel_corp_00000|keppel_corp_00011
+Keppel Corp,South China Morning Post,ORGANIZATION,keppel_corp_00005
+Keppel Corp,Sunsea Yacht Club,ORGANIZATION,keppel_corp_00108
+Keppel Corp,Transocean,ORGANIZATION,keppel_corp_00002
+Keppel Corp,US District Court,ORGANIZATION,keppel_corp_00028
+Keppel Corp,US Justice Department,ORGANIZATION,keppel_corp_00107
+Keppel Corp,paperThe,ORGANIZATION,keppel_corp_00005
+Keppel Land,Oil (Asia) Pte Ltd,ORGANIZATION,keppel_corp_00116
+Keppel Land,SINGAPORE - Keppel Corp,PERSON,keppel_corp_00110
+Keppel Land,Saigon Sports City,ORGANIZATION,keppel_corp_00116
+Keppel Land,Singapore Exchange,ORGANIZATION,keppel_corp_00011
+Keppel Offshore & Marine,Keppel Shipyard,ORGANIZATION,keppel_corp_00012
+Low Pei Han,SMM,PERSON,keppel_corp_00101
+Low Pei Han,SembMarine,PERSON,keppel_corp_00101
+O&M,Q4,PERSON,keppel_corp_00125
+O&M,Sete Brasil,PERSON,keppel_corp_00072
+Oil (Asia) Pte Ltd,Saigon Sports City,ORGANIZATION,keppel_corp_00116
+SINGAPORE - Singapore,Sembcorp Marine,ORGANIZATION,keppel_corp_00028
+SINGAPORE - Singapore,US District Court,ORGANIZATION,keppel_corp_00028
+SMM,SembMarine,ORGANIZATION,keppel_corp_00101
+STI,Singapore Exchange,ORGANIZATION,keppel_corp_00000
+SembMarine,Sete Brasil,PERSON,keppel_corp_00114
+Sembcorp Marine,Shipyards,ORGANIZATION,keppel_corp_00112
+Sembcorp Marine,US District Court,ORGANIZATION,keppel_corp_00028
+South China Morning Post,paperThe,ORGANIZATION,keppel_corp_00005

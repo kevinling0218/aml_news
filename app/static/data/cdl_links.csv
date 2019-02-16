@@ -1,0 +1,70 @@
+source,target,link_type,weight
+City Developments Limited,Millennium & Copthorne,ORGANIZATION,6
+City Developments Limited,Kwek Leng Beng,PERSON,5
+BT,City Developments Limited,ORGANIZATION,5
+City Developments Limited,Singapore Sustainability Academy,ORGANIZATION,4
+City Developments Limited,DBS,ORGANIZATION,4
+City Developments Limited,Hong Leong Group,ORGANIZATION,3
+Bellevue Properties,City Developments Limited,ORGANIZATION,3
+Bloomberg,City Developments Limited,ORGANIZATION,3
+City Developments Limited,Dragages Singapore,ORGANIZATION,3
+City Developments Limited,Urban Redevelopment Authority,ORGANIZATION,3
+Hong Leong Group,Kwek Leng Beng,PERSON,3
+Dragages Singapore,Teambuild,ORGANIZATION,3
+CDP,City Developments Limited,ORGANIZATION,3
+Singapore Sustainability Academy,Sustainable Energy Association of Singapore,ORGANIZATION,3
+Kwek Leng Beng,Millennium & Copthorne,PERSON,3
+City Developments Limited,Sustainable Energy Association of Singapore,ORGANIZATION,3
+City Developments Limited,Tai Tak Estates Sdn Bhd,ORGANIZATION,3
+City Developments Limited,Teambuild,ORGANIZATION,3
+Christopher Chitty,City Developments Limited,PERSON,2
+City Developments Limited,Elec & Eltek Co,ORGANIZATION,2
+Leaders,Megachem Limited,PERSON,2
+City Developments Limited,FIRST Sponsor Group Limited,ORGANIZATION,2
+City Developments Limited,Frank Khoo,PERSON,2
+Ang Wee Gee,Keppel Land,PERSON,2
+City Developments Limited,Megachem Limited,ORGANIZATION,2
+City Developments Limited,Leaders,PERSON,2
+City Developments Limited,MCST,ORGANIZATION,2
+CIO,City Developments Limited,ORGANIZATION,2
+FIRST Sponsor Group Limited,Tai Tak Estates Sdn Bhd,ORGANIZATION,2
+City Developments Limited,Most Sustainable Corporation,ORGANIZATION,2
+Elec & Eltek Co,Singtel,ORGANIZATION,2
+City Developments Limited,Olam International,ORGANIZATION,2
+Elec & Eltek Co,Olam International,ORGANIZATION,2
+City Developments Limited,REUTERS,ORGANIZATION,2
+City Developments Limited,Reits,ORGANIZATION,2
+City Developments Limited,Singtel,ORGANIZATION,2
+City Developments Limited,Tuan Sing Holdings,ORGANIZATION,2
+CIO,Frank Khoo,PERSON,2
+City Developments Limited,URA,ORGANIZATION,2
+CDP,Singtel,ORGANIZATION,2
+CDP,Elec & Eltek Co,ORGANIZATION,2
+CDP,Olam International,ORGANIZATION,2
+Reits,Tuan Sing Holdings,ORGANIZATION,2
+Megachem Limited,Tuan Sing Holdings,ORGANIZATION,2
+BCA,Teambuild,ORGANIZATION,2
+Megachem Limited,Reits,ORGANIZATION,2
+Olam International,Singtel,ORGANIZATION,2
+Leaders,Tuan Sing Holdings,PERSON,2
+BCA,Dragages Singapore,ORGANIZATION,2
+Bloomberg,DBS,ORGANIZATION,2
+BCA,City Developments Limited,ORGANIZATION,2
+Leaders,Reits,PERSON,2
+DBS,Tuan Sing Holdings,ORGANIZATION,1
+DBS,Megachem Limited,ORGANIZATION,1
+DBS,Reits,ORGANIZATION,1
+DBS,Leaders,PERSON,1
+Hong Leong Group,Millennium & Copthorne,ORGANIZATION,1
+Kwek Leng Beng,REUTERS,PERSON,1
+Millennium & Copthorne,REUTERS,ORGANIZATION,1
+CDP,Christopher Chitty,PERSON,1
+CDP,Most Sustainable Corporation,ORGANIZATION,1
+Christopher Chitty,Most Sustainable Corporation,PERSON,1
+Bellevue Properties,Urban Redevelopment Authority,ORGANIZATION,1
+Bellevue Properties,URA,ORGANIZATION,1
+BT,CIO,ORGANIZATION,1
+BT,Frank Khoo,PERSON,1
+BT,Kwek Leng Beng,PERSON,1
+BT,Singapore Sustainability Academy,ORGANIZATION,1
+URA,Urban Redevelopment Authority,ORGANIZATION,1

@@ -1,0 +1,92 @@
+source,target,link_type,article_id
+AFP,UBS,ORGANIZATION,ubs7_00005
+Analysts,H&M,PERSON,ubs5_00001|ubs5_00002
+Analysts,UBS,PERSON,ubs5_00001|ubs5_00002
+Asia Investment Strategist,Myntra,PERSON,ubs3_00002
+Asia Investment Strategist,Patrick Ho,PERSON,ubs3_00002
+Asia Investment Strategist,People,PERSON,ubs3_00002
+Atkinson,Standard Chartered Plc,PERSON,ubs4_00069
+Atkinson,UBS,PERSON,ubs4_00069
+Business Manager,Jay Chauhan,PERSON,ubs8_00000
+Business Manager,UBS,PERSON,ubs8_00000
+CCL,Genting HK,ORGANIZATION,ubs7_00107
+CCL,Star Entertainment,ORGANIZATION,ubs7_00107
+CCL,UBS AG,ORGANIZATION,ubs7_00107
+CIMB,Haitong International,ORGANIZATION,ubs4_00100
+CIMB,Jefferies Group,ORGANIZATION,ubs4_00100
+CIMB,UBS,ORGANIZATION,ubs4_00100
+Catherine Cai,Investment Bank,PERSON,ubs2_00000
+Catherine Cai,UBS Hires Rainmaker,PERSON,ubs2_00000
+China,Goldman Sachs,ORGANIZATION,ubs3_00003
+China,Morgan Stanley,ORGANIZATION,ubs3_00003
+China,UBS,ORGANIZATION,ubs3_00003
+Commerzbank,IBM,ORGANIZATION,ubs1_00000
+Commerzbank,UBS,ORGANIZATION,ubs1_00000
+Credit Suisse,Sergio Ermotti,PERSON,ubs6_00017
+Credit Suisse,UBS,ORGANIZATION,ubs1_00100|ubs6_00017
+FAMILY offices,Sara Ferrari,PERSON,ubs7_00101
+FAMILY offices,UBS,ORGANIZATION,ubs7_00101
+GIC,GIC Seeks Tech Boost,ORGANIZATION,ubs1_00101
+GIC,UBS,ORGANIZATION,ubs1_00101|ubs6_00005|ubs7_00006
+GIC,Wu Choy Peng,PERSON,ubs1_00101
+GIC Seeks Tech Boost,UBS,ORGANIZATION,ubs1_00101
+GIC Seeks Tech Boost,Wu Choy Peng,PERSON,ubs1_00101
+Genting HK,Star Entertainment,ORGANIZATION,ubs7_00107
+Genting HK,UBS AG,ORGANIZATION,ubs7_00107
+Goldman Sachs,Morgan Stanley,ORGANIZATION,ubs3_00003
+Goldman Sachs,UBS,ORGANIZATION,ubs3_00003
+H&M,UBS,ORGANIZATION,ubs5_00001|ubs5_00002
+HSBC Private Banking,Lam,PERSON,ubs2_00018
+HSBC Private Banking,UBS,ORGANIZATION,ubs2_00018
+Haitong International,Jefferies Group,ORGANIZATION,ubs4_00100
+Haitong International,UBS,ORGANIZATION,ubs4_00100
+Harvard,MIT,ORGANIZATION,ubs1_00071
+Harvard,Massachusetts Institute of Technology,ORGANIZATION,ubs1_00071
+Harvard,Robert Merton,PERSON,ubs1_00071
+Harvard,UBS,ORGANIZATION,ubs1_00071
+Hurricane-Hit,Sergio Ermotti,PERSON,ubs6_00013
+Hurricane-Hit,Swiss Re,ORGANIZATION,ubs6_00013
+Hurricane-Hit,UBS,ORGANIZATION,ubs6_00013
+IBM,UBS,ORGANIZATION,ubs1_00000
+Investment Bank,UBS Hires Rainmaker,ORGANIZATION,ubs2_00000
+Jay Chauhan,UBS,PERSON,ubs8_00000
+Jefferies Group,UBS,ORGANIZATION,ubs4_00100
+Joe Stadler,Joe Stadler Appoints,PERSON,ubs2_00100
+Joe Stadler,UBS,PERSON,ubs2_00100
+Joe Stadler Appoints,UBS,PERSON,ubs2_00100
+KPMG LLP,Standard Chartered Plc,ORGANIZATION,ubs7_00102
+KPMG LLP,UBS Group AG,ORGANIZATION,ubs7_00102
+Kian Abouhossein,UBS,PERSON,ubs4_00003
+Lam,UBS,PERSON,ubs2_00018
+MIT,Massachusetts Institute of Technology,ORGANIZATION,ubs1_00071
+MIT,Robert Merton,PERSON,ubs1_00071
+MIT,UBS,ORGANIZATION,ubs1_00071
+Massachusetts Institute of Technology,Robert Merton,PERSON,ubs1_00071
+Massachusetts Institute of Technology,UBS,ORGANIZATION,ubs1_00071
+Menon,UBS,PERSON,ubs1_00017|ubs7_00022
+Mitsubishi Corp,UBS,ORGANIZATION,ubs1_00134
+Mitsubishi Corp,UBS Asset Management,ORGANIZATION,ubs1_00134
+Morgan Stanley,UBS,ORGANIZATION,ubs3_00003
+Myntra,Patrick Ho,PERSON,ubs3_00002
+Myntra,People,PERSON,ubs3_00002
+Nobel,UBS,PERSON,ubs7_00109
+Nobel Laureate,Singaporeans,PERSON,ubs7_00118
+Nobel Laureate,UBS,ORGANIZATION,ubs7_00118
+Patrick Ho,People,PERSON,ubs3_00002
+Robert Merton,UBS,PERSON,ubs1_00071
+Sara Ferrari,UBS,PERSON,ubs7_00101
+Securities and Futures Commission,Standard Chartered,ORGANIZATION,ubs2_00034
+Securities and Futures Commission,UBS,ORGANIZATION,ubs2_00034
+Sergio Ermotti,Swiss Re,PERSON,ubs6_00013
+Sergio Ermotti,UBS,PERSON,ubs1_00011|ubs1_00053|ubs1_00117|ubs3_00000|ubs6_00004|ubs6_00013|ubs6_00017|ubs7_00007
+Sergio Ermotti,UBS Boss,PERSON,ubs2_00025
+Singaporeans,UBS,PERSON,ubs7_00118
+Standard Chartered,UBS,ORGANIZATION,ubs2_00034
+Standard Chartered Plc,UBS,ORGANIZATION,ubs4_00069
+Standard Chartered Plc,UBS Group AG,ORGANIZATION,ubs7_00102
+Star Entertainment,UBS,ORGANIZATION,ubs4_00060
+Star Entertainment,UBS AG,ORGANIZATION,ubs7_00107
+Swiss Re,UBS,ORGANIZATION,ubs6_00013
+UBS,UBS Asset Management,ORGANIZATION,ubs1_00127|ubs1_00134
+UBS,UBS Securities,ORGANIZATION,ubs2_00002
+UBS,Wu Choy Peng,PERSON,ubs1_00101

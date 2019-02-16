@@ -1,0 +1,33 @@
+name,year_month,sentiment_emb,year,month
+SEMBCORP Development,2017-3,100.0,2017,3
+Sembcorp,2017-3,100.0,2017,3
+SMEs,2017-4,100.0,2017,4
+Sembcorp Industries,2017-4,100.0,2017,4
+Ascendas-Singbridge,2017-5,-100.0,2017,5
+Sembcorp Development,2017-5,-100.0,2017,5
+Sembcorp Industries,2017-5,-100.0,2017,5
+Sembcorp,2017-7,100.0,2017,7
+Sembcorp Industries,2017-7,100.0,2017,7
+SEMBCORP Industries,2017-10,100.0,2017,10
+ST Aerospace,2017-10,100.0,2017,10
+Sembcorp,2017-10,-100.0,2017,10
+Sembcorp Industries,2017-10,0.0,2017,10
+Tang Kin Fei,2017-10,-100.0,2017,10
+OCBC,2017-11,-100.0,2017,11
+SCI,2017-11,-100.0,2017,11
+Sembcorp Industries,2017-11,-100.0,2017,11
+SCI,2018-1,100.0,2018,1
+Sembcorp Marine,2018-1,100.0,2018,1
+OCBC,2018-2,-100.0,2018,2
+Pei Han,2018-2,-100.0,2018,2
+SembMarine,2018-2,-100.0,2018,2
+AT Capital Group,2018-3,100.0,2018,3
+Neil McGregor,2018-3,-100.0,2018,3
+OCBC,2018-3,100.0,2018,3
+SCI,2018-3,100.0,2018,3
+SINGAPORE - Sembcorp Industries,2018-3,-100.0,2018,3
+Sembcorp Industries,2018-3,100.0,2018,3
+Sembcorp,2018-5,0.0,2018,5
+Sembcorp Industries,2018-5,-33.33333333333333,2018,5
+TEE Medical Services,2018-5,-100.0,2018,5
+UNIT,2018-5,-100.0,2018,5

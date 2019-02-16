@@ -1,0 +1,24 @@
+{
+  "name": "news",
+  "authors": [
+    "Luo Wuqiong Nick <wuqiong.luo@outlook.com>"
+  ],
+  "description": "News clustering, summarization and sentiment analysis",
+  "main": "",
+  "license": "MIT",
+  "homepage": "/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "static/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "d3": "^4.13.0"
+  }
+}

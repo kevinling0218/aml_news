@@ -1,0 +1,84 @@
+source,target,link_type,article_id
+ALI,Fullerton,PERSON,fullerton_00029
+ALI,Fullerton Healthcare,PERSON,fullerton_00029
+ALI,PCC,PERSON,fullerton_00029
+Analysts,Fullerton Healthcare,PERSON,fullerton_00038
+Analysts,Ping An Ventures,PERSON,fullerton_00038
+Asia-Pac,Biosensors International,ORGANIZATION,fullerton_00013
+Asia-Pac,Fullerton Healthcare,ORGANIZATION,fullerton_00013
+Asia-Pac,Ping An Ventures,ORGANIZATION,fullerton_00013
+Avega,Developer,ORGANIZATION,fullerton_00036
+Avega,Fullerton,PERSON,fullerton_00036
+Avega,Fullerton Healthcare,ORGANIZATION,fullerton_00036
+Avega,PCC,ORGANIZATION,fullerton_00036
+Best Corporate Healthcare Provider,HR Vendors of the Year Awards,ORGANIZATION,fullerton_00014
+Biosensors International,Fullerton Healthcare,ORGANIZATION,fullerton_00013
+Biosensors International,Ping An Ventures,ORGANIZATION,fullerton_00013
+Bloomberg,Patients,PERSON,fullerton_00037
+Bloomberg,Singaporeans,PERSON,fullerton_00037
+China,Fullerton,PERSON,fullerton_00024
+China,Fullerton Healthcare,ORGANIZATION,fullerton_00024
+China,Michael Tan,PERSON,fullerton_00024
+Co-Founder,David Chiem,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Eu Yan Sang International,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Founder,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Fullerton Healthcare,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+Co-Founder,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Eu Yan Sang International,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Founder,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Fullerton Healthcare,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+David Chiem,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+Developer,Fullerton,PERSON,fullerton_00036
+Developer,Fullerton Healthcare,ORGANIZATION,fullerton_00036
+Developer,PCC,ORGANIZATION,fullerton_00036
+Dr.,Senior Minister of State,PERSON,fullerton_00045
+Employee Healthcare Interactive 2017,Silver Sponsor,ORGANIZATION,fullerton_00027
+Employee Healthcare Interactive 2017,Sponsor,ORGANIZATION,fullerton_00027
+Eu Yan Sang International,Founder,PERSON,fullerton_00030|fullerton_00046
+Eu Yan Sang International,Fullerton Healthcare,ORGANIZATION,fullerton_00030|fullerton_00046
+Eu Yan Sang International,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+Eu Yan Sang International,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+FHPC,Fullerton Healthcare,PERSON,fullerton_00006
+FHPC,Intellicare,PERSON,fullerton_00006
+Founder,Fullerton Healthcare,PERSON,fullerton_00030|fullerton_00046
+Founder,Michael Tan,PERSON,fullerton_00030|fullerton_00046
+Founder,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+Fullerton,Fullerton Healthcare,PERSON,fullerton_00005|fullerton_00009|fullerton_00017|fullerton_00024|fullerton_00029|fullerton_00036
+Fullerton,HMO firms,PERSON,fullerton_00028
+Fullerton,Healthscope,PERSON,fullerton_00009
+Fullerton,IC,PERSON,fullerton_00028
+Fullerton,Michael Tan,PERSON,fullerton_00024
+Fullerton,PCC,PERSON,fullerton_00029|fullerton_00036
+Fullerton,Ping An Insurance,PERSON,fullerton_00039
+Fullerton,Ping An Insurance (Group) Co.,PERSON,fullerton_00017
+Fullerton Health,Intellicare,ORGANIZATION,fullerton_00007
+Fullerton Health,Ping An Capital,ORGANIZATION,fullerton_00008
+Fullerton Health,Ping An Insurance,ORGANIZATION,fullerton_00008
+Fullerton Health Wins,Fullerton Healthcare,ORGANIZATION,fullerton_00033
+Fullerton Health Wins,Market Talk,ORGANIZATION,fullerton_00033
+Fullerton Health Wins,Ping An,ORGANIZATION,fullerton_00033
+Fullerton Healthcare,HMC,ORGANIZATION,fullerton_00001
+Fullerton Healthcare,HR Vendors,ORGANIZATION,fullerton_00010|fullerton_00012
+Fullerton Healthcare,Healthscope,ORGANIZATION,fullerton_00001|fullerton_00009
+Fullerton Healthcare,Intellicare,ORGANIZATION,fullerton_00006
+Fullerton Healthcare,Intellicare Group,ORGANIZATION,fullerton_00016
+Fullerton Healthcare,Investors,PERSON,fullerton_00031
+Fullerton Healthcare,Market Talk,ORGANIZATION,fullerton_00033
+Fullerton Healthcare,Michael Tan,PERSON,fullerton_00024|fullerton_00030|fullerton_00046
+Fullerton Healthcare,PCC,ORGANIZATION,fullerton_00029|fullerton_00036
+Fullerton Healthcare,Ping An,ORGANIZATION,fullerton_00031|fullerton_00033
+Fullerton Healthcare,Ping An Capital,ORGANIZATION,fullerton_00003|fullerton_00041
+Fullerton Healthcare,Ping An Capital Co,ORGANIZATION,fullerton_00000
+Fullerton Healthcare,Ping An Insurance (Group) Co.,ORGANIZATION,fullerton_00017
+Fullerton Healthcare,Ping An Ventures,ORGANIZATION,fullerton_00013|fullerton_00038
+Fullerton Healthcare,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+HMC,Healthscope,ORGANIZATION,fullerton_00001
+HMO firms,IC,ORGANIZATION,fullerton_00028
+Investors,Ping An,PERSON,fullerton_00031
+Market Talk,Ping An,ORGANIZATION,fullerton_00033
+Michael Tan,Richard Eu,PERSON,fullerton_00030|fullerton_00046
+Patients,Singaporeans,PERSON,fullerton_00037
+Ping An Capital,Ping An Insurance,ORGANIZATION,fullerton_00008
+Silver Sponsor,Sponsor,ORGANIZATION,fullerton_00027

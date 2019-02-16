@@ -1,0 +1,37 @@
+source,target,link_type,weight
+Credit Suisse,Morgan Stanley,ORGANIZATION,9
+Credit Suisse,Tidjane Thiam,PERSON,4
+Benjamin Cavalli,Credit Suisse,PERSON,4
+Bank of America Merrill Lynch,Credit Suisse,ORGANIZATION,4
+Credit Suisse,Tencent,ORGANIZATION,3
+Credit Suisse,Founder Securities,ORGANIZATION,3
+Credit Suisse,UOB,ORGANIZATION,3
+Credit Suisse,Garena,ORGANIZATION,3
+Credit Suisse,Goldman Sachs Group,ORGANIZATION,2
+Credit Suisse,DBS,ORGANIZATION,2
+Credit Suisse,GGR,ORGANIZATION,2
+Credit Suisse,Goldman Sachs,ORGANIZATION,2
+Garena,Goldman Sachs Group,ORGANIZATION,2
+Garena,Morgan Stanley,ORGANIZATION,2
+Julius Baer,Siam Commercial Bank,ORGANIZATION,2
+Credit Suisse,Julius Baer,ORGANIZATION,2
+Credit Suisse,OCBC,ORGANIZATION,2
+Credit Suisse,Siam Commercial Bank,ORGANIZATION,2
+Credit Suisse,Standard Chartered,ORGANIZATION,2
+Goldman Sachs Group,Morgan Stanley,ORGANIZATION,2
+Credit Suisse,Reits,ORGANIZATION,2
+BLOOMBERG,Credit Suisse,ORGANIZATION,2
+Morgan Stanley,Tencent,ORGANIZATION,2
+Bank of Singapore,Credit Suisse,ORGANIZATION,2
+Bank of America Merrill Lynch,DBS,ORGANIZATION,2
+OCBC,Reits,ORGANIZATION,1
+OCBC,UOB,ORGANIZATION,1
+Reits,UOB,ORGANIZATION,1
+Garena,Goldman Sachs,ORGANIZATION,1
+Goldman Sachs,Tencent,ORGANIZATION,1
+Goldman Sachs,Morgan Stanley,ORGANIZATION,1
+Garena,Tencent,ORGANIZATION,1
+Morgan Stanley,OCBC,ORGANIZATION,1
+Bank of America Merrill Lynch,Tencent,ORGANIZATION,1
+Bank of America Merrill Lynch,Morgan Stanley,ORGANIZATION,1
+BLOOMBERG,Tidjane Thiam,PERSON,1

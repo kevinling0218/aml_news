@@ -1,0 +1,5 @@
+name,type,importance,sentiment_emb
+Chee Teck Lee,PERSON,1.0,0.0
+Moveon Technologies,ORGANIZATION,0.4387495768445335,0.0
+Nanofilm Technologies International,ORGANIZATION,0.06034734889758232,100.0
+FCVA,ORGANIZATION,0.021745976129976568,100.0

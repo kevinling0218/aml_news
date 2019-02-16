@@ -1,0 +1,23 @@
+name,year_month,sentiment_emb,year,month
+Keppel Corp,2017-3,100.0,2017,3
+Transocean,2017-3,100.0,2017,3
+Keppel Corp,2017-4,-100.0,2017,4
+SINGAPORE - Singapore,2017-4,-100.0,2017,4
+Sembcorp Marine,2017-4,-100.0,2017,4
+US District Court,2017-4,-100.0,2017,4
+Keppel Land,2017-8,-100.0,2017,8
+SINGAPORE - Keppel Corp,2017-8,-100.0,2017,8
+Company Limited,2017-12,100.0,2017,12
+High Court,2017-12,100.0,2017,12
+Keppel,2017-12,-100.0,2017,12
+Keppel Corp,2017-12,50.0,2017,12
+STI,2017-12,100.0,2017,12
+Singapore Exchange,2017-12,100.0,2017,12
+South China Morning Post,2017-12,-100.0,2017,12
+Sunsea Yacht Club,2017-12,100.0,2017,12
+paperThe,2017-12,-100.0,2017,12
+Indranee,2018-1,-100.0,2018,1
+Keppel Corp,2018-1,-100.0,2018,1
+EIG,2018-2,-100.0,2018,2
+EIG Management,2018-2,-100.0,2018,2
+Keppel Corp,2018-2,-100.0,2018,2

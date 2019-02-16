@@ -1,0 +1,31 @@
+name,year_month,sentiment_emb,year,month
+APL,2017-1,100.0,2017,1
+CMA CGM,2017-1,100.0,2017,1
+Maersk Line,2017-1,100.0,2017,1
+Neptune Orient Lines,2017-1,100.0,2017,1
+OOCL,2017-1,100.0,2017,1
+CMA CGM,2017-3,100.0,2017,3
+Neptune Orient Lines,2017-3,100.0,2017,3
+APL,2017-4,0.0,2017,4
+CMA CGM,2017-4,100.0,2017,4
+China COSCO,2017-4,100.0,2017,4
+Kintetsu,2017-4,-100.0,2017,4
+Neptune Orient Lines,2017-4,0.0,2017,4
+Ocean Alliance,2017-4,100.0,2017,4
+Alan Chan,2017-5,-100.0,2017,5
+NOL,2017-5,-100.0,2017,5
+Neptune Orient Lines,2017-5,-100.0,2017,5
+Ng Yat Chung,2017-5,-100.0,2017,5
+SINGAPORE Press Holdings,2017-5,-100.0,2017,5
+CMA CGM,2017-6,100.0,2017,6
+Neptune Orient Lines,2017-6,100.0,2017,6
+CMA CGM,2017-7,-100.0,2017,7
+Hapag-Lloyd,2017-7,-100.0,2017,7
+Neptune Orient Lines,2017-7,-100.0,2017,7
+Shipowners,2017-7,-100.0,2017,7
+United Arab Shipping Company,2017-7,-100.0,2017,7
+Lim How Teck,2017-8,100.0,2017,8
+Neptune Orient Lines,2017-8,100.0,2017,8
+Goh Chok Tong,2018-1,-100.0,2018,1
+Neptune Orient Lines,2018-1,-100.0,2018,1
+Neptune Orient Lines,2018-5,-100.0,2018,5

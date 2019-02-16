@@ -1,0 +1,10 @@
+source,target,link_type,weight
+Swissco,Swissco Holdings,ORGANIZATION,4
+Swiber Holdings Ltd,Swissco Holdings Ltd,ORGANIZATION,3
+Singapore High Court,Swissco Holdings,ORGANIZATION,2
+Hassan Basma,Swissco Holdings,PERSON,2
+Ezra,Swiber Holdings Ltd,PERSON,2
+Rickmers Maritime,Swissco Holdings,ORGANIZATION,2
+Scott,Swissco Holdings,PERSON,2
+Ezra,Swissco Holdings Ltd,PERSON,2
+Hassan Basma,Swissco,PERSON,1

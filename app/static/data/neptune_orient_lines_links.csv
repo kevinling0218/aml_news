@@ -1,0 +1,84 @@
+source,target,link_type,weight
+CMA CGM,Neptune Orient Lines,ORGANIZATION,19
+Hapag-Lloyd,Neptune Orient Lines,ORGANIZATION,8
+Hapag-Lloyd,Maersk,ORGANIZATION,6
+Maersk,Neptune Orient Lines,ORGANIZATION,6
+Neptune Orient Lines,Ng Yat Chung,PERSON,5
+CMA-CGM,Hapag-Lloyd,ORGANIZATION,5
+CMA-CGM,Hyundai,ORGANIZATION,5
+CMA-CGM,Maersk,ORGANIZATION,5
+Neptune Orient Lines,Norasia Container Lines Ltd,ORGANIZATION,5
+CMA-CGM,Neptune Orient Lines,ORGANIZATION,5
+CMA-CGM,Norasia Container Lines Ltd,ORGANIZATION,5
+CMA-CGM,Yang Ming,ORGANIZATION,5
+COSCO,Hapag-Lloyd,ORGANIZATION,5
+Hapag-Lloyd,Norasia Container Lines Ltd,ORGANIZATION,5
+COSCO,Maersk,ORGANIZATION,5
+COSCO,Norasia Container Lines Ltd,ORGANIZATION,5
+COSCO,Neptune Orient Lines,ORGANIZATION,5
+COSCO,Yang Ming,ORGANIZATION,5
+Maersk,Yang Ming,ORGANIZATION,5
+Maersk,Norasia Container Lines Ltd,ORGANIZATION,5
+Hyundai,Yang Ming,ORGANIZATION,5
+Hyundai,Norasia Container Lines Ltd,ORGANIZATION,5
+Hyundai,Neptune Orient Lines,ORGANIZATION,5
+Hyundai,Maersk,ORGANIZATION,5
+Hapag-Lloyd,Yang Ming,ORGANIZATION,5
+Hapag-Lloyd,Hyundai,ORGANIZATION,5
+CMA-CGM,COSCO,ORGANIZATION,5
+COSCO,Hyundai,ORGANIZATION,5
+Neptune Orient Lines,Yang Ming,ORGANIZATION,5
+Norasia Container Lines Ltd,Yang Ming,ORGANIZATION,5
+CMA-CGM,DAC,ORGANIZATION,4
+DAC,Yang Ming,ORGANIZATION,4
+DAC,Norasia Container Lines Ltd,ORGANIZATION,4
+DAC,Neptune Orient Lines,ORGANIZATION,4
+DAC,Maersk,ORGANIZATION,4
+DAC,Hyundai,ORGANIZATION,4
+DAC,Hapag-Lloyd,ORGANIZATION,4
+Neptune Orient Lines,SPH,ORGANIZATION,4
+COSCO,DAC,ORGANIZATION,4
+Alan Chan,Neptune Orient Lines,PERSON,4
+CMA CGM,Hapag-Lloyd,ORGANIZATION,3
+Alan Chan,Ng Yat Chung,PERSON,3
+APL,Neptune Orient Lines,ORGANIZATION,3
+APL,CMA CGM,ORGANIZATION,2
+Neptune Orient Lines,United Arab Shipping Company,ORGANIZATION,2
+Lehman,Maersk,ORGANIZATION,2
+NOL,Neptune Orient Lines,ORGANIZATION,2
+CMA CGM,OOCL,ORGANIZATION,2
+Hapag-Lloyd,United Arab Shipping Company,ORGANIZATION,2
+Ng Yat Chung,SPH,PERSON,2
+Maersk Line,Neptune Orient Lines,ORGANIZATION,2
+CMA CGM,Orient Overseas,ORGANIZATION,2
+Fraser & Neave,Neptune Orient Lines,ORGANIZATION,2
+Neptune Orient Lines,ex-SIA,ORGANIZATION,2
+CMA CGM,Maersk Line,ORGANIZATION,2
+Fraser & Neave,ex-SIA,ORGANIZATION,2
+CMA CGM SA,Neptune Orient Lines Ltd.,ORGANIZATION,2
+CMA CGM,United Arab Shipping Company,ORGANIZATION,2
+CMA CGM SA,Neptune Orient Lines Ltd,ORGANIZATION,2
+Neptune Orient Lines,OOCL,ORGANIZATION,2
+CMA CGM SA,Maersk,ORGANIZATION,2
+CMA CGM SA,Lehman,ORGANIZATION,2
+Neptune Orient Lines,Orient Overseas,ORGANIZATION,2
+CMA CGM SA,China,ORGANIZATION,2
+Lehman,Neptune Orient Lines Ltd.,ORGANIZATION,1
+Lehman,Neptune Orient Lines Ltd,ORGANIZATION,1
+Maersk,Neptune Orient Lines Ltd,ORGANIZATION,1
+Maersk,Neptune Orient Lines Ltd.,ORGANIZATION,1
+Maersk Line,OOCL,ORGANIZATION,1
+Maersk Line,Orient Overseas,ORGANIZATION,1
+NOL,Ng Yat Chung,PERSON,1
+CMA CGM,Maersk,ORGANIZATION,1
+CMA CGM SA,Neptune Orient Lines,ORGANIZATION,1
+APL,Maersk Line,ORGANIZATION,1
+APL,OOCL,ORGANIZATION,1
+Alan Chan,NOL,PERSON,1
+Alan Chan,SPH,PERSON,1
+CMA CGM,China,ORGANIZATION,1
+China,Maersk Line,ORGANIZATION,1
+China,Neptune Orient Lines,ORGANIZATION,1
+China,Neptune Orient Lines Ltd,ORGANIZATION,1
+China,Neptune Orient Lines Ltd.,ORGANIZATION,1
+China,Orient Overseas,ORGANIZATION,1

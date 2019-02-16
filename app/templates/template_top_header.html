@@ -1,0 +1,53 @@
+<section id="top_header">
+    <div id="top_header_wrap">
+        <a id="top_header_logo" href="/">INTELLIGENT NEWS</a>
+        <div id="select_industry_wrap">
+            <select id="select_industry">
+                <option {% if data.industry == "banking" %} selected="selected" {% endif %} value="banking">Banking</option>
+                <option {% if data.industry == "insurance" %} selected="selected" {% endif %} value="insurance">Insurance</option>
+                <option {% if data.industry == "real_estate" %} selected="selected" {% endif %} value="real_estate">Real Estate</option>
+                <option {% if data.industry == "healthcare" %} selected="selected" {% endif %} value="healthcare">Healthcare</option>
+                <option {% if data.industry == "general_manufacturing" %} selected="selected" {% endif %} value="general_manufacturing">General Manufacturing</option>
+                <option {% if data.industry == "timber" %} selected="selected" {% endif %} value="timber">Timber</option>
+                <option {% if data.industry == "electronics" %} selected="selected" {% endif %} value="electronics">Electronics</option>
+                <option {% if data.industry == "construction" %} selected="selected" {% endif %} value="construction">Construction</option>
+                <option {% if data.industry == "hotel" %} selected="selected" {% endif %} value="hotel">Hotel</option>
+                <option {% if data.industry == "property_developer" %} selected="selected" {% endif %} value="property_developer">Property Developer</option>
+                <option {% if data.industry == "property_investment" %} selected="selected" {% endif %} value="property_investment">Property Investment</option>
+                <option disabled>───────</option>
+                <option {% if data.industry == "ocbc" %} selected="selected" {% endif %} value="ocbc">OCBC</option>
+                <option {% if data.industry == "great_eastern" %} selected="selected" {% endif %} value="great_eastern">Great Eastern</option>
+                <option {% if data.industry == "smrt" %} selected="selected" {% endif %} value="smrt">SMRT</option>
+                <option {% if data.industry == "cdl" %} selected="selected" {% endif %} value="cdl">City Developments Limited</option>
+                <option {% if data.industry == "singtel" %} selected="selected" {% endif %} value="singtel">Singtel</option>
+                <option {% if data.industry == "frasers" %} selected="selected" {% endif %} value="frasers">Frasers Centrepoint</option>
+                <option {% if data.industry == "fullerton" %} selected="selected" {% endif %} value="fullerton">Fullerton Healthcare</option>
+                <option disabled>───────</option>
+                <option {% if data.industry == "ezra_holdings" %} selected="selected" {% endif %} value="ezra_holdings">Ezra Holdings</option>
+                <option {% if data.industry == "pacific_andes" %} selected="selected" {% endif %} value="pacific_andes">Pacific Andes</option>
+                <option {% if data.industry == "nam_cheong" %} selected="selected" {% endif %} value="nam_cheong">Nam Cheong</option>
+                <option {% if data.industry == "rickmers_trust" %} selected="selected" {% endif %} value="rickmers_trust">Rickmers Trust</option>
+                <option {% if data.industry == "swiber_holdings" %} selected="selected" {% endif %} value="swiber_holdings">Swiber Holdings</option>
+                <option {% if data.industry == "swissco_holdings" %} selected="selected" {% endif %} value="swissco_holdings">Swissco Holdings</option>
+                <option {% if data.industry == "trikomsel" %} selected="selected" {% endif %} value="trikomsel">Trikomsel</option>
+                <option {% if data.industry == "marco_polo_marine" %} selected="selected" {% endif %} value="marco_polo_marine">Marco Polo Marine</option>
+                <option {% if data.industry == "neptune_orient_lines" %} selected="selected" {% endif %} value="neptune_orient_lines">Neptune Orient Lines</option>
+                <option {% if data.industry == "sembcorp_industries" %} selected="selected" {% endif %} value="sembcorp_industries">Sembcorp Industries</option>
+                <option {% if data.industry == "keppel_corp" %} selected="selected" {% endif %} value="keppel_corp">Keppel Corp</option>
+                <option {% if data.industry == "huarong_finance" %} selected="selected" {% endif %} value="huarong_finance">Huarong Finance</option>
+                <option {% if data.industry == "hyflux" %} selected="selected" {% endif %} value="hyflux">Hyflux</option>
+                <option disabled>───────</option>
+                <option {% if data.industry == "dbs" %} selected="selected" {% endif %} value="dbs">DBS</option>
+                <option {% if data.industry == "julius_baer" %} selected="selected" {% endif %} value="julius_baer">Julius Baer</option>
+                <option {% if data.industry == "ubs" %} selected="selected" {% endif %} value="ubs">UBS</option>
+                <option {% if data.industry == "credit_suisse" %} selected="selected" {% endif %} value="credit_suisse">Credit Suisse</option>
+            </select>
+        </div>
+        <div id="top_nav">
+            <a {% if active_news %} class="active" {% endif %} href="/news/{{ data.industry | safe }}">News</a>
+            <a {% if active_summary %} class="active" {% endif %} href="/summary/{{ data.industry | safe }}">Summary</a>
+            <a {% if active_network %} class="active" {% endif %} href="/network/{{ data.industry | safe }}">Network</a>
+            <a {% if active_risk %} class="active" {% endif %} href="/risk/{{ data.industry | safe }}">Risk</a>
+        </div>
+    </div>
+</section>

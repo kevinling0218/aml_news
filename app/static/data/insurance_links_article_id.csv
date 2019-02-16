@@ -1,0 +1,380 @@
+source,target,link_type,article_id
+AIA,AXA,ORGANIZATION,insurance_00000|insurance_00273|insurance_00505|insurance_00507
+AIA,Adecco,ORGANIZATION,insurance_00208
+AIA,Advisors Alliance Group,ORGANIZATION,insurance_00271|insurance_00353|insurance_00506
+AIA,Aon,ORGANIZATION,insurance_00208|insurance_00249
+AIA,Asia Corporate Training,ORGANIZATION,insurance_00208
+AIA,Aviva,ORGANIZATION,insurance_00208|insurance_00249|insurance_00272|insurance_00273|insurance_00505|insurance_00507
+AIA,Bell Ward,PERSON,insurance_00208|insurance_00249
+AIA,Best Employee Insurance Provider,ORGANIZATION,insurance_00034
+AIA,Best Retirement & Pension Plan Provider,ORGANIZATION,insurance_00249
+AIA,Chandler MacLeod,PERSON,insurance_00208|insurance_00249
+AIA,Crown World Mobility,ORGANIZATION,insurance_00208
+AIA,Cubiks,PERSON,insurance_00208
+AIA,DDI,ORGANIZATION,insurance_00208|insurance_00249
+AIA,Deloitte,ORGANIZATION,insurance_00208|insurance_00249
+AIA,EY,ORGANIZATION,insurance_00208|insurance_00249
+AIA,EgonZehnder,PERSON,insurance_00208|insurance_00249
+AIA,Employee Insurance Provider,ORGANIZATION,insurance_00249
+AIA,Far East Hospitality,ORGANIZATION,insurance_00208
+AIA,Great Eastern,ORGANIZATION,insurance_00119|insurance_00269|insurance_00271|insurance_00272|insurance_00273|insurance_00353|insurance_00390|insurance_00398|insurance_00505|insurance_00506|insurance_00507|insurance_00516|insurance_00521
+AIA,HR Vendors,ORGANIZATION,insurance_00034
+AIA,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208|insurance_00249
+AIA,HR solutions providers,ORGANIZATION,insurance_00208
+AIA,Human Resources,ORGANIZATION,insurance_00034
+AIA,IP insurers,ORGANIZATION,insurance_00273|insurance_00505
+AIA,IPs,ORGANIZATION,insurance_00273
+AIA,Insurers,ORGANIZATION,insurance_00390
+AIA,Insurtech,ORGANIZATION,insurance_00510
+AIA,Krung Thai Bank,ORGANIZATION,insurance_00000
+AIA,LIA,ORGANIZATION,insurance_00516
+AIA,Life Insurance Association,ORGANIZATION,insurance_00119|insurance_00521
+AIA,Life Insurance Association Singapore,ORGANIZATION,insurance_00269|insurance_00398
+AIA,OAC,ORGANIZATION,insurance_00119
+AIA,OCBC,ORGANIZATION,insurance_00119
+AIA,Patrick Teow,PERSON,insurance_00119
+AIA,Peter Tan,PERSON,insurance_00272
+AIA,Peter Tan Organisation,ORGANIZATION,insurance_00272|insurance_00506
+AIA,Prudential,ORGANIZATION,insurance_00272|insurance_00273|insurance_00390|insurance_00505|insurance_00506|insurance_00507
+AIA,Siam Commercial Bank,ORGANIZATION,insurance_00000
+AIA,Singapore Business Review,ORGANIZATION,insurance_00510
+AIA,Swiss Re,ORGANIZATION,insurance_00390
+AIA,The Life Insurance Association,ORGANIZATION,insurance_00516
+AIA,Transamerica Life,ORGANIZATION,insurance_00031
+AIA,Zurich Insurance,ORGANIZATION,insurance_00034
+AIG,AXA,ORGANIZATION,insurance_00230|insurance_00525
+AIG,Artificial Intelligence,ORGANIZATION,insurance_00525
+AIG,Aviva,ORGANIZATION,insurance_00230|insurance_00525
+AIG,NTUC Income,ORGANIZATION,insurance_00230|insurance_00525
+AIG,PolicyPal,ORGANIZATION,insurance_00230
+AIG,Val Ji-hsuan Yap,PERSON,insurance_00525
+AXA,Andre Czanik,PERSON,insurance_00055
+AXA,Artificial Intelligence,ORGANIZATION,insurance_00525
+AXA,Aviva,ORGANIZATION,insurance_00025|insurance_00230|insurance_00273|insurance_00400|insurance_00505|insurance_00507|insurance_00525
+AXA,Celine Le,PERSON,insurance_00346
+AXA,Fullerton,PERSON,insurance_00400
+AXA,Fullerton Fund Management Company,ORGANIZATION,insurance_00400
+AXA,Great Eastern,ORGANIZATION,insurance_00025|insurance_00055|insurance_00273|insurance_00505|insurance_00507
+AXA,High Court,ORGANIZATION,insurance_00223
+AXA,IP insurers,ORGANIZATION,insurance_00273|insurance_00505
+AXA,IPs,ORGANIZATION,insurance_00055|insurance_00273
+AXA,Insurtech,ORGANIZATION,insurance_00346
+AXA,Investment Managers,PERSON,insurance_00400
+AXA,Krung Thai Bank,ORGANIZATION,insurance_00000
+AXA,Lion Global Investors,ORGANIZATION,insurance_00025
+AXA,NTUC Income,ORGANIZATION,insurance_00055|insurance_00230|insurance_00400|insurance_00525
+AXA,OCBC,ORGANIZATION,insurance_00041
+AXA,PolicyPal,ORGANIZATION,insurance_00230
+AXA,Prudential,ORGANIZATION,insurance_00025|insurance_00223|insurance_00273|insurance_00505|insurance_00507
+AXA,Ramesh Krishnan,PERSON,insurance_00223
+AXA,Siam Commercial Bank,ORGANIZATION,insurance_00000
+AXA,UEL,ORGANIZATION,insurance_00041
+AXA,Val Ji-hsuan Yap,PERSON,insurance_00525
+Adecco,Aon,ORGANIZATION,insurance_00208
+Adecco,Asia Corporate Training,ORGANIZATION,insurance_00208
+Adecco,Aviva,ORGANIZATION,insurance_00208
+Adecco,Bell Ward,PERSON,insurance_00208
+Adecco,Chandler MacLeod,PERSON,insurance_00208
+Adecco,Crown World Mobility,ORGANIZATION,insurance_00208
+Adecco,Cubiks,PERSON,insurance_00208
+Adecco,DDI,ORGANIZATION,insurance_00208
+Adecco,Deloitte,ORGANIZATION,insurance_00208
+Adecco,EY,ORGANIZATION,insurance_00208
+Adecco,EgonZehnder,PERSON,insurance_00208
+Adecco,Far East Hospitality,ORGANIZATION,insurance_00208
+Adecco,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208
+Adecco,HR solutions providers,ORGANIZATION,insurance_00208
+Advisors Alliance Group,Great Eastern,ORGANIZATION,insurance_00271|insurance_00274|insurance_00353|insurance_00506
+Advisors Alliance Group,Peter Tan Organisation,ORGANIZATION,insurance_00506
+Advisors Alliance Group,Prudential,ORGANIZATION,insurance_00506
+Allianz,Citi,ORGANIZATION,insurance_00423
+Allianz,EMEA,ORGANIZATION,insurance_00423
+American Express,Isabella,PERSON,insurance_00064
+American Express,Singapore Environment Council,ORGANIZATION,insurance_00064
+American Express,Teo,PERSON,insurance_00064
+American Express International,Isabella Loh,PERSON,insurance_00067
+American Express International,SEC,ORGANIZATION,insurance_00067
+American Express International,Teo,PERSON,insurance_00067
+Andre Czanik,Great Eastern,PERSON,insurance_00055
+Andre Czanik,IPs,PERSON,insurance_00055
+Andre Czanik,NTUC Income,PERSON,insurance_00055
+Aon,Asia Corporate Training,ORGANIZATION,insurance_00208
+Aon,Aviva,ORGANIZATION,insurance_00208|insurance_00249
+Aon,Bell Ward,PERSON,insurance_00208|insurance_00249
+Aon,Best Retirement & Pension Plan Provider,ORGANIZATION,insurance_00249
+Aon,Chandler MacLeod,PERSON,insurance_00208|insurance_00249
+Aon,Crown World Mobility,ORGANIZATION,insurance_00208
+Aon,Cubiks,PERSON,insurance_00208
+Aon,DDI,ORGANIZATION,insurance_00208|insurance_00249
+Aon,Deloitte,ORGANIZATION,insurance_00208|insurance_00249
+Aon,EY,ORGANIZATION,insurance_00208|insurance_00249
+Aon,EgonZehnder,PERSON,insurance_00208|insurance_00249
+Aon,Employee Insurance Provider,ORGANIZATION,insurance_00249
+Aon,Far East Hospitality,ORGANIZATION,insurance_00208
+Aon,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208|insurance_00249
+Aon,HR solutions providers,ORGANIZATION,insurance_00208
+Artificial Intelligence,Aviva,ORGANIZATION,insurance_00525
+Artificial Intelligence,NTUC Income,ORGANIZATION,insurance_00525
+Artificial Intelligence,Val Ji-hsuan Yap,PERSON,insurance_00525
+Asia Corporate Training,Aviva,ORGANIZATION,insurance_00208
+Asia Corporate Training,Bell Ward,PERSON,insurance_00208
+Asia Corporate Training,Chandler MacLeod,PERSON,insurance_00208
+Asia Corporate Training,Crown World Mobility,ORGANIZATION,insurance_00208
+Asia Corporate Training,Cubiks,PERSON,insurance_00208
+Asia Corporate Training,DDI,ORGANIZATION,insurance_00208
+Asia Corporate Training,Deloitte,ORGANIZATION,insurance_00208
+Asia Corporate Training,EY,ORGANIZATION,insurance_00208
+Asia Corporate Training,EgonZehnder,PERSON,insurance_00208
+Asia Corporate Training,Far East Hospitality,ORGANIZATION,insurance_00208
+Asia Corporate Training,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208
+Asia Corporate Training,HR solutions providers,ORGANIZATION,insurance_00208
+Aviva,Bell Ward,PERSON,insurance_00208|insurance_00249
+Aviva,Best Retirement & Pension Plan Provider,ORGANIZATION,insurance_00249
+Aviva,Chandler MacLeod,PERSON,insurance_00208|insurance_00249
+Aviva,Crown World Mobility,ORGANIZATION,insurance_00208
+Aviva,Cubiks,PERSON,insurance_00208
+Aviva,DDI,ORGANIZATION,insurance_00208|insurance_00249
+Aviva,Deloitte,ORGANIZATION,insurance_00208|insurance_00249
+Aviva,EY,ORGANIZATION,insurance_00208|insurance_00249
+Aviva,EgonZehnder,PERSON,insurance_00208|insurance_00249
+Aviva,ElderShield Review Committee,ORGANIZATION,insurance_00184
+Aviva,Employee Insurance Provider,ORGANIZATION,insurance_00249
+Aviva,Far East Hospitality,ORGANIZATION,insurance_00208
+Aviva,Fernand Lendoye,PERSON,insurance_00402
+Aviva,Fullerton,PERSON,insurance_00400
+Aviva,Fullerton Fund Management Company,ORGANIZATION,insurance_00400
+Aviva,Government,ORGANIZATION,insurance_00182|insurance_00184|insurance_00470
+Aviva,Great Eastern,ORGANIZATION,insurance_00003|insurance_00025|insurance_00182|insurance_00184|insurance_00272|insurance_00273|insurance_00421|insurance_00470|insurance_00505|insurance_00507
+Aviva,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208|insurance_00249
+Aviva,HR solutions providers,ORGANIZATION,insurance_00208
+Aviva,Health-tech firm,ORGANIZATION,insurance_00402
+Aviva,IP insurers,ORGANIZATION,insurance_00273|insurance_00505
+Aviva,IPs,ORGANIZATION,insurance_00273
+Aviva,Investment Managers,PERSON,insurance_00400
+Aviva,Lee Hsien Loong,PERSON,insurance_00003
+Aviva,Lion Global Investors,ORGANIZATION,insurance_00025
+Aviva,NSI Ventures,ORGANIZATION,insurance_00410
+Aviva,NTUC Income,ORGANIZATION,insurance_00003|insurance_00184|insurance_00230|insurance_00400|insurance_00421|insurance_00470|insurance_00525
+Aviva,Panel,ORGANIZATION,insurance_00421
+Aviva,Peter Tan,PERSON,insurance_00272
+Aviva,Peter Tan Organisation,ORGANIZATION,insurance_00272
+Aviva,PolicyPal,ORGANIZATION,insurance_00230
+Aviva,Prudential,ORGANIZATION,insurance_00025|insurance_00272|insurance_00273|insurance_00505|insurance_00507
+Aviva,Singaporeans,PERSON,insurance_00182
+Aviva,Val Ji-hsuan Yap,PERSON,insurance_00525
+Bell Ward,Best Retirement & Pension Plan Provider,PERSON,insurance_00249
+Bell Ward,Chandler MacLeod,PERSON,insurance_00208|insurance_00249
+Bell Ward,Crown World Mobility,PERSON,insurance_00208
+Bell Ward,Cubiks,PERSON,insurance_00208
+Bell Ward,DDI,PERSON,insurance_00208|insurance_00249
+Bell Ward,Deloitte,PERSON,insurance_00208|insurance_00249
+Bell Ward,EY,PERSON,insurance_00208|insurance_00249
+Bell Ward,EgonZehnder,PERSON,insurance_00208|insurance_00249
+Bell Ward,Employee Insurance Provider,PERSON,insurance_00249
+Bell Ward,Far East Hospitality,PERSON,insurance_00208
+Bell Ward,HR Vendors of the Year Awards,PERSON,insurance_00208|insurance_00249
+Bell Ward,HR solutions providers,PERSON,insurance_00208
+Best Employee Insurance Provider,HR Vendors,ORGANIZATION,insurance_00034
+Best Employee Insurance Provider,Human Resources,ORGANIZATION,insurance_00034
+Best Employee Insurance Provider,Zurich Insurance,ORGANIZATION,insurance_00034
+Best Retirement & Pension Plan Provider,Chandler MacLeod,PERSON,insurance_00249
+Best Retirement & Pension Plan Provider,DDI,ORGANIZATION,insurance_00249
+Best Retirement & Pension Plan Provider,Deloitte,ORGANIZATION,insurance_00249
+Best Retirement & Pension Plan Provider,EY,ORGANIZATION,insurance_00249
+Best Retirement & Pension Plan Provider,EgonZehnder,PERSON,insurance_00249
+Best Retirement & Pension Plan Provider,Employee Insurance Provider,ORGANIZATION,insurance_00249
+Best Retirement & Pension Plan Provider,HR Vendors of the Year Awards,ORGANIZATION,insurance_00249
+Biofourmis,NSI Ventures,PERSON,insurance_00397
+Bloomberg,OCBC,ORGANIZATION,insurance_00040
+Celine Le,Insurtech,PERSON,insurance_00346
+Chandler MacLeod,Crown World Mobility,PERSON,insurance_00208
+Chandler MacLeod,Cubiks,PERSON,insurance_00208
+Chandler MacLeod,DDI,PERSON,insurance_00208|insurance_00249
+Chandler MacLeod,Deloitte,PERSON,insurance_00208|insurance_00249
+Chandler MacLeod,EY,PERSON,insurance_00208|insurance_00249
+Chandler MacLeod,EgonZehnder,PERSON,insurance_00208|insurance_00249
+Chandler MacLeod,Employee Insurance Provider,PERSON,insurance_00249
+Chandler MacLeod,Far East Hospitality,PERSON,insurance_00208
+Chandler MacLeod,HR Vendors of the Year Awards,PERSON,insurance_00208|insurance_00249
+Chandler MacLeod,HR solutions providers,PERSON,insurance_00208
+Citi,EMEA,ORGANIZATION,insurance_00423
+Citi,Keller,PERSON,insurance_00440
+Citi,Sujoy Ghosh,PERSON,insurance_00440
+Credit Suisse,Great Eastern,ORGANIZATION,insurance_00030|insurance_00033|insurance_00190
+Credit Suisse,KKR,ORGANIZATION,insurance_00033
+Credit Suisse,Lee,PERSON,insurance_00030
+Credit Suisse,OCBC,ORGANIZATION,insurance_00001|insurance_00030|insurance_00033|insurance_00190
+Credit Suisse,Perennial,ORGANIZATION,insurance_00190
+Credit Suisse,UEL,ORGANIZATION,insurance_00001|insurance_00030
+Credit Suisse,WBL Corp,ORGANIZATION,insurance_00001
+Credit Suisse,Yanlord,ORGANIZATION,insurance_00190
+Crown World Mobility,Cubiks,PERSON,insurance_00208
+Crown World Mobility,DDI,ORGANIZATION,insurance_00208
+Crown World Mobility,Deloitte,ORGANIZATION,insurance_00208
+Crown World Mobility,EY,ORGANIZATION,insurance_00208
+Crown World Mobility,EgonZehnder,PERSON,insurance_00208
+Crown World Mobility,Far East Hospitality,ORGANIZATION,insurance_00208
+Crown World Mobility,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208
+Crown World Mobility,HR solutions providers,ORGANIZATION,insurance_00208
+Cubiks,DDI,PERSON,insurance_00208
+Cubiks,Deloitte,PERSON,insurance_00208
+Cubiks,EY,PERSON,insurance_00208
+Cubiks,EgonZehnder,PERSON,insurance_00208
+Cubiks,Far East Hospitality,PERSON,insurance_00208
+Cubiks,HR Vendors of the Year Awards,PERSON,insurance_00208
+Cubiks,HR solutions providers,PERSON,insurance_00208
+DBS,GEH,ORGANIZATION,insurance_00419
+DBS,Prudential,ORGANIZATION,insurance_00419
+DBS,Tokio Marine Insurance,ORGANIZATION,insurance_00419
+DDI,Deloitte,ORGANIZATION,insurance_00208|insurance_00249
+DDI,EY,ORGANIZATION,insurance_00208|insurance_00249
+DDI,EgonZehnder,PERSON,insurance_00208|insurance_00249
+DDI,Employee Insurance Provider,ORGANIZATION,insurance_00249
+DDI,Far East Hospitality,ORGANIZATION,insurance_00208
+DDI,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208|insurance_00249
+DDI,HR solutions providers,ORGANIZATION,insurance_00208
+DPS,Great Eastern,ORGANIZATION,insurance_00157
+DPS,NTUC Income,ORGANIZATION,insurance_00157
+Deloitte,EY,ORGANIZATION,insurance_00208|insurance_00249
+Deloitte,EgonZehnder,PERSON,insurance_00208|insurance_00249
+Deloitte,Employee Insurance Provider,ORGANIZATION,insurance_00249
+Deloitte,Far East Hospitality,ORGANIZATION,insurance_00208
+Deloitte,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208|insurance_00249
+Deloitte,HR solutions providers,ORGANIZATION,insurance_00208
+EY,EgonZehnder,PERSON,insurance_00208|insurance_00249
+EY,Employee Insurance Provider,ORGANIZATION,insurance_00249
+EY,Far East Hospitality,ORGANIZATION,insurance_00208
+EY,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208|insurance_00249
+EY,HR solutions providers,ORGANIZATION,insurance_00208
+EgonZehnder,Employee Insurance Provider,PERSON,insurance_00249
+EgonZehnder,Far East Hospitality,PERSON,insurance_00208
+EgonZehnder,HR Vendors of the Year Awards,PERSON,insurance_00208|insurance_00249
+EgonZehnder,HR solutions providers,PERSON,insurance_00208
+ElderShield Review Committee,Government,ORGANIZATION,insurance_00184
+ElderShield Review Committee,Great Eastern,ORGANIZATION,insurance_00184
+ElderShield Review Committee,NTUC Income,ORGANIZATION,insurance_00184
+Employee Insurance Provider,HR Vendors of the Year Awards,ORGANIZATION,insurance_00249
+Eugene Thuraisingam LLP,High Court,PERSON,insurance_00226
+Eugene Thuraisingam LLP,Ramesh Krishnan,PERSON,insurance_00226
+Far East Hospitality,HR Vendors of the Year Awards,ORGANIZATION,insurance_00208
+Far East Hospitality,HR solutions providers,ORGANIZATION,insurance_00208
+Fernand Lendoye,Health-tech firm,PERSON,insurance_00402
+Fullerton,Fullerton Fund Management Company,PERSON,insurance_00400
+Fullerton,Investment Managers,PERSON,insurance_00400
+Fullerton,NTUC Income,PERSON,insurance_00400
+Fullerton Fund Management Company,Investment Managers,PERSON,insurance_00400
+Fullerton Fund Management Company,NTUC Income,ORGANIZATION,insurance_00400
+GEG,Great Eastern,ORGANIZATION,insurance_00177
+GEG,Overseas Assurance Corporation,ORGANIZATION,insurance_00177
+GEH,OCBC,ORGANIZATION,insurance_00509|insurance_00514
+GEH,Prudential,ORGANIZATION,insurance_00419
+GEH,Tokio Marine Insurance,ORGANIZATION,insurance_00419
+GREAT Eastern,OCBC,ORGANIZATION,insurance_00276
+Government,Great Eastern,ORGANIZATION,insurance_00182|insurance_00184|insurance_00470
+Government,NTUC Income,ORGANIZATION,insurance_00184|insurance_00470
+Government,Singaporeans,PERSON,insurance_00182
+Great Eastern,IP insurers,ORGANIZATION,insurance_00273|insurance_00505
+Great Eastern,IPs,ORGANIZATION,insurance_00055|insurance_00273
+Great Eastern,Insurers,ORGANIZATION,insurance_00390
+Great Eastern,KKR,ORGANIZATION,insurance_00033
+Great Eastern,LIA,ORGANIZATION,insurance_00516
+Great Eastern,Lee,PERSON,insurance_00030|insurance_00162|insurance_00198
+Great Eastern,Lee Hsien Loong,PERSON,insurance_00003
+Great Eastern,Life Insurance Association,ORGANIZATION,insurance_00119|insurance_00521
+Great Eastern,Life Insurance Association Singapore,ORGANIZATION,insurance_00269|insurance_00398
+Great Eastern,Lion Global Investors,ORGANIZATION,insurance_00025
+Great Eastern,NTUC Income,ORGANIZATION,insurance_00003|insurance_00055|insurance_00157|insurance_00184|insurance_00277|insurance_00421|insurance_00470
+Great Eastern,OAC,ORGANIZATION,insurance_00119
+Great Eastern,OCBC,ORGANIZATION,insurance_00007|insurance_00030|insurance_00033|insurance_00119|insurance_00130|insurance_00162|insurance_00190|insurance_00198|insurance_00268|insurance_00319
+Great Eastern,Overseas Assurance Corporation,ORGANIZATION,insurance_00177
+Great Eastern,Panel,ORGANIZATION,insurance_00421
+Great Eastern,Patrick Teow,PERSON,insurance_00119
+Great Eastern,Perennial,ORGANIZATION,insurance_00190
+Great Eastern,Peter Tan,PERSON,insurance_00272
+Great Eastern,Peter Tan Organisation,ORGANIZATION,insurance_00272|insurance_00506
+Great Eastern,Peter Tay,PERSON,insurance_00277
+Great Eastern,Prudential,ORGANIZATION,insurance_00025|insurance_00272|insurance_00273|insurance_00390|insurance_00505|insurance_00506|insurance_00507
+Great Eastern,Singaporeans,PERSON,insurance_00182
+Great Eastern,Swiss Re,ORGANIZATION,insurance_00390
+Great Eastern,The Life Insurance Association,ORGANIZATION,insurance_00516
+Great Eastern,The Straits Times,ORGANIZATION,insurance_00267
+Great Eastern,UE,ORGANIZATION,insurance_00162|insurance_00198
+Great Eastern,UEL,ORGANIZATION,insurance_00030
+Great Eastern,WBL,ORGANIZATION,insurance_00162|insurance_00198
+Great Eastern,Wall Street Journal,ORGANIZATION,insurance_00268
+Great Eastern,Yanlord,ORGANIZATION,insurance_00190
+HR Vendors,Human Resources,ORGANIZATION,insurance_00034
+HR Vendors,Zurich Insurance,ORGANIZATION,insurance_00034
+HR Vendors of the Year Awards,HR solutions providers,ORGANIZATION,insurance_00208
+High Court,Man,PERSON,insurance_00222
+High Court,Prudential,ORGANIZATION,insurance_00222|insurance_00223
+High Court,Ramesh,PERSON,insurance_00222
+High Court,Ramesh Krishnan,PERSON,insurance_00223|insurance_00226
+Human Resources,Zurich Insurance,ORGANIZATION,insurance_00034
+IP insurers,IPs,ORGANIZATION,insurance_00273
+IP insurers,Prudential,ORGANIZATION,insurance_00273|insurance_00505
+IPs,NTUC Income,ORGANIZATION,insurance_00055
+IPs,Prudential,ORGANIZATION,insurance_00273
+Insurers,Prudential,ORGANIZATION,insurance_00390
+Insurers,Swiss Re,ORGANIZATION,insurance_00390
+Insurtech,Singapore Business Review,ORGANIZATION,insurance_00510
+Investment Managers,NTUC Income,PERSON,insurance_00400
+Isabella,Singapore Environment Council,PERSON,insurance_00064
+Isabella,Teo,PERSON,insurance_00064
+Isabella Loh,SEC,PERSON,insurance_00067
+Isabella Loh,Teo,PERSON,insurance_00067
+KKR,OCBC,ORGANIZATION,insurance_00033
+Keller,Sujoy Ghosh,PERSON,insurance_00440
+Krung Thai Bank,Siam Commercial Bank,ORGANIZATION,insurance_00000
+LIA,The Life Insurance Association,ORGANIZATION,insurance_00516
+Lee,OCBC,PERSON,insurance_00030|insurance_00162|insurance_00198
+Lee,UE,PERSON,insurance_00162|insurance_00198
+Lee,UEL,PERSON,insurance_00030
+Lee,WBL,PERSON,insurance_00162|insurance_00198
+Lee Hsien Loong,NTUC Income,PERSON,insurance_00003
+Life Insurance Association,OAC,ORGANIZATION,insurance_00119
+Life Insurance Association,OCBC,ORGANIZATION,insurance_00119
+Life Insurance Association,Patrick Teow,PERSON,insurance_00119
+Lim Kwong Fei,Mercedes-Benz,PERSON,insurance_00395
+Lion Global Investors,Prudential,ORGANIZATION,insurance_00025
+Man,Prudential,PERSON,insurance_00222
+Man,Ramesh,PERSON,insurance_00222
+NTUC Income,Panel,ORGANIZATION,insurance_00421
+NTUC Income,Peter Tay,PERSON,insurance_00277
+NTUC Income,PolicyPal,ORGANIZATION,insurance_00230
+NTUC Income,Val Ji-hsuan Yap,PERSON,insurance_00525
+OAC,OCBC,ORGANIZATION,insurance_00119
+OAC,Patrick Teow,PERSON,insurance_00119
+OCBC,OUE,ORGANIZATION,insurance_00002
+OCBC,Owners,PERSON,insurance_00002
+OCBC,Patrick Teow,PERSON,insurance_00119
+OCBC,Perennial,ORGANIZATION,insurance_00190
+OCBC,UE,ORGANIZATION,insurance_00162|insurance_00198
+OCBC,UEL,ORGANIZATION,insurance_00001|insurance_00002|insurance_00030|insurance_00041
+OCBC,WBL,ORGANIZATION,insurance_00162|insurance_00198
+OCBC,WBL Corp,ORGANIZATION,insurance_00001
+OCBC,Wall Street Journal,ORGANIZATION,insurance_00268
+OCBC,Yanlord,ORGANIZATION,insurance_00190
+OUE,Owners,PERSON,insurance_00002
+OUE,UEL,ORGANIZATION,insurance_00002
+Owners,UEL,PERSON,insurance_00002
+Perennial,Yanlord,ORGANIZATION,insurance_00190
+Peter Tan,Peter Tan Organisation,PERSON,insurance_00272
+Peter Tan,Prudential,PERSON,insurance_00272
+Peter Tan Organisation,Prudential,ORGANIZATION,insurance_00272|insurance_00506
+Pico,Pico Pro,PERSON,insurance_00354
+Pico,Prudential,PERSON,insurance_00354
+Pico Group,Pico Pro,ORGANIZATION,insurance_00403
+Pico Group,Prudential,ORGANIZATION,insurance_00403
+Pico Pro,Prudential,ORGANIZATION,insurance_00354|insurance_00403
+Prudential,Ramesh,PERSON,insurance_00222
+Prudential,Ramesh Krishnan,PERSON,insurance_00223
+Prudential,Swiss Re,ORGANIZATION,insurance_00390
+Prudential,Tokio Marine Holdings,ORGANIZATION,insurance_00511
+Prudential,Tokio Marine Insurance,ORGANIZATION,insurance_00419
+Prudential,Zurich Insurance,ORGANIZATION,insurance_00511
+SEC,Teo,PERSON,insurance_00067
+Singapore Environment Council,Teo,PERSON,insurance_00064
+Tokio Marine Holdings,Zurich Insurance,ORGANIZATION,insurance_00511
+UE,WBL,ORGANIZATION,insurance_00162|insurance_00198
+UEL,WBL Corp,ORGANIZATION,insurance_00001
